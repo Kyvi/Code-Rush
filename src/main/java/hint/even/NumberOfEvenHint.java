@@ -18,6 +18,11 @@ public class NumberOfEvenHint extends Hint {
 
     @Override
     public String showHint() {
+        if (numberOfEven == 0) {
+            return "- Il n'y a aucun chiffre pair.";
+        } else if (numberOfEven == Code.CODE_LENGTH) {
+            return "- Tous les chiffres sont pairs.";
+        }
         return "- Il y a exactement " + numberOfEven + " chiffres pairs.";
     }
 

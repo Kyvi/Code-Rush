@@ -5,41 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff32c687-bc73-41c0-9c80-e7183105e10e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/EqualityHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/FollowingHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/Hint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/HintGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/HintProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/HintType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/MaxDiffHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/NoNumberHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/NumberHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/NumberOfOverFiveHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/PositionTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllEvenHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllOddHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/even/EvenHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllEvenSumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllOddSumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllSumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/DoubleSumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/SumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/sum/TripleSumHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/RandomGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

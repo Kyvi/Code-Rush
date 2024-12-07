@@ -18,6 +18,11 @@ public class NumberOfOddHint extends Hint {
 
     @Override
     public String showHint() {
+        if (numberOfOdd == 0) {
+            return "- Il n'y a aucun chiffre impair.";
+        } else if (numberOfOdd == Code.CODE_LENGTH) {
+            return "- Tous les chiffres sont impairs.";
+        }
         return "- Il y a exactement " + numberOfOdd + " chiffres impairs.";
     }
 
