@@ -11,9 +11,15 @@ public class AllOddSumHint extends SumHint{
         super(HintType.ALL_ODD_SUM_HINT, sum);
     }
 
+
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         return "- La somme de tous les chiffres impairs est " + sum + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The sum of all odd digits is " + sum + ".";
     }
 
     @Override

@@ -16,8 +16,13 @@ public class NoNumberHint extends Hint{
 
 
     @Override
-    public String showHint(){
+    public String showHintInFrench() {
         return "- Le code ne contient pas de chiffre " + number + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The code does not contain the number " + number + ".";
     }
 
     @Override

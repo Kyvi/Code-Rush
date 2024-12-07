@@ -4,6 +4,7 @@ import hint.Hint;
 import hint.HintType;
 import hint.PositionTranslator;
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -21,9 +22,19 @@ public class TripleSumHint extends SumHint{
         this.position3 = position3;
     }
 
+
     @Override
-    public String showHint(){
-        return "- La somme des chiffres en " + PositionTranslator.translatePosition(position1) + ", " + PositionTranslator.translatePosition(position2) + " et " + PositionTranslator.translatePosition(position3) + " positions est " + sum + ".";
+    public String showHintInFrench() {
+        return "- La somme des chiffres en " + PositionTranslator.translatePosition(position1, Language.FRENCH)
+                + ", " + PositionTranslator.translatePosition(position2, Language.FRENCH) + " et "
+                + PositionTranslator.translatePosition(position3, Language.FRENCH) + " positions est " + sum + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The sum of the digits at " + PositionTranslator.translatePosition(position1, Language.ENGLISH)
+                + ", " + PositionTranslator.translatePosition(position2, Language.ENGLISH) + " and "
+                + PositionTranslator.translatePosition(position3, Language.ENGLISH) + " positions is " + sum + ".";
     }
 
     @Override

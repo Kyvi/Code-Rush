@@ -1,6 +1,7 @@
 package hint;
 
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -26,8 +27,13 @@ public class NumberHint extends Hint{
 
 
     @Override
-    public String showHint(){
-        return "- Le chiffre en " + PositionTranslator.translatePosition(position) + " position est " + number + ".";
+    public String showHintInFrench() {
+        return "- Le chiffre en " + PositionTranslator.translatePosition(position, Language.FRENCH) + " position est " + number + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The digit at " + PositionTranslator.translatePosition(position, Language.ENGLISH) + " position is " + number + ".";
     }
 
     @Override

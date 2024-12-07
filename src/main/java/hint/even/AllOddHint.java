@@ -4,6 +4,7 @@ import hint.Hint;
 import hint.HintType;
 import hint.PositionTranslator;
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -18,32 +19,46 @@ public class AllOddHint extends Hint {
         this.oddPositions = oddPositions;
     }
 
-    @Override
-    public String showHint() {
-        if(oddPositions.isEmpty()){
-            return "- Tous les chiffres sont pairs.";
-        }
-        else if(oddPositions.size() == Code.CODE_LENGTH){
-            return "- Tous les chiffres sont impairs.";
-        }
-        String positionString = buildPositionString();
-        return "- Les chiffres en " + positionString + " positions sont impairs. Les autres sont pairs.";
-    }
 
-    private String buildPositionString() {
+    private String buildPositionString(Language language){
+        String and = language == Language.FRENCH ? " et " : " and ";
         StringBuilder positionString = new StringBuilder();
         int size = oddPositions.size();
         int count = 0;
         for (Integer position : oddPositions) {
-            positionString.append(PositionTranslator.translatePosition(position));
+            positionString.append(PositionTranslator.translatePosition(position, language));
             if (count == size - 2) {
-                positionString.append(" et ");
+                positionString.append(and);
             } else if (count < size - 2) {
                 positionString.append(", ");
             }
             count++;
         }
         return positionString.toString();
+    }
+
+    @Override
+    public String showHintInFrench() {
+        if(oddPositions.isEmpty()){
+            return "- Tous les chiffres sont pairs.";
+        }
+        else if(oddPositions.size() == Code.CODE_LENGTH){
+            return "- Tous les chiffres sont impairs.";
+        }
+        String positionString = buildPositionString(Language.FRENCH);
+        return "- Les chiffres en " + positionString + " positions sont impairs. Les autres sont pairs.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if(oddPositions.isEmpty()){
+            return "- All digits are even.";
+        }
+        else if(oddPositions.size() == Code.CODE_LENGTH){
+            return "- All digits are odd.";
+        }
+        String positionString = buildPositionString(Language.ENGLISH);
+        return "- The digits at " + positionString + " positions are odd. The others are even.";
     }
 
     @Override

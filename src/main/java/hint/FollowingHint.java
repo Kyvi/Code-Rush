@@ -1,6 +1,7 @@
 package hint;
 
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -14,36 +15,44 @@ public class FollowingHint extends Hint{
         this.followingPositions = followingPositions;
     }
 
-    @Override
-    public String showHint() {
-        if (followingPositions.isEmpty()){
-            return "- Il n'y a pas de chiffres qui se suivent.";
-        }
-        String positionString = buildPositionString();
-        return "- Les chiffres en " + positionString + " se suivent.";
-    }
+    private String buildPositionString(Language language) {
 
-    private String buildPositionString() {
-
+        String and = language == Language.FRENCH ? " et " : " and ";
+        String andThoseIn = language == Language.FRENCH ? " et ceux en " : " and those in ";
         StringBuilder positionString = new StringBuilder();
         for (int i = 0; i < followingPositions.size(); i++) {
             List<Integer> positions = followingPositions.get(i);
             for (int j = 0; j < positions.size(); j++) {
                 if (j == positions.size() - 1 && j != 0) {
-                    positionString.append(" et ");
+                    positionString.append(and);
                 } else if (j != 0) {
                     positionString.append(", ");
                 }
-                positionString.append(PositionTranslator.translatePosition(positions.get(j)));
-                if (j == positions.size() - 1 && j != 0) {
-                    positionString.append(" positions");
-                }
+                positionString.append(PositionTranslator.translatePosition(positions.get(j), language));
             }
             if (i != followingPositions.size() - 1) {
-                positionString.append(" et ceux en ");
+                positionString.append(andThoseIn);
             }
         }
         return positionString.toString();
+    }
+
+    @Override
+    public String showHintInFrench() {
+        if (followingPositions.isEmpty()){
+            return "- Il n'y a pas de chiffres qui se suivent.";
+        }
+        String positionString = buildPositionString(Language.FRENCH);
+        return "- Les chiffres en " + positionString + " positions se suivent.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if (followingPositions.isEmpty()){
+            return "- There are no consecutive digits.";
+        }
+        String positionString = buildPositionString(Language.ENGLISH);
+        return "- The digits at " + positionString + " positions are following each other.";
     }
 
     @Override

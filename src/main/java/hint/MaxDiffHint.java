@@ -14,8 +14,13 @@ public class MaxDiffHint extends Hint{
         this.maxDiff = maxDiff;
     }
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         return "- La différence entre le chiffre le plus grand et le plus petit est de " + maxDiff + ".";
+
+    }
+    @Override
+    public String showHintInEnglish() {
+        return "- The difference between the largest and smallest digit is " + maxDiff + ".";
     }
 
     @Override

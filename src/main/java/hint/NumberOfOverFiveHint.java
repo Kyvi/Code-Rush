@@ -14,8 +14,9 @@ public class NumberOfOverFiveHint extends Hint{
         this.numberOfOverFive = numberOfOverFive;
     }
 
+
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         if (numberOfOverFive == 0){
             return "- Il n'y a aucun chiffre superieur a 5.";
         } else
@@ -23,6 +24,17 @@ public class NumberOfOverFiveHint extends Hint{
             return "- Il y a exactement 1 chiffre superieur a 5.";
         }
         return "- Il y a exactement " + numberOfOverFive + " chiffres superieurs a 5.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if (numberOfOverFive == 0){
+            return "- There are no digits over 5.";
+        } else
+        if (numberOfOverFive == 1){
+            return "- There is exactly 1 digit over 5.";
+        }
+        return "- There are exactly " + numberOfOverFive + " digits over 5.";
     }
 
     @Override

@@ -3,6 +3,7 @@ import com.google.gson.GsonBuilder;
 import hint.Hint;
 import hint.HintGenerator;
 import model.Code;
+import model.Language;
 import model.Level;
 import util.RandomGenerator;
 
@@ -17,14 +18,16 @@ public class Main {
     public static void main(String[] args) {
 
         int nbLevels = 200;
-        Level[] levels = new Level[nbLevels];
+        Level[] frenchLevels = new Level[nbLevels];
+        Level[] englishLevels = new Level[nbLevels];
         for(int i=0; i<nbLevels; i++){
 
             RandomGenerator randomGenerator = new RandomGenerator(i+1);
             HintGenerator hintGenerator = new HintGenerator(randomGenerator);
 
             Set<Hint> hints = hintGenerator.generateHints();
-            List<String> levelHints = hints.stream().map(Hint::showHint).collect(Collectors.toList());
+            List<String> frenchLevelHints = hints.stream().map(hint -> hint.showHint(Language.FRENCH)).collect(Collectors.toList());
+            List<String> englishLevelHints = hints.stream().map(hint -> hint.showHint(Language.ENGLISH)).collect(Collectors.toList());
             //levelHints.add(0,"- Le code est de longueur " + Code.CODE_LENGTH + ", et contient des chiffres de 0 a 9.");
             /*System.out.println("Voici les indices :");
             System.out.println("Le code est de longueur " + Code.CODE_LENGTH + ", et contient des chiffres de 0 a 9.");
@@ -34,9 +37,12 @@ public class Main {
 
             Code code = hintGenerator.getSolutionCode();
 
-            Level level = new Level("Niveau " + (i+1), levelHints, code.toString());
+            Level frenchLevel = new Level("Niveau " + (i+1), frenchLevelHints, code.toString());
+            Level englishLevel = new Level("Level " + (i+1), englishLevelHints, code.toString());
+
             System.out.println("Niveau " + (i+1) + " généré avec succès !");
-            levels[i] = level;
+            frenchLevels[i] = frenchLevel;
+            englishLevels[i] = englishLevel;
 
         }
 
@@ -51,11 +57,18 @@ public class Main {
 
         // Convertir en JSON et écrire dans un fichier
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        try (FileWriter writer = new FileWriter("levels.json")) {
-            gson.toJson(levels, writer);
-            System.out.println("Fichier JSON généré avec succès !");
+        try (FileWriter writer = new FileWriter("levelsFR.json")) {
+            gson.toJson(frenchLevels, writer);
+            System.out.println("Fichier JSON FR généré avec succès !");
         } catch (IOException e) {
             System.err.println("Erreur lors de l'écriture du fichier JSON : " + e.getMessage());
+        }
+
+        try (FileWriter writer = new FileWriter("levelsEN.json")) {
+            gson.toJson(englishLevels, writer);
+            System.out.println("EN JSON file generated successfully!");
+        } catch (IOException e) {
+            System.err.println("Error writing JSON file: " + e.getMessage());
         }
 
 

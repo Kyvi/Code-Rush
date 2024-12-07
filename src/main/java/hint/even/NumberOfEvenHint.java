@@ -16,14 +16,25 @@ public class NumberOfEvenHint extends Hint {
         this.numberOfEven = numberOfEven;
     }
 
+
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         if (numberOfEven == 0) {
             return "- Il n'y a aucun chiffre pair.";
         } else if (numberOfEven == Code.CODE_LENGTH) {
             return "- Tous les chiffres sont pairs.";
         }
         return "- Il y a exactement " + numberOfEven + " chiffres pairs.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if (numberOfEven == 0) {
+            return "- There are no even digits.";
+        } else if (numberOfEven == Code.CODE_LENGTH) {
+            return "- All digits are even.";
+        }
+        return "- There are exactly " + numberOfEven + " even digits.";
     }
 
     @Override

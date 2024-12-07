@@ -17,13 +17,23 @@ public class NumberOfOddHint extends Hint {
     }
 
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         if (numberOfOdd == 0) {
             return "- Il n'y a aucun chiffre impair.";
         } else if (numberOfOdd == Code.CODE_LENGTH) {
             return "- Tous les chiffres sont impairs.";
         }
         return "- Il y a exactement " + numberOfOdd + " chiffres impairs.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if (numberOfOdd == 0) {
+            return "- There are no odd digits.";
+        } else if (numberOfOdd == Code.CODE_LENGTH) {
+            return "- All digits are odd.";
+        }
+        return "- There are exactly " + numberOfOdd + " odd digits.";
     }
 
     @Override

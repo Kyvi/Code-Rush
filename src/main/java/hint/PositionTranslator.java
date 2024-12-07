@@ -1,22 +1,24 @@
 package hint;
 
+import model.Language;
+
 public class PositionTranslator {
 
-    public static String translatePosition(int position){
+    public static String translatePosition(int position, Language language){
         if(position == 0) {
-            return "1e";
+            return language == Language.FRENCH ? "1e" : "1st";
         }
         if(position == 1) {
-            return "2e";
+            return language == Language.FRENCH ? "2e" : "2nd";
         }
         if(position == 2) {
-            return "3e";
+            return language == Language.FRENCH ? "3e" : "3rd";
         }
         if(position == 3) {
-            return "4e";
+            return language == Language.FRENCH ? "4e" : "4th";
         }
         if(position == 4) {
-            return "5e";
+            return language == Language.FRENCH ? "5e" : "5th";
         }
         return "";
     }

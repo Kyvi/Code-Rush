@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff32c687-bc73-41c0-9c80-e7183105e10e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Language.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/EqualityHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/EqualityHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/FollowingHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/FollowingHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/Hint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/Hint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/MaxDiffHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/MaxDiffHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/NoNumberHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NoNumberHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/NumberHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NumberHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/NumberOfOverFiveHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NumberOfOverFiveHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/PositionTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/PositionTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/AllEvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllEvenHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/AllOddHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllOddHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/EvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/EvenHint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllEvenSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllEvenSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllOddSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllOddSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/DoubleSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/DoubleSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/TripleSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/TripleSumHint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -34,14 +53,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

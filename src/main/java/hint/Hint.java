@@ -1,6 +1,7 @@
 package hint;
 
 import model.Code;
+import model.Language;
 
 import java.util.List;
 
@@ -12,7 +13,17 @@ public abstract class Hint implements Comparable<Hint>{
         this.hintType = hintType;
     }
 
-    public abstract String showHint();
+    public String showHint(Language language){
+        if(language == Language.FRENCH){
+            return showHintInFrench();
+        }
+        else{
+            return showHintInEnglish();
+        }
+    }
+
+    public abstract String showHintInFrench();
+    public abstract String showHintInEnglish();
 
 
     public abstract List<Code> filterCodes(List<Code> remainingCodes);

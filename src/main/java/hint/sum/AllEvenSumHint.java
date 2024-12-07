@@ -11,9 +11,15 @@ public class AllEvenSumHint extends SumHint{
         super(HintType.ALL_EVEN_SUM_HINT, sum);
     }
 
+
     @Override
-    public String showHint() {
+    public String showHintInFrench() {
         return "- La somme de tous les chiffres pairs est " + sum + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The sum of all even digits is " + sum + ".";
     }
 
     @Override

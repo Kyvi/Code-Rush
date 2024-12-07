@@ -3,6 +3,7 @@ package hint.sum;
 import hint.Hint;
 import hint.HintType;
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -20,9 +21,15 @@ public class DoubleSumHint extends SumHint{
         this.position2 = position2;
     }
 
+
     @Override
-    public String showHint(){
-        return "- La somme des chiffres en " + translatePosition(position1) + " et " + translatePosition(position2) + " position est " + sum + ".";
+    public String showHintInFrench() {
+        return "- La somme des chiffres en " + translatePosition(position1, Language.FRENCH) + " et " + translatePosition(position2, Language.FRENCH) + " position est " + sum + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The sum of the digits at " + translatePosition(position1, Language.ENGLISH) + " and " + translatePosition(position2, Language.ENGLISH) + " positions is " + sum + ".";
     }
 
     @Override

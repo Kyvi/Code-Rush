@@ -11,9 +11,15 @@ public class AllSumHint extends SumHint{
         super(HintType.ALL_SUM_HINT, sum);
     }
 
+
     @Override
-    public String showHint(){
+    public String showHintInFrench() {
         return "- La somme de tous les chiffres est " + sum + ".";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        return "- The sum of all digits is " + sum + ".";
     }
 
     @Override

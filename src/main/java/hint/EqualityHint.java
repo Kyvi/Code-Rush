@@ -1,6 +1,7 @@
 package hint;
 
 import model.Code;
+import model.Language;
 
 import java.util.List;
 import java.util.Objects;
@@ -14,36 +15,44 @@ public class EqualityHint extends Hint{
         this.equalPositions = equalPositions;
     }
 
-    @Override
-    public String showHint() {
-        if (equalPositions.isEmpty()){
-            return "- Tous les chiffres sont differents";
-        }
-        String positionString = buildPositionString();
-        return "- Les chiffres en " + positionString + " sont égaux.";
-    }
+    private String buildPositionString(Language language) {
 
-    private String buildPositionString() {
-
+        String and = language == Language.FRENCH ? " et " : " and ";
+        String andThoseIn = language == Language.FRENCH ? " et ceux en " : " and those in ";
         StringBuilder positionString = new StringBuilder();
         for (int i = 0; i < equalPositions.size(); i++) {
             List<Integer> positions = equalPositions.get(i);
             for (int j = 0; j < positions.size(); j++) {
                 if (j == positions.size() - 1 && j != 0) {
-                    positionString.append(" et ");
+                    positionString.append(and);
                 } else if (j != 0) {
                     positionString.append(", ");
                 }
-                positionString.append(PositionTranslator.translatePosition(positions.get(j)));
-                if (j == positions.size() - 1 && j != 0) {
-                    positionString.append(" positions");
-                }
+                positionString.append(PositionTranslator.translatePosition(positions.get(j), language));
             }
             if (i != equalPositions.size() - 1) {
-                positionString.append(" et ceux en ");
+                positionString.append(andThoseIn);
             }
         }
         return positionString.toString();
+    }
+
+    @Override
+    public String showHintInFrench() {
+        if (equalPositions.isEmpty()){
+            return "- Tous les chiffres sont differents";
+        }
+        String positionString = buildPositionString(Language.FRENCH);
+        return "- Les chiffres en " + positionString + " positions sont égaux.";
+    }
+
+    @Override
+    public String showHintInEnglish() {
+        if (equalPositions.isEmpty()){
+            return "- All the digits are different";
+        }
+        String positionString = buildPositionString(Language.ENGLISH);
+        return "- The digits at " + positionString + " are equal.";
     }
 
     @Override
