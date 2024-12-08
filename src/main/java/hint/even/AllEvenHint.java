@@ -44,6 +44,9 @@ public class AllEvenHint extends Hint {
         else if(evenPositions.size() == Code.CODE_LENGTH){
             return "- Tous les chiffres sont pairs.";
         }
+        else if(evenPositions.size() == 1){
+            return "- Le chiffre en " + buildPositionString(Language.FRENCH) + " position est pair. Les autres sont impairs.";
+        }
         String positionString = buildPositionString(Language.FRENCH);
         return "- Les chiffres en " + positionString + " positions sont pairs. Les autres sont impairs.";
     }
@@ -55,6 +58,9 @@ public class AllEvenHint extends Hint {
         }
         else if(evenPositions.size() == Code.CODE_LENGTH){
             return "- All digits are even.";
+        }
+        else if(evenPositions.size() == 1){
+            return "- The digit at " + buildPositionString(Language.ENGLISH) + " position is even. The others are odd.";
         }
         String positionString = buildPositionString(Language.ENGLISH);
         return "- The digits at " + positionString + " positions are even. The others are odd.";

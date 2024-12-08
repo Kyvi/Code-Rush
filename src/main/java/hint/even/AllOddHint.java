@@ -45,6 +45,9 @@ public class AllOddHint extends Hint {
         else if(oddPositions.size() == Code.CODE_LENGTH){
             return "- Tous les chiffres sont impairs.";
         }
+        else if(oddPositions.size() == 1){
+            return "- Le chiffre en " + buildPositionString(Language.FRENCH) + " position est impair. Les autres sont pairs.";
+        }
         String positionString = buildPositionString(Language.FRENCH);
         return "- Les chiffres en " + positionString + " positions sont impairs. Les autres sont pairs.";
     }
@@ -56,6 +59,9 @@ public class AllOddHint extends Hint {
         }
         else if(oddPositions.size() == Code.CODE_LENGTH){
             return "- All digits are odd.";
+        }
+        else if(oddPositions.size() == 1){
+            return "- The digit at " + buildPositionString(Language.ENGLISH) + " position is odd. The others are even.";
         }
         String positionString = buildPositionString(Language.ENGLISH);
         return "- The digits at " + positionString + " positions are odd. The others are even.";

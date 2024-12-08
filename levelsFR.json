@@ -318,7 +318,7 @@
     "name": "Niveau 29",
     "hints": [
       "- Les chiffres en 3e et 4e positions se suivent.",
-      "- Les chiffres en 3e positions sont pairs. Les autres sont impairs.",
+      "- Le chiffre en 3e position est pair. Les autres sont impairs.",
       "- La somme de tous les chiffres impairs est 30.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
@@ -340,7 +340,7 @@
     "name": "Niveau 31",
     "hints": [
       "- Le chiffre en 5e position est 2.",
-      "- Les chiffres en 4e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 4e position est impair. Les autres sont pairs.",
       "- La somme de tous les chiffres est 27.",
       "- Il y a exactement 4 chiffres superieurs a 5."
     ],
@@ -399,7 +399,7 @@
       "- Le code ne contient pas de chiffre 1.",
       "- La somme des chiffres en 1e et 2e position est 5.",
       "- La somme des chiffres en 3e, 4e et 5e positions est 8.",
-      "- Les chiffres en 1e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 1e position est impair. Les autres sont pairs.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 4."
     ],
     "correctAnswer": "32440"
@@ -476,7 +476,7 @@
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 5e position est 7.",
       "- La somme des chiffres en 2e, 3e et 5e positions est 18.",
-      "- Les chiffres en 3e positions sont pairs. Les autres sont impairs.",
+      "- Le chiffre en 3e position est pair. Les autres sont impairs.",
       "- La somme de tous les chiffres est 28.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
@@ -543,7 +543,7 @@
       "- Les chiffres en 4e et 5e positions se suivent.",
       "- Les chiffres en 2e et 5e et ceux en 1e et 3e positions sont égaux.",
       "- La somme de tous les chiffres pairs est 12.",
-      "- Les chiffres en 4e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 4e position est impair. Les autres sont pairs.",
       "- Il y a exactement 3 chiffres superieurs a 5."
     ],
     "correctAnswer": "06076"
@@ -838,7 +838,7 @@
       "- Les chiffres en 4e et 5e positions sont égaux.",
       "- La somme de tous les chiffres pairs est 28.",
       "- La somme de tous les chiffres impairs est 9.",
-      "- Les chiffres en 2e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 2e position est impair. Les autres sont pairs.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 3."
     ],
     "correctAnswer": "89866"
@@ -848,7 +848,7 @@
     "hints": [
       "- Les chiffres en 1e, 3e et 4e positions sont égaux.",
       "- La somme de tous les chiffres pairs est 6.",
-      "- Les chiffres en 2e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 2e position est impair. Les autres sont pairs.",
       "- La somme de tous les chiffres est 15.",
       "- Il y a exactement 2 chiffres superieurs a 5."
     ],
@@ -1335,7 +1335,7 @@
     "hints": [
       "- Le code ne contient pas de chiffre 8.",
       "- La somme de tous les chiffres pairs est 24.",
-      "- Les chiffres en 4e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 4e position est impair. Les autres sont pairs.",
       "- La somme de tous les chiffres est 29."
     ],
     "correctAnswer": "66656"
@@ -1672,7 +1672,7 @@
       "- Le chiffre en 3e position est 4.",
       "- La somme des chiffres en 2e et 4e position est 4.",
       "- La somme de tous les chiffres impairs est 5.",
-      "- Les chiffres en 1e positions sont impairs. Les autres sont pairs.",
+      "- Le chiffre en 1e position est impair. Les autres sont pairs.",
       "- La somme de tous les chiffres est 19."
     ],
     "correctAnswer": "54406"
@@ -1828,7 +1828,7 @@
       "- Le chiffre en 4e position est 4.",
       "- La somme des chiffres en 1e et 2e position est 16.",
       "- La somme des chiffres en 4e et 5e position est 9.",
-      "- Il y a exactement 1 chiffres impairs."
+      "- Il y a exactement un chiffre impair."
     ],
     "correctAnswer": "88645"
   },
@@ -1839,7 +1839,7 @@
       "- Le chiffre en 4e position est 2.",
       "- Le code ne contient pas de chiffre 8.",
       "- La somme des chiffres en 2e, 4e et 5e positions est 12.",
-      "- Il y a exactement 1 chiffres impairs.",
+      "- Il y a exactement un chiffre impair.",
       "- La somme de tous les chiffres est 21.",
       "- Il y a exactement 2 chiffres superieurs a 5."
     ],
@@ -1994,7 +1994,7 @@
       "- Les chiffres en 4e et 5e positions se suivent.",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- Le chiffre en 5e position est 7.",
-      "- Il y a exactement 1 chiffres pairs.",
+      "- Il y a exactement un chiffre pair.",
       "- La somme de tous les chiffres impairs est 12.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
