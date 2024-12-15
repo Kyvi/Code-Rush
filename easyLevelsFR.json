@@ -2109,5 +2109,15 @@
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "49932"
+  },
+  {
+    "name": "Niveau 200",
+    "hints": [
+      "- Les chiffres en 2e, 3e et 4e positions se suivent.",
+      "- Le chiffre en 1e position est 1.",
+      "- Le chiffre en 2e position est 4.",
+      "- La somme des chiffres est 21."
+    ],
+    "correctAnswer": "14565"
   }
 ]
