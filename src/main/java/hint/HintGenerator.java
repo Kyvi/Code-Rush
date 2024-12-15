@@ -128,7 +128,7 @@ public class HintGenerator {
                 case MAX_DIFF_HINT:
                     possibleHintTypes.add(type);
                     break;
-                case NUMBER_OF_OVER_FIVE_HINT:
+                case NUMBER_OF_OVER_FOUR_HINT:
                     possibleHintTypes.add(type);
                     break;
             }
@@ -184,7 +184,7 @@ public class HintGenerator {
         else if(hintType == HintType.MAX_DIFF_HINT){
             return generateMaxDiffHint(remainingCodes);
         }
-        else if(hintType == HintType.NUMBER_OF_OVER_FIVE_HINT){
+        else if(hintType == HintType.NUMBER_OF_OVER_FOUR_HINT){
             return generateNumberOfOverFiveHint(remainingCodes);
         }
         throw new IllegalArgumentException("Hint type not recognized");
@@ -192,8 +192,8 @@ public class HintGenerator {
 
     private Hint generateNumberOfOverFiveHint(List<Code> remainingCodes) {
         Code code = remainingCodes.get(randomGenerator.generateRandomInt(remainingCodes.size()));
-        int numberOfOverFive = code.getNumberOver(5);
-        return new NumberOfOverFiveHint(numberOfOverFive);
+        int numberOfOverFive = code.getNumberOver(4);
+        return new NumberOfOverFourHint(numberOfOverFive);
     }
 
     private Hint generateMaxDiffHint(List<Code> remainingCodes) {

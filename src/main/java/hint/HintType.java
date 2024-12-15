@@ -19,7 +19,7 @@ public enum HintType {
     ALL_ODD_SUM_HINT(Set.of(HintProperty.EVEN, HintProperty.SUM)),
     ALL_ODD_HINT(Set.of(HintProperty.EVEN)),
     ALL_SUM_HINT(Set.of(HintProperty.SUM)),
-    NUMBER_OF_OVER_FIVE_HINT(Collections.emptySet()),
+    NUMBER_OF_OVER_FOUR_HINT(Collections.emptySet()),
 
     MAX_DIFF_HINT(Collections.emptySet());
 
@@ -34,4 +34,7 @@ public enum HintType {
     }
 
 
+    public boolean isEasy() {
+        return this == NUMBER_HINT;
+    }
 }

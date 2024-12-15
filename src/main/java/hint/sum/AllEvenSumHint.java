@@ -14,7 +14,7 @@ public class AllEvenSumHint extends SumHint{
 
     @Override
     public String showHintInFrench() {
-        return "- La somme de tous les chiffres pairs est " + sum + ".";
+        return "- La somme des chiffres pairs est " + sum + ".";
     }
 
     @Override

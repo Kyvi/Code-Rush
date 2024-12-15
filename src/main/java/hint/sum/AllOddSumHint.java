@@ -14,7 +14,7 @@ public class AllOddSumHint extends SumHint{
 
     @Override
     public String showHintInFrench() {
-        return "- La somme de tous les chiffres impairs est " + sum + ".";
+        return "- La somme des chiffres impairs est " + sum + ".";
     }
 
     @Override
