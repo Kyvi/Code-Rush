@@ -18,12 +18,16 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int nbLevels = 500;
+        int nbLevels = 2000;
         int nbEasy = 0;
+        int nbNormal = 0;
+        int nbHard = 0;
         List<Level> easyFrenchLevels = new ArrayList<>();
         List<Level> easyEnglishLevels = new ArrayList<>();
-        List<Level> frenchLevels = new ArrayList<>();
-        List<Level> englishLevels = new ArrayList<>();
+        List<Level> normalFrenchLevels = new ArrayList<>();
+        List<Level> normalEnglishLevels = new ArrayList<>();
+        List<Level> hardFrenchLevels = new ArrayList<>();
+        List<Level> hardEnglishLevels = new ArrayList<>();
         for(int i=0; i<nbLevels; i++){
 
             RandomGenerator randomGenerator = new RandomGenerator(i+1);
@@ -32,6 +36,7 @@ public class Main {
             Set<Hint> hints = hintGenerator.generateHints();
 
             boolean isEasy = hints.size() < 5 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 1;
+            boolean isHard = hints.size() >= 5 && hints.stream().noneMatch(hint -> hint.getHintType().isEasy());
 
             List<String> frenchLevelHints = hints.stream().map(hint -> hint.showHint(Language.FRENCH)).collect(Collectors.toList());
             List<String> englishLevelHints = hints.stream().map(hint -> hint.showHint(Language.ENGLISH)).collect(Collectors.toList());
@@ -44,20 +49,38 @@ public class Main {
 
             Code code = hintGenerator.getSolutionCode();
 
-            Level frenchLevel = new Level("Niveau " + (isEasy ? nbEasy+1 : i+1-nbEasy), frenchLevelHints, code.toString());
-            Level englishLevel = new Level("Level " + (isEasy ? nbEasy+1 : i+1-nbEasy), englishLevelHints, code.toString());
+            int levelNumber = i+1;
+            if(isEasy){
+                levelNumber = nbEasy+1;
+            }
+            else if(!isHard){
+                levelNumber = nbNormal+1;
+            }
+            else{
+                levelNumber = nbHard+1;
+            }
+            Level frenchLevel = new Level("Niveau " + levelNumber, frenchLevelHints, code.toString());
+            Level englishLevel = new Level("Level " + levelNumber, englishLevelHints, code.toString());
 
             System.out.println("Niveau " + (i+1) + " généré avec succès !");
             System.out.println("Nombre de niveau facile : " + nbEasy);
+            System.out.println("Nombre de niveau moyen : " + nbNormal);
+            System.out.println("Nombre de niveau difficile : " + nbHard);
 
             if(isEasy){
                 easyFrenchLevels.add(frenchLevel);
                 easyEnglishLevels.add(englishLevel);
                 nbEasy++;
             }
+            else if(isHard){
+                hardFrenchLevels.add(frenchLevel);
+                hardEnglishLevels.add(englishLevel);
+                nbHard++;
+            }
             else{
-                frenchLevels.add(frenchLevel);
-                englishLevels.add(englishLevel);
+                normalFrenchLevels.add(frenchLevel);
+                normalEnglishLevels.add(englishLevel);
+                nbNormal++;
             }
 
         }
@@ -73,15 +96,15 @@ public class Main {
 
         // Convertir en JSON et écrire dans un fichier
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        try (FileWriter writer = new FileWriter("levelsFR.json")) {
-            gson.toJson(frenchLevels, writer);
+        try (FileWriter writer = new FileWriter("normalLevelsFR.json")) {
+            gson.toJson(normalFrenchLevels, writer);
             System.out.println("Fichier JSON FR généré avec succès !");
         } catch (IOException e) {
             System.err.println("Erreur lors de l'écriture du fichier JSON : " + e.getMessage());
         }
 
-        try (FileWriter writer = new FileWriter("levelsEN.json")) {
-            gson.toJson(englishLevels, writer);
+        try (FileWriter writer = new FileWriter("normalLevelsEN.json")) {
+            gson.toJson(normalEnglishLevels, writer);
             System.out.println("EN JSON file generated successfully!");
         } catch (IOException e) {
             System.err.println("Error writing JSON file: " + e.getMessage());
@@ -89,14 +112,28 @@ public class Main {
 
         try (FileWriter writer = new FileWriter("easyLevelsFR.json")) {
             gson.toJson(easyFrenchLevels, writer);
-            System.out.println("Fichier JSON FR facile généré avec succès !");
+            System.out.println("Fichier JSON FR easy facile généré avec succès !");
         } catch (IOException e) {
             System.err.println("Erreur lors de l'écriture du fichier JSON facile : " + e.getMessage());
         }
 
         try (FileWriter writer = new FileWriter("easyLevelsEN.json")) {
             gson.toJson(easyEnglishLevels, writer);
-            System.out.println("EN JSON file generated successfully!");
+            System.out.println("EN JSON file easy generated successfully!");
+        } catch (IOException e) {
+            System.err.println("Error writing JSON file: " + e.getMessage());
+        }
+
+        try (FileWriter writer = new FileWriter("hardLevelsFR.json")) {
+            gson.toJson(hardFrenchLevels, writer);
+            System.out.println("Fichier JSON FR difficile généré avec succès !");
+        } catch (IOException e) {
+            System.err.println("Erreur lors de l'écriture du fichier JSON : " + e.getMessage());
+        }
+
+        try (FileWriter writer = new FileWriter("hardLevelsEN.json")) {
+            gson.toJson(hardEnglishLevels, writer);
+            System.out.println("EN JSON file hard generated successfully!");
         } catch (IOException e) {
             System.err.println("Error writing JSON file: " + e.getMessage());
         }

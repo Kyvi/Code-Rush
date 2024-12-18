@@ -1,0 +1,3441 @@
+[
+  {
+    "name": "Level 1",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 15.",
+      "- The sum of all odd digits is 14.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "56296"
+  },
+  {
+    "name": "Level 2",
+    "hints": [
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 15.",
+      "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 14.",
+      "- The sum of all odd digits is 8.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "64534"
+  },
+  {
+    "name": "Level 3",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 8.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 2.",
+      "- All digits are even.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "62008"
+  },
+  {
+    "name": "Level 4",
+    "hints": [
+      "- The sum of the digits at 1st, 2nd and 5th positions is 19.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 15.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 26.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "58486"
+  },
+  {
+    "name": "Level 5",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 3rd and 4th positions is 15.",
+      "- The sum of all even digits is 20.",
+      "- The sum of all digits is 38."
+    ],
+    "correctAnswer": "69698"
+  },
+  {
+    "name": "Level 6",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 15.",
+      "- The sum of all even digits is 18.",
+      "- The digits at 1st and 2nd positions are odd. The others are even.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "97828"
+  },
+  {
+    "name": "Level 7",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 1st and 2nd positions is 5.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 8.",
+      "- The digit at 1st position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "32440"
+  },
+  {
+    "name": "Level 8",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The digits at 1st, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 24.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "83238"
+  },
+  {
+    "name": "Level 9",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The code does not contain the number 2.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 14.",
+      "- The sum of all even digits is 8."
+    ],
+    "correctAnswer": "54554"
+  },
+  {
+    "name": "Level 10",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 5th and those in 1st and 3rd are equal.",
+      "- The sum of all even digits is 12.",
+      "- The sum of all odd digits is 7.",
+      "- The digit at 4th position is odd. The others are even."
+    ],
+    "correctAnswer": "06076"
+  },
+  {
+    "name": "Level 11",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 6.",
+      "- The sum of all odd digits is 23.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "90569"
+  },
+  {
+    "name": "Level 12",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 5.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all odd digits is 6.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "00541"
+  },
+  {
+    "name": "Level 13",
+    "hints": [
+      "- The sum of the digits at 3rd and 4th positions is 9.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 11.",
+      "- The digits at 2nd and 3rd positions are even. The others are odd.",
+      "- The sum of all odd digits is 11.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "56451"
+  },
+  {
+    "name": "Level 14",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 11.",
+      "- The sum of all digits is 23.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "33269"
+  },
+  {
+    "name": "Level 15",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of all even digits is 28.",
+      "- The sum of all odd digits is 9.",
+      "- The digit at 2nd position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "89866"
+  },
+  {
+    "name": "Level 16",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 18.",
+      "- The sum of all odd digits is 18.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "09980"
+  },
+  {
+    "name": "Level 17",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 16.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 11.",
+      "- There are exactly 3 even digits.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "67832"
+  },
+  {
+    "name": "Level 18",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 9.",
+      "- The sum of all odd digits is 1.",
+      "- The sum of all digits is 11."
+    ],
+    "correctAnswer": "81020"
+  },
+  {
+    "name": "Level 19",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 5.",
+      "- The sum of all odd digits is 12.",
+      "- The digits at 1st and 2nd positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "93020"
+  },
+  {
+    "name": "Level 20",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all odd digits is 17.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "74374"
+  },
+  {
+    "name": "Level 21",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 15.",
+      "- The digits at 1st and 2nd positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "97800"
+  },
+  {
+    "name": "Level 22",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 14.",
+      "- The digits at 2nd and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 27.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "54990"
+  },
+  {
+    "name": "Level 23",
+    "hints": [
+      "- The digits at 1st, 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 15.",
+      "- There are exactly 3 even digits.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "67832"
+  },
+  {
+    "name": "Level 24",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all odd digits is 19.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "22199"
+  },
+  {
+    "name": "Level 25",
+    "hints": [
+      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The digits at 1st and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "14456"
+  },
+  {
+    "name": "Level 26",
+    "hints": [
+      "- The digits at 4th and 5th are equal.",
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 1st and 2nd positions is 8.",
+      "- The sum of the digits at 1st and 5th positions is 12.",
+      "- The sum of all even digits is 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "35499"
+  },
+  {
+    "name": "Level 27",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 8.",
+      "- The digits at 2nd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 9.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "70110"
+  },
+  {
+    "name": "Level 28",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 12.",
+      "- The sum of all digits is 28.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "34696"
+  },
+  {
+    "name": "Level 29",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 1st and 2nd positions is 5.",
+      "- The sum of the digits at 2nd and 4th positions is 3.",
+      "- The sum of all even digits is 14."
+    ],
+    "correctAnswer": "23408"
+  },
+  {
+    "name": "Level 30",
+    "hints": [
+      "- The sum of the digits at 3rd and 4th positions is 1.",
+      "- The digits at 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 2.",
+      "- The sum of all digits is 13.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "55102"
+  },
+  {
+    "name": "Level 31",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 6.",
+      "- The sum of all odd digits is 5.",
+      "- The digit at 2nd position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "05680"
+  },
+  {
+    "name": "Level 32",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 12.",
+      "- The sum of all odd digits is 20.",
+      "- The sum of all digits is 24."
+    ],
+    "correctAnswer": "71547"
+  },
+  {
+    "name": "Level 33",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 3rd and 4th positions is 11.",
+      "- The sum of all even digits is 16.",
+      "- The digits at 3rd and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 20.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "62381"
+  },
+  {
+    "name": "Level 34",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 20.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 18.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "97837"
+  },
+  {
+    "name": "Level 35",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 3.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 18.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "03960"
+  },
+  {
+    "name": "Level 36",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The digits at 3rd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 20.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "42734"
+  },
+  {
+    "name": "Level 37",
+    "hints": [
+      "- The digits at 2nd, 3rd and 5th are equal.",
+      "- The code does not contain the number 5.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 10.",
+      "- The sum of all even digits is 14.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "14424"
+  },
+  {
+    "name": "Level 38",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 1st and 5th positions is 5.",
+      "- The sum of all digits is 22.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "45481"
+  },
+  {
+    "name": "Level 39",
+    "hints": [
+      "- The digits at 3rd, 4th and 5th are equal.",
+      "- The code does not contain the number 3.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 20.",
+      "- The digit at 2nd position is even. The others are odd.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "12999"
+  },
+  {
+    "name": "Level 40",
+    "hints": [
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The digit at 3rd position is even. The others are odd.",
+      "- The sum of all even digits is 6.",
+      "- The sum of all odd digits is 16.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "73633"
+  },
+  {
+    "name": "Level 41",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st, 2nd and 4th are equal.",
+      "- There are exactly 3 odd digits.",
+      "- The sum of all digits is 17.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "33632"
+  },
+  {
+    "name": "Level 42",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 19.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "01989"
+  },
+  {
+    "name": "Level 43",
+    "hints": [
+      "- The digits at 2nd, 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 19.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 13.",
+      "- All digits are odd.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "57717"
+  },
+  {
+    "name": "Level 44",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 9.",
+      "- The sum of all odd digits is 17.",
+      "- The digits at 1st, 3rd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "72370"
+  },
+  {
+    "name": "Level 45",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 10.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all digits is 13."
+    ],
+    "correctAnswer": "16123"
+  },
+  {
+    "name": "Level 46",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 8.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 9.",
+      "- The sum of all even digits is 14.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "08061"
+  },
+  {
+    "name": "Level 47",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st, 2nd and 4th are equal.",
+      "- The code does not contain the number 7.",
+      "- The sum of all even digits is 18.",
+      "- The sum of all digits is 26."
+    ],
+    "correctAnswer": "66563"
+  },
+  {
+    "name": "Level 48",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 20.",
+      "- The sum of all odd digits is 18.",
+      "- The digits at 1st and 3rd positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "98920"
+  },
+  {
+    "name": "Level 49",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd, 4th and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 15.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 18.",
+      "- The digits at 3rd, 4th and 5th positions are odd. The others are even."
+    ],
+    "correctAnswer": "48777"
+  },
+  {
+    "name": "Level 50",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 7.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 16.",
+      "- There is exactly one even digit.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "31934"
+  },
+  {
+    "name": "Level 51",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st and 5th positions is 4.",
+      "- There are exactly 2 odd digits.",
+      "- The sum of all even digits is 6.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "22512"
+  },
+  {
+    "name": "Level 52",
+    "hints": [
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 5.",
+      "- The sum of all even digits is 6.",
+      "- The digits at 1st, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "34299"
+  },
+  {
+    "name": "Level 53",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 13.",
+      "- The sum of all odd digits is 14."
+    ],
+    "correctAnswer": "53215"
+  },
+  {
+    "name": "Level 54",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 13.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 13.",
+      "- The sum of all odd digits is 19.",
+      "- The digits at 1st, 2nd and 3rd positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "77526"
+  },
+  {
+    "name": "Level 55",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 1st and 4th positions is 9.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 15.",
+      "- The sum of all odd digits is 22.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "77127"
+  },
+  {
+    "name": "Level 56",
+    "hints": [
+      "- The digits at 4th and 5th and those in 1st and 2nd are equal.",
+      "- The sum of the digits at 1st and 5th positions is 9.",
+      "- The digits at 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 10.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "77622"
+  },
+  {
+    "name": "Level 57",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The digits at 1st, 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all digits is 18.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "22365"
+  },
+  {
+    "name": "Level 58",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 23.",
+      "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 33.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "89556"
+  },
+  {
+    "name": "Level 59",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 18.",
+      "- The sum of all odd digits is 16.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "87333"
+  },
+  {
+    "name": "Level 60",
+    "hints": [
+      "- The sum of the digits at 3rd, 4th and 5th positions is 16.",
+      "- The digits at 1st and 3rd positions are even. The others are odd.",
+      "- The sum of all digits is 23.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "61655"
+  },
+  {
+    "name": "Level 61",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 16.",
+      "- The sum of all odd digits is 30.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "77976"
+  },
+  {
+    "name": "Level 62",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 3rd and 4th positions is 12.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 14.",
+      "- The sum of all even digits is 4.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "75754"
+  },
+  {
+    "name": "Level 63",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The sum of the digits at 4th and 5th positions is 8.",
+      "- The sum of all odd digits is 10.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "74344"
+  },
+  {
+    "name": "Level 64",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 1st and 5th positions is 6.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 13.",
+      "- There are exactly 2 even digits.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "18015"
+  },
+  {
+    "name": "Level 65",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The code does not contain the number 2.",
+      "- The sum of the digits at 3rd and 4th positions is 5.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all odd digits is 8.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "30054"
+  },
+  {
+    "name": "Level 66",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 16.",
+      "- The sum of all digits is 24.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "93354"
+  },
+  {
+    "name": "Level 67",
+    "hints": [
+      "- The code does not contain the number 8.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 21.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 14.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "69126"
+  },
+  {
+    "name": "Level 68",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 0.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 7.",
+      "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
+      "- There are no digits over 4."
+    ],
+    "correctAnswer": "40330"
+  },
+  {
+    "name": "Level 69",
+    "hints": [
+      "- The digits at 1st, 4th and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 7.",
+      "- The sum of the digits at 1st and 3rd positions is 9.",
+      "- The digits at 2nd and 3rd positions are even. The others are odd.",
+      "- The sum of all even digits is 6."
+    ],
+    "correctAnswer": "52455"
+  },
+  {
+    "name": "Level 70",
+    "hints": [
+      "- The digits at 2nd and 4th and those in 3rd and 5th are equal.",
+      "- The sum of all odd digits is 6.",
+      "- The digits at 3rd and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 24.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "28383"
+  },
+  {
+    "name": "Level 71",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 8.",
+      "- The sum of all even digits is 10.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "11064"
+  },
+  {
+    "name": "Level 72",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 1st and 3rd positions is 4.",
+      "- The sum of the digits at 2nd and 4th positions is 13.",
+      "- There are exactly 4 even digits.",
+      "- The sum of all even digits is 12."
+    ],
+    "correctAnswer": "05480"
+  },
+  {
+    "name": "Level 73",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 4.",
+      "- The sum of all odd digits is 3.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "00438"
+  },
+  {
+    "name": "Level 74",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 1st and 2nd positions is 8.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 6.",
+      "- The sum of all even digits is 14.",
+      "- The digit at 4th position is odd. The others are even.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "08630"
+  },
+  {
+    "name": "Level 75",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of all odd digits is 17.",
+      "- The digits at 1st, 2nd and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "37287"
+  },
+  {
+    "name": "Level 76",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 1st and 4th positions is 5.",
+      "- The sum of all even digits is 12.",
+      "- The sum of all digits is 14.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "41216"
+  },
+  {
+    "name": "Level 77",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The code does not contain the number 3.",
+      "- The sum of the digits at 3rd and 5th positions is 6.",
+      "- There are exactly 4 even digits.",
+      "- The sum of all even digits is 10.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "40214"
+  },
+  {
+    "name": "Level 78",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 17.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 12.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "03908"
+  },
+  {
+    "name": "Level 79",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 3rd and those in 2nd and 4th are equal.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all odd digits is 12.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "15154"
+  },
+  {
+    "name": "Level 80",
+    "hints": [
+      "- The digits at 1st and 4th and those in 2nd and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 8.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 13.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "58058"
+  },
+  {
+    "name": "Level 81",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 12.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 18.",
+      "- The digits at 1st, 2nd, 4th and 5th positions are even. The others are odd.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "84568"
+  },
+  {
+    "name": "Level 82",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 16.",
+      "- The sum of all even digits is 12.",
+      "- The sum of all odd digits is 11."
+    ],
+    "correctAnswer": "84533"
+  },
+  {
+    "name": "Level 83",
+    "hints": [
+      "- The sum of the digits at 1st and 3rd positions is 8.",
+      "- The sum of the digits at 1st and 4th positions is 9.",
+      "- The sum of all even digits is 4.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 2."
+    ],
+    "correctAnswer": "55345"
+  },
+  {
+    "name": "Level 84",
+    "hints": [
+      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 4th and 5th positions is 7.",
+      "- The sum of all odd digits is 6.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "82343"
+  },
+  {
+    "name": "Level 85",
+    "hints": [
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 2nd and 3rd positions is 9.",
+      "- The digits at 1st, 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 20.",
+      "- The sum of all odd digits is 8.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "84583"
+  },
+  {
+    "name": "Level 86",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The code does not contain the number 1.",
+      "- The digits at 1st, 3rd and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "30783"
+  },
+  {
+    "name": "Level 87",
+    "hints": [
+      "- The sum of the digits at 2nd and 4th positions is 2.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 8.",
+      "- The sum of all even digits is 12.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "11616"
+  },
+  {
+    "name": "Level 88",
+    "hints": [
+      "- The digits at 4th and 5th and those in 1st and 3rd are equal.",
+      "- The code does not contain the number 3.",
+      "- The sum of the digits at 1st and 3rd positions is 12.",
+      "- There are exactly 3 odd digits.",
+      "- The sum of all digits is 21."
+    ],
+    "correctAnswer": "67611"
+  },
+  {
+    "name": "Level 89",
+    "hints": [
+      "- The code does not contain the number 3.",
+      "- The code does not contain the number 4.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 21.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 17.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 12."
+    ],
+    "correctAnswer": "78652"
+  },
+  {
+    "name": "Level 90",
+    "hints": [
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 10.",
+      "- The digit at 1st position is even. The others are odd.",
+      "- The sum of all digits is 26.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "29177"
+  },
+  {
+    "name": "Level 91",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 8.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are odd. The others are even.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "11787"
+  },
+  {
+    "name": "Level 92",
+    "hints": [
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 7.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 20.",
+      "- The sum of all even digits is 12.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "39498"
+  },
+  {
+    "name": "Level 93",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 10.",
+      "- The sum of all odd digits is 5.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "22254"
+  },
+  {
+    "name": "Level 94",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of all even digits is 6.",
+      "- The digits at 3rd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "60110"
+  },
+  {
+    "name": "Level 95",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 8.",
+      "- There are exactly 4 odd digits.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "91017"
+  },
+  {
+    "name": "Level 96",
+    "hints": [
+      "- The digits at 3rd and 4th and those in 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 16.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all odd digits is 13.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "66337"
+  },
+  {
+    "name": "Level 97",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 11.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 10.",
+      "- There are exactly 3 odd digits.",
+      "- The sum of all even digits is 6.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "05367"
+  },
+  {
+    "name": "Level 98",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 2.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 6.",
+      "- The sum of all even digits is 2.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "21137"
+  },
+  {
+    "name": "Level 99",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of all even digits is 12.",
+      "- The digits at 1st, 3rd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "98114"
+  },
+  {
+    "name": "Level 100",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st and 4th positions is 15.",
+      "- The sum of all odd digits is 23.",
+      "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 33.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "65994"
+  },
+  {
+    "name": "Level 101",
+    "hints": [
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 9.",
+      "- The digits at 2nd, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 20.",
+      "- The sum of all odd digits is 8.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "56863"
+  },
+  {
+    "name": "Level 102",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The digits at 4th and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 30.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "08895"
+  },
+  {
+    "name": "Level 103",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 19.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all digits is 23."
+    ],
+    "correctAnswer": "48047"
+  },
+  {
+    "name": "Level 104",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 2nd and 5th positions is 9.",
+      "- The digits at 1st, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all odd digits is 6.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "85414"
+  },
+  {
+    "name": "Level 105",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 4th and 5th positions is 13.",
+      "- The digits at 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 23.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "59449"
+  },
+  {
+    "name": "Level 106",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The code does not contain the number 4.",
+      "- The sum of the digits at 3rd and 4th positions is 10.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 13.",
+      "- The digits at 1st and 2nd positions are odd. The others are even.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "53286"
+  },
+  {
+    "name": "Level 107",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 10.",
+      "- The sum of all even digits is 4.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "75554"
+  },
+  {
+    "name": "Level 108",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 7.",
+      "- The sum of all odd digits is 6.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "26521"
+  },
+  {
+    "name": "Level 109",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 3rd and 5th positions is 14.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all digits is 31.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "48757"
+  },
+  {
+    "name": "Level 110",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The digits at 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all digits is 21.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "11289"
+  },
+  {
+    "name": "Level 111",
+    "hints": [
+      "- The digits at 1st, 2nd and 5th are equal.",
+      "- The sum of all odd digits is 16.",
+      "- The digits at 1st, 2nd, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "55015"
+  },
+  {
+    "name": "Level 112",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 8.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 13.",
+      "- The digits at 2nd and 3rd positions are even. The others are odd.",
+      "- The sum of all even digits is 10."
+    ],
+    "correctAnswer": "38237"
+  },
+  {
+    "name": "Level 113",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The code does not contain the number 5.",
+      "- The digits at 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 11.",
+      "- The sum of all digits is 23."
+    ],
+    "correctAnswer": "91661"
+  },
+  {
+    "name": "Level 114",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 17.",
+      "- The digits at 4th and 5th positions are even. The others are odd.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "93948"
+  },
+  {
+    "name": "Level 115",
+    "hints": [
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 12.",
+      "- The sum of all odd digits is 7.",
+      "- The digit at 3rd position is odd. The others are even.",
+      "- The sum of all digits is 25.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "82762"
+  },
+  {
+    "name": "Level 116",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 1st and 4th positions is 11.",
+      "- The sum of all digits is 32.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "98924"
+  },
+  {
+    "name": "Level 117",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 18.",
+      "- The digits at 2nd, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all digits is 28.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "12889"
+  },
+  {
+    "name": "Level 118",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st and 4th positions is 11.",
+      "- The digits at 1st, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 12.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "61056"
+  },
+  {
+    "name": "Level 119",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 1.",
+      "- The sum of the digits at 3rd and 4th positions is 3.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "10038"
+  },
+  {
+    "name": "Level 120",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 8.",
+      "- The sum of all odd digits is 5.",
+      "- The digits at 1st, 4th and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "14613"
+  },
+  {
+    "name": "Level 121",
+    "hints": [
+      "- The digits at 1st, 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 3rd and 4th positions is 11.",
+      "- There are exactly 3 odd digits.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "76563"
+  },
+  {
+    "name": "Level 122",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 4th positions is 13.",
+      "- The sum of the digits at 4th and 5th positions is 9.",
+      "- The digits at 1st, 3rd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "98354"
+  },
+  {
+    "name": "Level 123",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The code does not contain the number 3.",
+      "- The digits at 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 21.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "77278"
+  },
+  {
+    "name": "Level 124",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 2.",
+      "- The digits at 1st and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 9.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "81107"
+  },
+  {
+    "name": "Level 125",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of all odd digits is 15.",
+      "- The sum of all digits is 31.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "38983"
+  },
+  {
+    "name": "Level 126",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 16.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all odd digits is 13.",
+      "- The sum of all digits is 25."
+    ],
+    "correctAnswer": "66535"
+  },
+  {
+    "name": "Level 127",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The code does not contain the number 2.",
+      "- The sum of all even digits is 20.",
+      "- The sum of all digits is 25."
+    ],
+    "correctAnswer": "84544"
+  },
+  {
+    "name": "Level 128",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 4th and 5th positions is 9.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all digits is 21.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "22845"
+  },
+  {
+    "name": "Level 129",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The code does not contain the number 5.",
+      "- The sum of the digits at 3rd and 5th positions is 8.",
+      "- The digits at 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 12.",
+      "- The sum of all digits is 23.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "38741"
+  },
+  {
+    "name": "Level 130",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The digits at 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all digits is 23.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "38723"
+  },
+  {
+    "name": "Level 131",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The code does not contain the number 0.",
+      "- The sum of the digits at 4th and 5th positions is 9.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 9."
+    ],
+    "correctAnswer": "43254"
+  },
+  {
+    "name": "Level 132",
+    "hints": [
+      "- The sum of the digits at 1st, 4th and 5th positions is 14.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 11.",
+      "- The digits at 2nd, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "74843"
+  },
+  {
+    "name": "Level 133",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 19.",
+      "- The sum of all even digits is 16.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "96645"
+  },
+  {
+    "name": "Level 134",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 4th and 5th positions is 12.",
+      "- The digit at 2nd position is even. The others are odd.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all digits is 28.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "78175"
+  },
+  {
+    "name": "Level 135",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st and 4th positions is 3.",
+      "- There are exactly 3 odd digits.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "10521"
+  },
+  {
+    "name": "Level 136",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st and 4th positions is 10.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "47762"
+  },
+  {
+    "name": "Level 137",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of all even digits is 20.",
+      "- The sum of all odd digits is 3.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "43466"
+  },
+  {
+    "name": "Level 138",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 25.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "09556"
+  },
+  {
+    "name": "Level 139",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 1st and 3rd are equal.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 8.",
+      "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 15.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "61611"
+  },
+  {
+    "name": "Level 140",
+    "hints": [
+      "- The digits at 1st and 5th and those in 2nd and 4th are equal.",
+      "- The code does not contain the number 7.",
+      "- The sum of the digits at 2nd and 3rd positions is 11.",
+      "- The sum of all even digits is 8.",
+      "- The digits at 2nd and 4th positions are odd. The others are even."
+    ],
+    "correctAnswer": "03830"
+  },
+  {
+    "name": "Level 141",
+    "hints": [
+      "- The digits at 4th and 5th and those in 1st and 3rd are equal.",
+      "- The code does not contain the number 8.",
+      "- The sum of the digits at 1st and 3rd positions is 6.",
+      "- The sum of all odd digits is 16.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "36355"
+  },
+  {
+    "name": "Level 142",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 2.",
+      "- The sum of all odd digits is 6.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "03023"
+  },
+  {
+    "name": "Level 143",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 15.",
+      "- The sum of all even digits is 20.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "43883"
+  },
+  {
+    "name": "Level 144",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd and 5th positions is 12.",
+      "- The sum of all even digits is 8.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "45457"
+  },
+  {
+    "name": "Level 145",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 8.",
+      "- The digits at 1st, 2nd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 19.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "08920"
+  },
+  {
+    "name": "Level 146",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st and 4th positions is 10.",
+      "- The sum of the digits at 3rd and 5th positions is 6.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "51155"
+  },
+  {
+    "name": "Level 147",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd and 5th positions is 10.",
+      "- The sum of the digits at 4th and 5th positions is 9.",
+      "- The sum of all even digits is 8.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "45545"
+  },
+  {
+    "name": "Level 148",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 13.",
+      "- The sum of all odd digits is 19.",
+      "- There are exactly 5 digits over 4."
+    ],
+    "correctAnswer": "87567"
+  },
+  {
+    "name": "Level 149",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 20.",
+      "- The sum of all even digits is 8.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "92396"
+  },
+  {
+    "name": "Level 150",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 13.",
+      "- The sum of all odd digits is 7.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "78660"
+  },
+  {
+    "name": "Level 151",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 3rd and 5th positions is 10.",
+      "- The sum of all odd digits is 16.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "33327"
+  },
+  {
+    "name": "Level 152",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 6.",
+      "- The sum of all even digits is 2.",
+      "- The sum of all odd digits is 11.",
+      "- The digits at 2nd, 3rd and 4th positions are odd. The others are even."
+    ],
+    "correctAnswer": "23350"
+  },
+  {
+    "name": "Level 153",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 15.",
+      "- There are exactly 3 odd digits.",
+      "- The sum of all digits is 27.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "87057"
+  },
+  {
+    "name": "Level 154",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 5th are equal.",
+      "- The code does not contain the number 2.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 8.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all odd digits is 11."
+    ],
+    "correctAnswer": "00353"
+  },
+  {
+    "name": "Level 155",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 7.",
+      "- The digits at 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 2.",
+      "- The sum of all odd digits is 21."
+    ],
+    "correctAnswer": "70727"
+  },
+  {
+    "name": "Level 156",
+    "hints": [
+      "- The code does not contain the number 5.",
+      "- The sum of the digits at 3rd and 5th positions is 13.",
+      "- The digits at 1st, 2nd and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 21.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "11469"
+  },
+  {
+    "name": "Level 157",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 2.",
+      "- The sum of all odd digits is 3.",
+      "- The digit at 3rd position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "00342"
+  },
+  {
+    "name": "Level 158",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 5.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 17.",
+      "- The digit at 4th position is even. The others are odd.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "75307"
+  },
+  {
+    "name": "Level 159",
+    "hints": [
+      "- The code does not contain the number 4.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 24.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 19.",
+      "- The sum of all even digits is 18.",
+      "- The digits at 1st and 4th positions are odd. The others are even."
+    ],
+    "correctAnswer": "98872"
+  },
+  {
+    "name": "Level 160",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of all even digits is 12.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 21.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "11676"
+  },
+  {
+    "name": "Level 161",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st and 4th positions is 13.",
+      "- The sum of the digits at 2nd and 4th positions is 10.",
+      "- The digit at 1st position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "52080"
+  },
+  {
+    "name": "Level 162",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 13.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 10.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "05865"
+  },
+  {
+    "name": "Level 163",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The code does not contain the number 3.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 12.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 14.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "84822"
+  },
+  {
+    "name": "Level 164",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 8.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 23.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "44870"
+  },
+  {
+    "name": "Level 165",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 9.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "54143"
+  },
+  {
+    "name": "Level 166",
+    "hints": [
+      "- The digits at 1st and 4th and those in 2nd and 3rd are equal.",
+      "- The code does not contain the number 7.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 14.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 30.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "58854"
+  },
+  {
+    "name": "Level 167",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 1st and 3rd positions is 15.",
+      "- The digits at 2nd and 3rd positions are even. The others are odd.",
+      "- The sum of all odd digits is 15.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "98651"
+  },
+  {
+    "name": "Level 168",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 7.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 12.",
+      "- The sum of all odd digits is 8.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "61760"
+  },
+  {
+    "name": "Level 169",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 10.",
+      "- The sum of all odd digits is 3.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "28023"
+  },
+  {
+    "name": "Level 170",
+    "hints": [
+      "- The digits at 4th and 5th and those in 1st and 3rd are equal.",
+      "- The code does not contain the number 2.",
+      "- The digits at 1st, 2nd and 3rd positions are even. The others are odd.",
+      "- The sum of all digits is 22.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "60655"
+  },
+  {
+    "name": "Level 171",
+    "hints": [
+      "- The digits at 3rd and 5th and those in 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 8.",
+      "- The sum of all even digits is 16.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "78181"
+  },
+  {
+    "name": "Level 172",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 4.",
+      "- The sum of the digits at 3rd and 4th positions is 4.",
+      "- There are exactly 4 odd digits.",
+      "- The sum of all even digits is 4."
+    ],
+    "correctAnswer": "33134"
+  },
+  {
+    "name": "Level 173",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 23.",
+      "- The sum of all even digits is 14.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "68919"
+  },
+  {
+    "name": "Level 174",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 12.",
+      "- The sum of the digits at 2nd and 5th positions is 8.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "15783"
+  },
+  {
+    "name": "Level 175",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 3.",
+      "- The sum of all even digits is 2.",
+      "- The sum of all odd digits is 15.",
+      "- The digits at 1st, 2nd and 3rd positions are odd. The others are even."
+    ],
+    "correctAnswer": "93320"
+  },
+  {
+    "name": "Level 176",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The digits at 1st and 3rd positions are even. The others are odd.",
+      "- The sum of all odd digits is 9.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "83433"
+  },
+  {
+    "name": "Level 177",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 17.",
+      "- The sum of all odd digits is 23.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "72978"
+  },
+  {
+    "name": "Level 178",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 7.",
+      "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 10.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "01669"
+  },
+  {
+    "name": "Level 179",
+    "hints": [
+      "- The digits at 1st and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 3rd and 4th positions is 12.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 13.",
+      "- The digits at 1st, 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "25662"
+  },
+  {
+    "name": "Level 180",
+    "hints": [
+      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd and 5th positions is 12.",
+      "- The sum of all even digits is 18.",
+      "- The sum of all digits is 28.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "54568"
+  },
+  {
+    "name": "Level 181",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The code does not contain the number 2.",
+      "- The sum of all odd digits is 21.",
+      "- The sum of all digits is 31."
+    ],
+    "correctAnswer": "47677"
+  },
+  {
+    "name": "Level 182",
+    "hints": [
+      "- The digits at 2nd and 4th and those in 1st and 5th are equal.",
+      "- The code does not contain the number 5.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all odd digits is 19.",
+      "- The digits at 1st, 3rd and 5th positions are odd. The others are even."
+    ],
+    "correctAnswer": "92129"
+  },
+  {
+    "name": "Level 183",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of all odd digits is 5.",
+      "- The digit at 2nd position is odd. The others are even.",
+      "- The sum of all digits is 27.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "25488"
+  },
+  {
+    "name": "Level 184",
+    "hints": [
+      "- The digits at 1st and 3rd and those in 4th and 5th are equal.",
+      "- The code does not contain the number 8.",
+      "- The digits at 2nd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 18.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "30366"
+  },
+  {
+    "name": "Level 185",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st and 4th positions is 10.",
+      "- The sum of all even digits is 14.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "21481"
+  },
+  {
+    "name": "Level 186",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 8.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 15.",
+      "- The sum of all even digits is 14.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "54476"
+  },
+  {
+    "name": "Level 187",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 21.",
+      "- The digit at 4th position is odd. The others are even.",
+      "- The sum of all digits is 25.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "42298"
+  },
+  {
+    "name": "Level 188",
+    "hints": [
+      "- The digits at 2nd, 3rd and 5th are equal.",
+      "- The code does not contain the number 5.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 16.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "73303"
+  },
+  {
+    "name": "Level 189",
+    "hints": [
+      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 3rd positions is 14.",
+      "- The sum of all even digits is 6.",
+      "- The sum of all odd digits is 26.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "59567"
+  },
+  {
+    "name": "Level 190",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 5th and those in 3rd and 4th are equal.",
+      "- The sum of all even digits is 12.",
+      "- There are no digits over 4.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "21442"
+  },
+  {
+    "name": "Level 191",
+    "hints": [
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 15.",
+      "- The digits at 1st and 2nd positions are even. The others are odd.",
+      "- The sum of all odd digits is 19.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "60199"
+  },
+  {
+    "name": "Level 192",
+    "hints": [
+      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The sum of the digits at 3rd and 4th positions is 3.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 10.",
+      "- The sum of all odd digits is 4.",
+      "- The digits at 1st and 4th positions are odd. The others are even."
+    ],
+    "correctAnswer": "36210"
+  },
+  {
+    "name": "Level 193",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 4th and 5th positions is 11.",
+      "- The sum of all odd digits is 8.",
+      "- The digits at 2nd and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "63265"
+  },
+  {
+    "name": "Level 194",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd are equal.",
+      "- The digits at 1st and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 19.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "65512"
+  },
+  {
+    "name": "Level 195",
+    "hints": [
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 7.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 13.",
+      "- There is exactly one odd digit.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "02562"
+  },
+  {
+    "name": "Level 196",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 8.",
+      "- The sum of all odd digits is 5.",
+      "- The digits at 1st, 4th and 5th positions are odd. The others are even.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "18413"
+  },
+  {
+    "name": "Level 197",
+    "hints": [
+      "- The sum of the digits at 2nd and 3rd positions is 7.",
+      "- The digits at 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 16.",
+      "- There are no digits over 4.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "13444"
+  },
+  {
+    "name": "Level 198",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 15.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 14.",
+      "- The sum of all odd digits is 19.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "94347"
+  },
+  {
+    "name": "Level 199",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 11.",
+      "- The sum of the digits at 3rd and 4th positions is 12.",
+      "- The digits at 1st, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "54573"
+  },
+  {
+    "name": "Level 200",
+    "hints": [
+      "- The digits at 1st, 3rd and 4th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 6.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 7.",
+      "- There are exactly 4 even digits.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "06007"
+  },
+  {
+    "name": "Level 201",
+    "hints": [
+      "- The digits at 1st, 3rd and 5th are equal.",
+      "- The sum of all odd digits is 30.",
+      "- The digits at 1st, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 30.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "70797"
+  },
+  {
+    "name": "Level 202",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The code does not contain the number 7.",
+      "- The digits at 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 13.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "35665"
+  },
+  {
+    "name": "Level 203",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 18.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 12.",
+      "- The sum of all even digits is 4.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "72293"
+  },
+  {
+    "name": "Level 204",
+    "hints": [
+      "- The digits at 1st, 3rd and 5th are equal.",
+      "- The sum of all even digits is 8.",
+      "- The digits at 1st, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "18191"
+  },
+  {
+    "name": "Level 205",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st and 5th positions is 8.",
+      "- The sum of the digits at 4th and 5th positions is 13.",
+      "- The sum of all odd digits is 10.",
+      "- The digits at 3rd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "22376"
+  },
+  {
+    "name": "Level 206",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 4.",
+      "- The sum of all even digits is 6.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "20554"
+  },
+  {
+    "name": "Level 207",
+    "hints": [
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 24.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "63933"
+  },
+  {
+    "name": "Level 208",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 2nd and 4th positions is 6.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 10.",
+      "- There are exactly 4 even digits.",
+      "- The sum of all even digits is 10.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "04524"
+  },
+  {
+    "name": "Level 209",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 17.",
+      "- The sum of all odd digits is 10.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "54858"
+  },
+  {
+    "name": "Level 210",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 9.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 23.",
+      "- The sum of all even digits is 6.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "79472"
+  },
+  {
+    "name": "Level 211",
+    "hints": [
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 3rd and 4th positions is 11.",
+      "- The digits at 1st, 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 12.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "82921"
+  },
+  {
+    "name": "Level 212",
+    "hints": [
+      "- The digits at 3rd and 4th and those in 1st and 5th are equal.",
+      "- The code does not contain the number 3.",
+      "- The digits at 1st and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 4.",
+      "- The sum of all digits is 15.",
+      "- There is exactly 1 digit over 4."
+    ],
+    "correctAnswer": "29112"
+  },
+  {
+    "name": "Level 213",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 3rd positions are even. The others are odd.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all digits is 25.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "43477"
+  },
+  {
+    "name": "Level 214",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The code does not contain the number 7.",
+      "- The digits at 1st and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "56223"
+  },
+  {
+    "name": "Level 215",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 13.",
+      "- The sum of all even digits is 16.",
+      "- The digits at 1st and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 26.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "34676"
+  },
+  {
+    "name": "Level 216",
+    "hints": [
+      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 4th positions is 10.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 19.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "82987"
+  },
+  {
+    "name": "Level 217",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 17.",
+      "- The sum of all even digits is 16.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "80544"
+  },
+  {
+    "name": "Level 218",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st, 2nd and 5th are equal.",
+      "- The sum of all odd digits is 7.",
+      "- The digit at 3rd position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "22782"
+  },
+  {
+    "name": "Level 219",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st, 3rd and 4th are equal.",
+      "- The code does not contain the number 4.",
+      "- The sum of all odd digits is 14.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are odd. The others are even."
+    ],
+    "correctAnswer": "35332"
+  },
+  {
+    "name": "Level 220",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 7.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 7.",
+      "- There are exactly 4 even digits.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "07800"
+  },
+  {
+    "name": "Level 221",
+    "hints": [
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 2nd and 5th positions is 7.",
+      "- The digits at 2nd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 10.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "05032"
+  },
+  {
+    "name": "Level 222",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st and 4th positions is 6.",
+      "- There is exactly one odd digit.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all odd digits is 7."
+    ],
+    "correctAnswer": "67002"
+  },
+  {
+    "name": "Level 223",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd, 4th and 5th are equal.",
+      "- There are exactly 2 even digits.",
+      "- The sum of all digits is 9.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "21411"
+  },
+  {
+    "name": "Level 224",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 3rd and 4th positions is 12.",
+      "- The sum of all odd digits is 17.",
+      "- There are exactly 4 digits over 4."
+    ],
+    "correctAnswer": "55487"
+  },
+  {
+    "name": "Level 225",
+    "hints": [
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 23.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 24.",
+      "- The digits at 2nd and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "87289"
+  },
+  {
+    "name": "Level 226",
+    "hints": [
+      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 14.",
+      "- The digits at 1st, 2nd and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 31.",
+      "- There are exactly 5 digits over 4."
+    ],
+    "correctAnswer": "95665"
+  },
+  {
+    "name": "Level 227",
+    "hints": [
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 8.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 14.",
+      "- There are exactly 3 odd digits.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "17588"
+  },
+  {
+    "name": "Level 228",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 9.",
+      "- The sum of all even digits is 14.",
+      "- The digit at 4th position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "22436"
+  },
+  {
+    "name": "Level 229",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 15.",
+      "- The digits at 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 12.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "57848"
+  },
+  {
+    "name": "Level 230",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 10.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all odd digits is 7.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "78242"
+  },
+  {
+    "name": "Level 231",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 4th are equal.",
+      "- The digits at 1st and 3rd positions are even. The others are odd.",
+      "- The sum of all digits is 33.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "87873"
+  },
+  {
+    "name": "Level 232",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 3rd and 5th positions is 9.",
+      "- The sum of all even digits is 10.",
+      "- The digits at 3rd and 4th positions are odd. The others are even.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "44712"
+  },
+  {
+    "name": "Level 233",
+    "hints": [
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 14.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 13.",
+      "- The sum of all odd digits is 10.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "65850"
+  },
+  {
+    "name": "Level 234",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 23.",
+      "- The digit at 3rd position is odd. The others are even.",
+      "- The sum of all digits is 39.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "88986"
+  },
+  {
+    "name": "Level 235",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 9.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 24.",
+      "- The digits at 1st, 2nd and 3rd positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "82897"
+  },
+  {
+    "name": "Level 236",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 20.",
+      "- The sum of all digits is 28.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "88714"
+  },
+  {
+    "name": "Level 237",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd, 4th and 5th positions are following each other.",
+      "- The code does not contain the number 7.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 9.",
+      "- There are exactly 2 even digits.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "56321"
+  },
+  {
+    "name": "Level 238",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 17.",
+      "- The sum of all even digits is 10.",
+      "- The sum of all odd digits is 18."
+    ],
+    "correctAnswer": "08929"
+  },
+  {
+    "name": "Level 239",
+    "hints": [
+      "- The digits at 1st, 4th and 5th are equal.",
+      "- The sum of the digits at 3rd and 5th positions is 5.",
+      "- There is exactly one odd digit.",
+      "- The sum of all even digits is 12.",
+      "- There are no digits over 4."
+    ],
+    "correctAnswer": "40144"
+  },
+  {
+    "name": "Level 240",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all digits is 20.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "34616"
+  },
+  {
+    "name": "Level 241",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The digits at 1st, 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 29.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "67880"
+  },
+  {
+    "name": "Level 242",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 13.",
+      "- There is exactly one odd digit.",
+      "- The sum of all even digits is 12.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "06706"
+  },
+  {
+    "name": "Level 243",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The sum of the digits at 2nd and 4th positions is 18.",
+      "- The sum of all odd digits is 34.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "09997"
+  },
+  {
+    "name": "Level 244",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st and 4th positions is 16.",
+      "- The digit at 3rd position is even. The others are odd.",
+      "- The sum of all odd digits is 26.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "77493"
+  },
+  {
+    "name": "Level 245",
+    "hints": [
+      "- The digits at 1st, 2nd and 3rd positions are following each other.",
+      "- The code does not contain the number 1.",
+      "- The sum of the digits at 2nd, 3rd and 4th positions is 13.",
+      "- There are exactly 3 even digits.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "87603"
+  },
+  {
+    "name": "Level 246",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 5.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 6.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "55710"
+  },
+  {
+    "name": "Level 247",
+    "hints": [
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 13.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 12.",
+      "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "41544"
+  },
+  {
+    "name": "Level 248",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd are equal.",
+      "- The code does not contain the number 0.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 13.",
+      "- The sum of all odd digits is 11.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "55126"
+  },
+  {
+    "name": "Level 249",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all odd digits is 11.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "81189"
+  },
+  {
+    "name": "Level 250",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 4th and those in 1st and 2nd are equal.",
+      "- The digits at 1st, 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "55332"
+  },
+  {
+    "name": "Level 251",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 12.",
+      "- The sum of all digits is 33.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "46878"
+  },
+  {
+    "name": "Level 252",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 12.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 7.",
+      "- The digit at 2nd position is odd. The others are even.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "81424"
+  },
+  {
+    "name": "Level 253",
+    "hints": [
+      "- The digits at 1st, 3rd and 5th are equal.",
+      "- The code does not contain the number 2.",
+      "- The digit at 4th position is even. The others are odd.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "91949"
+  },
+  {
+    "name": "Level 254",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The code does not contain the number 9.",
+      "- The digit at 1st position is even. The others are odd.",
+      "- The sum of all even digits is 0.",
+      "- The sum of all digits is 20."
+    ],
+    "correctAnswer": "01577"
+  },
+  {
+    "name": "Level 255",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 3.",
+      "- The sum of the digits at 2nd and 4th positions is 11.",
+      "- There are exactly 2 even digits.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "38930"
+  },
+  {
+    "name": "Level 256",
+    "hints": [
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 13.",
+      "- The sum of the digits at 1st and 3rd positions is 15.",
+      "- The sum of all even digits is 16.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "94606"
+  },
+  {
+    "name": "Level 257",
+    "hints": [
+      "- The code does not contain the number 0.",
+      "- The sum of the digits at 2nd and 5th positions is 4.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 7.",
+      "- The digits at 1st, 2nd, 4th and 5th positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "42162"
+  },
+  {
+    "name": "Level 258",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 4th and 5th positions is 1.",
+      "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 4.",
+      "- The sum of all digits is 8.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "04310"
+  },
+  {
+    "name": "Level 259",
+    "hints": [
+      "- The digits at 2nd, 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 8.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 11.",
+      "- There are exactly 3 odd digits.",
+      "- The sum of all odd digits is 3."
+    ],
+    "correctAnswer": "61141"
+  },
+  {
+    "name": "Level 260",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 18.",
+      "- The sum of all even digits is 22.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "67664"
+  },
+  {
+    "name": "Level 261",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 2nd, 4th and 5th positions is 9.",
+      "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all digits is 20.",
+      "- The difference between the largest and smallest digit is 9."
+    ],
+    "correctAnswer": "98210"
+  },
+  {
+    "name": "Level 262",
+    "hints": [
+      "- The digits at 1st and 3rd and those in 2nd and 4th are equal.",
+      "- The sum of all odd digits is 2.",
+      "- The digits at 2nd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 18.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "41418"
+  },
+  {
+    "name": "Level 263",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 3rd and 5th positions is 18.",
+      "- The sum of all odd digits is 17.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "87565"
+  },
+  {
+    "name": "Level 264",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The code does not contain the number 9.",
+      "- The sum of the digits at 1st and 2nd positions is 11.",
+      "- The sum of the digits at 2nd and 4th positions is 9.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "38710"
+  },
+  {
+    "name": "Level 265",
+    "hints": [
+      "- The digits at 2nd and 3rd are equal.",
+      "- The code does not contain the number 5.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 7.",
+      "- There are exactly 2 odd digits.",
+      "- The sum of all even digits is 2."
+    ],
+    "correctAnswer": "27700"
+  },
+  {
+    "name": "Level 266",
+    "hints": [
+      "- The digits at 1st and 5th and those in 2nd and 3rd are equal.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 16.",
+      "- The sum of all even digits is 16.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "49984"
+  },
+  {
+    "name": "Level 267",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The code does not contain the number 8.",
+      "- The code does not contain the number 9.",
+      "- The sum of the digits at 4th and 5th positions is 12.",
+      "- The sum of all odd digits is 18.",
+      "- The digits at 1st, 2nd, 4th and 5th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "51057"
+  },
+  {
+    "name": "Level 268",
+    "hints": [
+      "- The digits at 1st, 2nd and 5th are equal.",
+      "- The digits at 1st, 2nd, 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 14.",
+      "- The sum of all digits is 17.",
+      "- There are no digits over 4."
+    ],
+    "correctAnswer": "44234"
+  },
+  {
+    "name": "Level 269",
+    "hints": [
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 1st and 2nd positions is 10.",
+      "- The sum of the digits at 2nd and 4th positions is 10.",
+      "- The sum of all odd digits is 21.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 4."
+    ],
+    "correctAnswer": "37533"
+  },
+  {
+    "name": "Level 270",
+    "hints": [
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The digits at 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all odd digits is 13.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "32783"
+  },
+  {
+    "name": "Level 271",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 16.",
+      "- The sum of all odd digits is 1.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "10466"
+  },
+  {
+    "name": "Level 272",
+    "hints": [
+      "- The digits at 1st and 5th and those in 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 8.",
+      "- The sum of the digits at 2nd and 5th positions is 12.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "48984"
+  },
+  {
+    "name": "Level 273",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 8.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 3."
+    ],
+    "correctAnswer": "25425"
+  },
+  {
+    "name": "Level 274",
+    "hints": [
+      "- The sum of the digits at 1st and 2nd positions is 15.",
+      "- The sum of all even digits is 14.",
+      "- The sum of all odd digits is 18.",
+      "- The digits at 1st and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "96494"
+  },
+  {
+    "name": "Level 275",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 2nd and 5th positions is 11.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 21.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "17634"
+  },
+  {
+    "name": "Level 276",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 1st and 3rd positions is 15.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 25.",
+      "- The digits at 3rd and 5th positions are even. The others are odd.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "97692"
+  },
+  {
+    "name": "Level 277",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 1st and 4th are equal.",
+      "- The sum of the digits at 1st, 2nd and 3rd positions is 8.",
+      "- The sum of all odd digits is 9.",
+      "- The digit at 5th position is odd. The others are even."
+    ],
+    "correctAnswer": "80089"
+  },
+  {
+    "name": "Level 278",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The sum of the digits at 1st and 3rd positions is 14.",
+      "- The digits at 4th and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 6.",
+      "- The sum of all odd digits is 15.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "71760"
+  },
+  {
+    "name": "Level 279",
+    "hints": [
+      "- The digits at 2nd and 4th and those in 3rd and 5th are equal.",
+      "- The digits at 1st, 2nd and 4th positions are even. The others are odd.",
+      "- The sum of all even digits is 12.",
+      "- There are exactly 4 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "06767"
+  },
+  {
+    "name": "Level 280",
+    "hints": [
+      "- The digits at 1st and 2nd positions are following each other.",
+      "- The sum of the digits at 4th and 5th positions is 11.",
+      "- The sum of all odd digits is 13.",
+      "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "21938"
+  },
+  {
+    "name": "Level 281",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 4.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 6.",
+      "- There are exactly 3 even digits.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "45001"
+  },
+  {
+    "name": "Level 282",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of all even digits is 12.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "39834"
+  },
+  {
+    "name": "Level 283",
+    "hints": [
+      "- The digits at 1st and 2nd are equal.",
+      "- The sum of the digits at 1st, 4th and 5th positions is 20.",
+      "- The sum of all odd digits is 19.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "77258"
+  },
+  {
+    "name": "Level 284",
+    "hints": [
+      "- The digits at 1st, 2nd and 4th are equal.",
+      "- The code does not contain the number 6.",
+      "- The sum of the digits at 4th and 5th positions is 10.",
+      "- All digits are even.",
+      "- The sum of all digits is 26."
+    ],
+    "correctAnswer": "88082"
+  },
+  {
+    "name": "Level 285",
+    "hints": [
+      "- The digits at 1st, 3rd and 5th are equal.",
+      "- The sum of the digits at 1st, 2nd and 4th positions is 9.",
+      "- The sum of the digits at 1st, 2nd and 5th positions is 8.",
+      "- There are exactly 4 even digits.",
+      "- The sum of all even digits is 8."
+    ],
+    "correctAnswer": "08010"
+  },
+  {
+    "name": "Level 286",
+    "hints": [
+      "- The digits at 2nd and 4th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 11.",
+      "- The sum of all even digits is 2.",
+      "- The digits at 2nd, 3rd, 4th and 5th positions are odd. The others are even.",
+      "- The sum of all digits is 28.",
+      "- There are exactly 3 digits over 4."
+    ],
+    "correctAnswer": "27379"
+  },
+  {
+    "name": "Level 287",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 3rd and 4th positions is 1.",
+      "- The digits at 1st and 3rd positions are even. The others are odd.",
+      "- The sum of all digits is 11.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "41015"
+  },
+  {
+    "name": "Level 288",
+    "hints": [
+      "- The sum of the digits at 1st and 3rd positions is 9.",
+      "- The sum of all even digits is 6.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "35650"
+  },
+  {
+    "name": "Level 289",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 4th and 5th are equal.",
+      "- The sum of the digits at 1st and 5th positions is 4.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all odd digits is 4."
+    ],
+    "correctAnswer": "01344"
+  },
+  {
+    "name": "Level 290",
+    "hints": [
+      "- The sum of the digits at 3rd, 4th and 5th positions is 14.",
+      "- The sum of all odd digits is 15.",
+      "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "49833"
+  },
+  {
+    "name": "Level 291",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st and 5th positions is 13.",
+      "- The digits at 3rd and 5th positions are even. The others are odd.",
+      "- The sum of all odd digits is 13.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "51078"
+  },
+  {
+    "name": "Level 292",
+    "hints": [
+      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 5th are equal.",
+      "- The sum of the digits at 2nd and 5th positions is 6.",
+      "- The sum of all even digits is 14.",
+      "- The difference between the largest and smallest digit is 6."
+    ],
+    "correctAnswer": "60126"
+  },
+  {
+    "name": "Level 293",
+    "hints": [
+      "- The digits at 2nd and 4th and those in 1st and 5th are equal.",
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 18.",
+      "- The sum of all odd digits is 19.",
+      "- The digits at 1st, 3rd and 5th positions are odd. The others are even.",
+      "- There are exactly 5 digits over 4."
+    ],
+    "correctAnswer": "76567"
+  },
+  {
+    "name": "Level 294",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 3rd, 4th and 5th positions is 20.",
+      "- The digit at 5th position is even. The others are odd.",
+      "- The sum of all odd digits is 22.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "73578"
+  },
+  {
+    "name": "Level 295",
+    "hints": [
+      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 5th are equal.",
+      "- The sum of all even digits is 20.",
+      "- There are exactly 3 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "22898"
+  },
+  {
+    "name": "Level 296",
+    "hints": [
+      "- The digits at 1st and 5th and those in 2nd and 3rd are equal.",
+      "- The digits at 1st and 5th positions are even. The others are odd.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all odd digits is 19.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "49914"
+  },
+  {
+    "name": "Level 297",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 1st and 5th are equal.",
+      "- The sum of all even digits is 18.",
+      "- The digits at 2nd and 3rd positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "81128"
+  },
+  {
+    "name": "Level 298",
+    "hints": [
+      "- The sum of the digits at 2nd, 3rd and 5th positions is 7.",
+      "- The sum of all even digits is 10.",
+      "- The digits at 1st and 3rd positions are odd. The others are even.",
+      "- There is exactly 1 digit over 4.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "12362"
+  },
+  {
+    "name": "Level 299",
+    "hints": [
+      "- The digits at 3rd and 4th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 6.",
+      "- The digit at 5th position is even. The others are odd.",
+      "- The sum of all even digits is 4.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "95114"
+  },
+  {
+    "name": "Level 300",
+    "hints": [
+      "- The digits at 4th and 5th positions are following each other.",
+      "- The sum of the digits at 1st and 4th positions is 8.",
+      "- The sum of all even digits is 12.",
+      "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
+      "- The sum of all digits is 27.",
+      "- The difference between the largest and smallest digit is 7."
+    ],
+    "correctAnswer": "17478"
+  },
+  {
+    "name": "Level 301",
+    "hints": [
+      "- The digits at 1st and 4th are equal.",
+      "- The sum of the digits at 4th and 5th positions is 8.",
+      "- The sum of the digits at 1st, 3rd and 4th positions is 13.",
+      "- There are exactly 3 even digits.",
+      "- The sum of all odd digits is 16."
+    ],
+    "correctAnswer": "27926"
+  },
+  {
+    "name": "Level 302",
+    "hints": [
+      "- The digits at 2nd and 3rd and those in 1st and 5th are equal.",
+      "- The sum of the digits at 2nd and 3rd positions is 6.",
+      "- All digits are odd.",
+      "- There are exactly 2 digits over 4.",
+      "- The difference between the largest and smallest digit is 8."
+    ],
+    "correctAnswer": "93319"
+  },
+  {
+    "name": "Level 303",
+    "hints": [
+      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The sum of the digits at 1st and 4th positions is 9.",
+      "- The sum of all even digits is 8.",
+      "- The sum of all odd digits is 7.",
+      "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
+      "- There are exactly 2 digits over 4."
+    ],
+    "correctAnswer": "81015"
+  },
+  {
+    "name": "Level 304",
+    "hints": [
+      "- The digits at 1st and 3rd are equal.",
+      "- The sum of the digits at 1st and 4th positions is 16.",
+      "- The digit at 2nd position is even. The others are odd.",
+      "- The sum of all odd digits is 28.",
+      "- The difference between the largest and smallest digit is 5."
+    ],
+    "correctAnswer": "74795"
+  }
+]
