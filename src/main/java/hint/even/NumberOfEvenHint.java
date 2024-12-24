@@ -24,9 +24,9 @@ public class NumberOfEvenHint extends Hint {
         } else if (numberOfEven == Code.CODE_LENGTH) {
             return "- Tous les chiffres sont pairs.";
         } else if (numberOfEven == 1) {
-            return "- Il y a exactement un chiffre pair.";
+            return "- Il y a un chiffre pair.";
         }
-        return "- Il y a exactement " + numberOfEven + " chiffres pairs.";
+        return "- Il y a " + numberOfEven + " chiffres pairs.";
     }
 
     @Override
@@ -36,9 +36,9 @@ public class NumberOfEvenHint extends Hint {
         } else if (numberOfEven == Code.CODE_LENGTH) {
             return "- All digits are even.";
         } else if (numberOfEven == 1) {
-            return "- There is exactly one even digit.";
+            return "- There is one even digit.";
         }
-        return "- There are exactly " + numberOfEven + " even digits.";
+        return "- There are " + numberOfEven + " even digits.";
     }
 
     @Override

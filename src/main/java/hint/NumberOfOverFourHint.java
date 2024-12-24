@@ -21,9 +21,9 @@ public class NumberOfOverFourHint extends Hint{
             return "- Il n'y a aucun chiffre superieur a 4.";
         } else
         if (numberOfOverFour == 1){
-            return "- Il y a exactement 1 chiffre superieur a 4.";
+            return "- Il y a 1 chiffre superieur a 4.";
         }
-        return "- Il y a exactement " + numberOfOverFour + " chiffres superieurs a 4.";
+        return "- Il y a " + numberOfOverFour + " chiffres superieurs a 4.";
     }
 
     @Override
@@ -32,9 +32,9 @@ public class NumberOfOverFourHint extends Hint{
             return "- There are no digits over 4.";
         } else
         if (numberOfOverFour == 1){
-            return "- There is exactly 1 digit over 4.";
+            return "- There is 1 digit over 4.";
         }
-        return "- There are exactly " + numberOfOverFour + " digits over 4.";
+        return "- There are " + numberOfOverFour + " digits over 4.";
     }
 
     @Override

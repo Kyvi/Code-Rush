@@ -24,9 +24,9 @@ public class NumberOfOddHint extends Hint {
             return "- Tous les chiffres sont impairs.";
         }
         else if(numberOfOdd == 1) {
-            return "- Il y a exactement un chiffre impair.";
+            return "- Il y a un chiffre impair.";
         }
-        return "- Il y a exactement " + numberOfOdd + " chiffres impairs.";
+        return "- Il y a " + numberOfOdd + " chiffres impairs.";
     }
 
     @Override
@@ -36,9 +36,9 @@ public class NumberOfOddHint extends Hint {
         } else if (numberOfOdd == Code.CODE_LENGTH) {
             return "- All digits are odd.";
         } else if (numberOfOdd == 1) {
-            return "- There is exactly one odd digit.";
+            return "- There is one odd digit.";
         }
-        return "- There are exactly " + numberOfOdd + " odd digits.";
+        return "- There are " + numberOfOdd + " odd digits.";
     }
 
     @Override

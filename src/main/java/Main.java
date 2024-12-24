@@ -18,14 +18,20 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int nbLevels = 2000;
+        int nbLevels = 1000;
+        int nbVeryEasy = 0;
         int nbEasy = 0;
         int nbNormal = 0;
         int nbHard = 0;
+        List<Level> veryEasyFrenchLevels = new ArrayList<>();
+        List<Level> veryEasyEnglishLevels = new ArrayList<>();
+
         List<Level> easyFrenchLevels = new ArrayList<>();
         List<Level> easyEnglishLevels = new ArrayList<>();
+
         List<Level> normalFrenchLevels = new ArrayList<>();
         List<Level> normalEnglishLevels = new ArrayList<>();
+
         List<Level> hardFrenchLevels = new ArrayList<>();
         List<Level> hardEnglishLevels = new ArrayList<>();
         for(int i=0; i<nbLevels; i++){
@@ -35,8 +41,9 @@ public class Main {
 
             Set<Hint> hints = hintGenerator.generateHints();
 
-            boolean isEasy = hints.size() < 5 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 1;
-            boolean isHard = hints.size() >= 5 && hints.stream().noneMatch(hint -> hint.getHintType().isEasy());
+            boolean isVeryEasy = hints.size() < 4 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 2;
+            boolean isEasy = !isVeryEasy && (hints.size() < 5 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 1);
+            boolean isHard = !isEasy && (hints.size() >= 5 && hints.stream().noneMatch(hint -> hint.getHintType().isEasy()));
 
             List<String> frenchLevelHints = hints.stream().map(hint -> hint.showHint(Language.FRENCH)).collect(Collectors.toList());
             List<String> englishLevelHints = hints.stream().map(hint -> hint.showHint(Language.ENGLISH)).collect(Collectors.toList());
@@ -49,25 +56,34 @@ public class Main {
 
             Code code = hintGenerator.getSolutionCode();
 
-            int levelNumber = i+1;
-            if(isEasy){
+            int levelNumber = 0;
+            if(isVeryEasy){
+                levelNumber = nbVeryEasy+1;
+            }
+            else if(isEasy){
                 levelNumber = nbEasy+1;
             }
-            else if(!isHard){
-                levelNumber = nbNormal+1;
+            else if(isHard){
+                levelNumber = nbHard+1;
             }
             else{
-                levelNumber = nbHard+1;
+                levelNumber = nbNormal+1;
             }
             Level frenchLevel = new Level("Niveau " + levelNumber, frenchLevelHints, code.toString());
             Level englishLevel = new Level("Level " + levelNumber, englishLevelHints, code.toString());
 
             System.out.println("Niveau " + (i+1) + " généré avec succès !");
+            System.out.println("Nombre de niveau très facile : " + nbVeryEasy);
             System.out.println("Nombre de niveau facile : " + nbEasy);
             System.out.println("Nombre de niveau moyen : " + nbNormal);
             System.out.println("Nombre de niveau difficile : " + nbHard);
 
-            if(isEasy){
+            if(isVeryEasy){
+                veryEasyFrenchLevels.add(frenchLevel);
+                veryEasyEnglishLevels.add(englishLevel);
+                nbVeryEasy++;
+            }
+            else if(isEasy){
                 easyFrenchLevels.add(frenchLevel);
                 easyEnglishLevels.add(englishLevel);
                 nbEasy++;
@@ -106,6 +122,20 @@ public class Main {
         try (FileWriter writer = new FileWriter("normalLevelsEN.json")) {
             gson.toJson(normalEnglishLevels, writer);
             System.out.println("EN JSON file generated successfully!");
+        } catch (IOException e) {
+            System.err.println("Error writing JSON file: " + e.getMessage());
+        }
+
+        try (FileWriter writer = new FileWriter("veryEasyLevelsFR.json")) {
+            gson.toJson(veryEasyFrenchLevels, writer);
+            System.out.println("Fichier JSON FR très facile généré avec succès !");
+        } catch (IOException e) {
+            System.err.println("Erreur lors de l'écriture du fichier JSON facile : " + e.getMessage());
+        }
+
+        try (FileWriter writer = new FileWriter("veryEasyLevelsEN.json")) {
+            gson.toJson(veryEasyEnglishLevels, writer);
+            System.out.println("EN JSON file very easy generated successfully!");
         } catch (IOException e) {
             System.err.println("Error writing JSON file: " + e.getMessage());
         }
