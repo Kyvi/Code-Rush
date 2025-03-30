@@ -13,23 +13,6 @@
   {
     "name": "Level 2",
     "hints": [
-      "- The digits at 2nd, 4th and 5th and those in 1st and 3rd are equal.",
-      "- The sum of the digits at 1st and 4th positions is 6.",
-      "- The sum of the digits at 4th and 5th positions is 4."
-    ],
-    "correctAnswer": "42422"
-  },
-  {
-    "name": "Level 3",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd, 4th and 5th positions are following each other.",
-      "- The sum of the digits at 2nd, 3rd and 5th positions is 17."
-    ],
-    "correctAnswer": "87654"
-  },
-  {
-    "name": "Level 4",
-    "hints": [
       "- The digit at 1st position is 5.",
       "- The digit at 3rd position is 2.",
       "- The digit at 4th position is 8.",
@@ -40,7 +23,7 @@
     "correctAnswer": "57286"
   },
   {
-    "name": "Level 5",
+    "name": "Level 3",
     "hints": [
       "- The digit at 1st position is 6.",
       "- The digit at 3rd position is 5.",
@@ -52,7 +35,7 @@
     "correctAnswer": "61540"
   },
   {
-    "name": "Level 6",
+    "name": "Level 4",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 3rd position is 8.",
@@ -64,7 +47,7 @@
     "correctAnswer": "31808"
   },
   {
-    "name": "Level 7",
+    "name": "Level 5",
     "hints": [
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 1st position is 7.",
@@ -75,7 +58,7 @@
     "correctAnswer": "70848"
   },
   {
-    "name": "Level 8",
+    "name": "Level 6",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 3rd position is 3.",
@@ -86,7 +69,7 @@
     "correctAnswer": "82376"
   },
   {
-    "name": "Level 9",
+    "name": "Level 7",
     "hints": [
       "- The digit at 3rd position is 0.",
       "- The digit at 4th position is 7.",
@@ -97,16 +80,7 @@
     "correctAnswer": "41072"
   },
   {
-    "name": "Level 10",
-    "hints": [
-      "- The digits at 3rd and 5th and those in 1st and 2nd are equal.",
-      "- The sum of the digits at 1st, 2nd and 5th positions is 26.",
-      "- The sum of all odd digits is 21."
-    ],
-    "correctAnswer": "99838"
-  },
-  {
-    "name": "Level 11",
+    "name": "Level 8",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 2nd position is 8.",
@@ -117,7 +91,7 @@
     "correctAnswer": "88925"
   },
   {
-    "name": "Level 12",
+    "name": "Level 9",
     "hints": [
       "- The digit at 2nd position is 1.",
       "- The digit at 3rd position is 7.",
@@ -128,18 +102,9 @@
     "correctAnswer": "61729"
   },
   {
-    "name": "Level 13",
+    "name": "Level 10",
     "hints": [
-      "- The digits at 2nd, 3rd, 4th and 5th are equal.",
-      "- The sum of all odd digits is 3.",
-      "- The sum of all digits is 35."
-    ],
-    "correctAnswer": "38888"
-  },
-  {
-    "name": "Level 14",
-    "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 0.",
       "- The digit at 2nd position is 9.",
       "- The digit at 4th position is 4.",
@@ -148,7 +113,7 @@
     "correctAnswer": "09841"
   },
   {
-    "name": "Level 15",
+    "name": "Level 11",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 3rd position is 7.",
@@ -158,16 +123,7 @@
     "correctAnswer": "01791"
   },
   {
-    "name": "Level 16",
-    "hints": [
-      "- The digits at 1st, 3rd and 4th and those in 2nd and 5th are equal.",
-      "- The digit at 3rd position is 7.",
-      "- The difference between the largest and smallest digit is 4."
-    ],
-    "correctAnswer": "73773"
-  },
-  {
-    "name": "Level 17",
+    "name": "Level 12",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 4th position is 9.",
@@ -178,7 +134,7 @@
     "correctAnswer": "71894"
   },
   {
-    "name": "Level 18",
+    "name": "Level 13",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 2nd position is 8.",
@@ -188,7 +144,7 @@
     "correctAnswer": "78090"
   },
   {
-    "name": "Level 19",
+    "name": "Level 14",
     "hints": [
       "- The digit at 1st position is 5.",
       "- The digit at 2nd position is 6.",
@@ -199,7 +155,7 @@
     "correctAnswer": "56590"
   },
   {
-    "name": "Level 20",
+    "name": "Level 15",
     "hints": [
       "- The digit at 1st position is 2.",
       "- The digit at 3rd position is 9.",
@@ -210,16 +166,7 @@
     "correctAnswer": "26958"
   },
   {
-    "name": "Level 21",
-    "hints": [
-      "- The digits at 1st, 3rd and 4th and those in 2nd and 5th are equal.",
-      "- The sum of all odd digits is 9.",
-      "- All digits are odd."
-    ],
-    "correctAnswer": "13113"
-  },
-  {
-    "name": "Level 22",
+    "name": "Level 16",
     "hints": [
       "- The digit at 2nd position is 5.",
       "- The digit at 3rd position is 6.",
@@ -230,25 +177,7 @@
     "correctAnswer": "95613"
   },
   {
-    "name": "Level 23",
-    "hints": [
-      "- The digits at 3rd, 4th and 5th and those in 1st and 2nd are equal.",
-      "- The sum of all odd digits is 23.",
-      "- The difference between the largest and smallest digit is 4."
-    ],
-    "correctAnswer": "77333"
-  },
-  {
-    "name": "Level 24",
-    "hints": [
-      "- The digits at 1st and 5th and those in 2nd, 3rd and 4th are equal.",
-      "- The sum of all digits is 22.",
-      "- There are 3 digits over 4."
-    ],
-    "correctAnswer": "26662"
-  },
-  {
-    "name": "Level 25",
+    "name": "Level 17",
     "hints": [
       "- The digit at 3rd position is 7.",
       "- The digit at 4th position is 1.",
@@ -259,7 +188,7 @@
     "correctAnswer": "71717"
   },
   {
-    "name": "Level 26",
+    "name": "Level 18",
     "hints": [
       "- The digit at 1st position is 4.",
       "- The digit at 2nd position is 9.",
@@ -270,7 +199,7 @@
     "correctAnswer": "49637"
   },
   {
-    "name": "Level 27",
+    "name": "Level 19",
     "hints": [
       "- The digit at 2nd position is 6.",
       "- The digit at 4th position is 9.",
@@ -282,7 +211,7 @@
     "correctAnswer": "06798"
   },
   {
-    "name": "Level 28",
+    "name": "Level 20",
     "hints": [
       "- The digit at 2nd position is 9.",
       "- The digit at 3rd position is 7.",
@@ -293,16 +222,7 @@
     "correctAnswer": "19791"
   },
   {
-    "name": "Level 29",
-    "hints": [
-      "- The digits at 2nd and 3rd and those in 1st, 4th and 5th are equal.",
-      "- The sum of the digits at 1st, 2nd and 3rd positions is 8.",
-      "- The difference between the largest and smallest digit is 2."
-    ],
-    "correctAnswer": "42244"
-  },
-  {
-    "name": "Level 30",
+    "name": "Level 21",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 3rd position is 0.",
@@ -313,7 +233,7 @@
     "correctAnswer": "81038"
   },
   {
-    "name": "Level 31",
+    "name": "Level 22",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 2nd position is 9.",
@@ -325,9 +245,9 @@
     "correctAnswer": "79853"
   },
   {
-    "name": "Level 32",
+    "name": "Level 23",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 1.",
       "- The digit at 3rd position is 9.",
       "- The digit at 4th position is 3.",
@@ -337,7 +257,7 @@
     "correctAnswer": "17932"
   },
   {
-    "name": "Level 33",
+    "name": "Level 24",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 3rd position is 6.",
@@ -348,18 +268,9 @@
     "correctAnswer": "34641"
   },
   {
-    "name": "Level 34",
+    "name": "Level 25",
     "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The sum of all even digits is 6.",
-      "- The sum of all digits is 26."
-    ],
-    "correctAnswer": "55565"
-  },
-  {
-    "name": "Level 35",
-    "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 6.",
       "- The digit at 3rd position is 1.",
       "- The digit at 5th position is 7.",
@@ -368,43 +279,7 @@
     "correctAnswer": "60187"
   },
   {
-    "name": "Level 36",
-    "hints": [
-      "- The digits at 1st, 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The sum of all even digits is 6.",
-      "- The sum of all digits is 24."
-    ],
-    "correctAnswer": "22992"
-  },
-  {
-    "name": "Level 37",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The sum of all odd digits is 9.",
-      "- The difference between the largest and smallest digit is 7."
-    ],
-    "correctAnswer": "22292"
-  },
-  {
-    "name": "Level 38",
-    "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
-      "- The sum of the digits at 1st, 4th and 5th positions is 0.",
-      "- The difference between the largest and smallest digit is 4."
-    ],
-    "correctAnswer": "04100"
-  },
-  {
-    "name": "Level 39",
-    "hints": [
-      "- The digits at 1st, 2nd and 3rd and those in 4th and 5th are equal.",
-      "- The sum of the digits at 1st, 2nd and 5th positions is 12.",
-      "- The sum of all odd digits is 9."
-    ],
-    "correctAnswer": "33366"
-  },
-  {
-    "name": "Level 40",
+    "name": "Level 26",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 3rd position is 5.",
@@ -416,7 +291,7 @@
     "correctAnswer": "02539"
   },
   {
-    "name": "Level 41",
+    "name": "Level 27",
     "hints": [
       "- The digit at 3rd position is 8.",
       "- The digit at 4th position is 3.",
@@ -428,7 +303,7 @@
     "correctAnswer": "67830"
   },
   {
-    "name": "Level 42",
+    "name": "Level 28",
     "hints": [
       "- The digit at 2nd position is 1.",
       "- The digit at 4th position is 2.",
@@ -440,9 +315,9 @@
     "correctAnswer": "31624"
   },
   {
-    "name": "Level 43",
+    "name": "Level 29",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 1.",
       "- The digit at 3rd position is 9.",
       "- The digit at 5th position is 6.",
@@ -452,7 +327,7 @@
     "correctAnswer": "10936"
   },
   {
-    "name": "Level 44",
+    "name": "Level 30",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 3rd position is 5.",
@@ -463,7 +338,7 @@
     "correctAnswer": "72552"
   },
   {
-    "name": "Level 45",
+    "name": "Level 31",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 2nd position is 7.",
@@ -474,16 +349,7 @@
     "correctAnswer": "77784"
   },
   {
-    "name": "Level 46",
-    "hints": [
-      "- The digits at 3rd and 4th and those in 1st, 2nd and 5th are equal.",
-      "- The digit at 1st position is 9.",
-      "- The sum of the digits at 1st and 3rd positions is 10."
-    ],
-    "correctAnswer": "99119"
-  },
-  {
-    "name": "Level 47",
+    "name": "Level 32",
     "hints": [
       "- The digit at 1st position is 5.",
       "- The digit at 2nd position is 4.",
@@ -494,7 +360,7 @@
     "correctAnswer": "54734"
   },
   {
-    "name": "Level 48",
+    "name": "Level 33",
     "hints": [
       "- The digit at 2nd position is 8.",
       "- The digit at 3rd position is 2.",
@@ -506,7 +372,7 @@
     "correctAnswer": "48219"
   },
   {
-    "name": "Level 49",
+    "name": "Level 34",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 3rd position is 3.",
@@ -517,16 +383,7 @@
     "correctAnswer": "71345"
   },
   {
-    "name": "Level 50",
-    "hints": [
-      "- The digits at 2nd, 3rd and 5th and those in 1st and 4th are equal.",
-      "- The sum of all digits is 24.",
-      "- The difference between the largest and smallest digit is 3."
-    ],
-    "correctAnswer": "36636"
-  },
-  {
-    "name": "Level 51",
+    "name": "Level 35",
     "hints": [
       "- The digit at 1st position is 9.",
       "- The digit at 3rd position is 6.",
@@ -538,7 +395,7 @@
     "correctAnswer": "93620"
   },
   {
-    "name": "Level 52",
+    "name": "Level 36",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 4th position is 7.",
@@ -550,7 +407,7 @@
     "correctAnswer": "22977"
   },
   {
-    "name": "Level 53",
+    "name": "Level 37",
     "hints": [
       "- The digit at 1st position is 1.",
       "- The digit at 2nd position is 9.",
@@ -561,16 +418,7 @@
     "correctAnswer": "19631"
   },
   {
-    "name": "Level 54",
-    "hints": [
-      "- The digits at 2nd and 3rd and those in 1st, 4th and 5th are equal.",
-      "- The sum of the digits at 2nd, 3rd and 4th positions is 17.",
-      "- The difference between the largest and smallest digit is 2."
-    ],
-    "correctAnswer": "75577"
-  },
-  {
-    "name": "Level 55",
+    "name": "Level 38",
     "hints": [
       "- The digit at 1st position is 4.",
       "- The digit at 2nd position is 2.",
@@ -581,9 +429,9 @@
     "correctAnswer": "42319"
   },
   {
-    "name": "Level 56",
+    "name": "Level 39",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The digit at 3rd position is 2.",
       "- The digit at 4th position is 2.",
@@ -593,7 +441,7 @@
     "correctAnswer": "33227"
   },
   {
-    "name": "Level 57",
+    "name": "Level 40",
     "hints": [
       "- The digit at 1st position is 9.",
       "- The digit at 2nd position is 4.",
@@ -604,7 +452,7 @@
     "correctAnswer": "94742"
   },
   {
-    "name": "Level 58",
+    "name": "Level 41",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 2nd position is 1.",
@@ -615,18 +463,9 @@
     "correctAnswer": "31687"
   },
   {
-    "name": "Level 59",
+    "name": "Level 42",
     "hints": [
-      "- The digits at 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The digit at 2nd position is 1.",
-      "- The sum of all odd digits is 27."
-    ],
-    "correctAnswer": "71991"
-  },
-  {
-    "name": "Level 60",
-    "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 8.",
       "- The digit at 4th position is 6.",
       "- The digit at 5th position is 1.",
@@ -636,9 +475,9 @@
     "correctAnswer": "80561"
   },
   {
-    "name": "Level 61",
+    "name": "Level 43",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The digit at 3rd position is 2.",
       "- The digit at 4th position is 5.",
@@ -647,14 +486,7 @@
     "correctAnswer": "31259"
   },
   {
-    "name": "Level 62",
-    "hints": [
-      "- The sum of all digits is 45."
-    ],
-    "correctAnswer": "99999"
-  },
-  {
-    "name": "Level 63",
+    "name": "Level 44",
     "hints": [
       "- The digit at 2nd position is 1.",
       "- The digit at 3rd position is 1.",
@@ -665,16 +497,7 @@
     "correctAnswer": "91171"
   },
   {
-    "name": "Level 64",
-    "hints": [
-      "- The digits at 1st, 4th and 5th are equal.",
-      "- The digit at 2nd position is 2.",
-      "- The sum of all even digits is 30."
-    ],
-    "correctAnswer": "82488"
-  },
-  {
-    "name": "Level 65",
+    "name": "Level 45",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 3rd position is 6.",
@@ -685,7 +508,7 @@
     "correctAnswer": "79608"
   },
   {
-    "name": "Level 66",
+    "name": "Level 46",
     "hints": [
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 1st position is 5.",
@@ -696,7 +519,7 @@
     "correctAnswer": "51578"
   },
   {
-    "name": "Level 67",
+    "name": "Level 47",
     "hints": [
       "- The digit at 1st position is 2.",
       "- The digit at 3rd position is 7.",
@@ -709,16 +532,7 @@
     "correctAnswer": "23756"
   },
   {
-    "name": "Level 68",
-    "hints": [
-      "- The digits at 1st, 2nd and 4th are equal.",
-      "- The sum of the digits at 2nd, 3rd and 4th positions is 7.",
-      "- The sum of all odd digits is 16."
-    ],
-    "correctAnswer": "00709"
-  },
-  {
-    "name": "Level 69",
+    "name": "Level 48",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 2nd position is 0.",
@@ -729,7 +543,7 @@
     "correctAnswer": "80055"
   },
   {
-    "name": "Level 70",
+    "name": "Level 49",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 2nd position is 3.",
@@ -740,7 +554,7 @@
     "correctAnswer": "03548"
   },
   {
-    "name": "Level 71",
+    "name": "Level 50",
     "hints": [
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 3rd position is 6.",
@@ -751,7 +565,7 @@
     "correctAnswer": "56627"
   },
   {
-    "name": "Level 72",
+    "name": "Level 51",
     "hints": [
       "- The digit at 1st position is 1.",
       "- The digit at 3rd position is 4.",
@@ -763,7 +577,7 @@
     "correctAnswer": "13480"
   },
   {
-    "name": "Level 73",
+    "name": "Level 52",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 2nd position is 5.",
@@ -774,7 +588,7 @@
     "correctAnswer": "05259"
   },
   {
-    "name": "Level 74",
+    "name": "Level 53",
     "hints": [
       "- The digit at 2nd position is 1.",
       "- The digit at 3rd position is 2.",
@@ -786,7 +600,7 @@
     "correctAnswer": "71256"
   },
   {
-    "name": "Level 75",
+    "name": "Level 54",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 3rd position is 7.",
@@ -797,7 +611,7 @@
     "correctAnswer": "08706"
   },
   {
-    "name": "Level 76",
+    "name": "Level 55",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 4th position is 1.",
@@ -809,7 +623,7 @@
     "correctAnswer": "72614"
   },
   {
-    "name": "Level 77",
+    "name": "Level 56",
     "hints": [
       "- The digit at 2nd position is 3.",
       "- The digit at 3rd position is 2.",
@@ -820,16 +634,7 @@
     "correctAnswer": "93251"
   },
   {
-    "name": "Level 78",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The sum of all odd digits is 9.",
-      "- The difference between the largest and smallest digit is 4."
-    ],
-    "correctAnswer": "11151"
-  },
-  {
-    "name": "Level 79",
+    "name": "Level 57",
     "hints": [
       "- The digit at 1st position is 9.",
       "- The digit at 2nd position is 8.",
@@ -840,18 +645,9 @@
     "correctAnswer": "98665"
   },
   {
-    "name": "Level 80",
+    "name": "Level 58",
     "hints": [
-      "- The digits at 2nd, 3rd, 4th and 5th positions are following each other.",
-      "- The digit at 2nd position is 9.",
-      "- The sum of all digits is 32."
-    ],
-    "correctAnswer": "29876"
-  },
-  {
-    "name": "Level 81",
-    "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 6.",
       "- The digit at 2nd position is 4.",
       "- The digit at 4th position is 9.",
@@ -860,7 +656,7 @@
     "correctAnswer": "64098"
   },
   {
-    "name": "Level 82",
+    "name": "Level 59",
     "hints": [
       "- The digit at 1st position is 0.",
       "- The digit at 2nd position is 2.",
@@ -870,7 +666,7 @@
     "correctAnswer": "02878"
   },
   {
-    "name": "Level 83",
+    "name": "Level 60",
     "hints": [
       "- The digit at 1st position is 9.",
       "- The digit at 2nd position is 4.",
@@ -881,25 +677,7 @@
     "correctAnswer": "94691"
   },
   {
-    "name": "Level 84",
-    "hints": [
-      "- The digits at 1st, 2nd and 3rd are equal.",
-      "- The digit at 4th position is 0.",
-      "- The sum of all odd digits is 14."
-    ],
-    "correctAnswer": "33305"
-  },
-  {
-    "name": "Level 85",
-    "hints": [
-      "- The digits at 1st, 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The sum of the digits at 1st, 2nd and 3rd positions is 17.",
-      "- The sum of all odd digits is 29."
-    ],
-    "correctAnswer": "55775"
-  },
-  {
-    "name": "Level 86",
+    "name": "Level 61",
     "hints": [
       "- The digit at 1st position is 2.",
       "- The digit at 3rd position is 5.",
@@ -910,7 +688,7 @@
     "correctAnswer": "26530"
   },
   {
-    "name": "Level 87",
+    "name": "Level 62",
     "hints": [
       "- The digit at 1st position is 2.",
       "- The digit at 2nd position is 7.",
@@ -921,7 +699,7 @@
     "correctAnswer": "27184"
   },
   {
-    "name": "Level 88",
+    "name": "Level 63",
     "hints": [
       "- The digit at 2nd position is 5.",
       "- The digit at 3rd position is 2.",
@@ -932,16 +710,7 @@
     "correctAnswer": "95281"
   },
   {
-    "name": "Level 89",
-    "hints": [
-      "- The digits at 1st, 2nd and 3rd and those in 4th and 5th are equal.",
-      "- The digit at 2nd position is 6.",
-      "- The sum of the digits at 1st, 3rd and 4th positions is 15."
-    ],
-    "correctAnswer": "66633"
-  },
-  {
-    "name": "Level 90",
+    "name": "Level 64",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 3rd position is 3.",
@@ -952,9 +721,9 @@
     "correctAnswer": "75367"
   },
   {
-    "name": "Level 91",
+    "name": "Level 65",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The digit at 4th position is 1.",
       "- The digit at 5th position is 7.",
@@ -963,7 +732,7 @@
     "correctAnswer": "34917"
   },
   {
-    "name": "Level 92",
+    "name": "Level 66",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 3rd position is 4.",
@@ -975,7 +744,7 @@
     "correctAnswer": "52418"
   },
   {
-    "name": "Level 93",
+    "name": "Level 67",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 2nd position is 6.",
@@ -987,7 +756,7 @@
     "correctAnswer": "36271"
   },
   {
-    "name": "Level 94",
+    "name": "Level 68",
     "hints": [
       "- The digit at 2nd position is 0.",
       "- The digit at 3rd position is 9.",
@@ -998,7 +767,7 @@
     "correctAnswer": "80943"
   },
   {
-    "name": "Level 95",
+    "name": "Level 69",
     "hints": [
       "- The digit at 2nd position is 9.",
       "- The digit at 4th position is 1.",
@@ -1010,7 +779,7 @@
     "correctAnswer": "49317"
   },
   {
-    "name": "Level 96",
+    "name": "Level 70",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 3rd position is 1.",
@@ -1022,7 +791,7 @@
     "correctAnswer": "80175"
   },
   {
-    "name": "Level 97",
+    "name": "Level 71",
     "hints": [
       "- The digit at 1st position is 2.",
       "- The digit at 2nd position is 8.",
@@ -1034,16 +803,7 @@
     "correctAnswer": "28341"
   },
   {
-    "name": "Level 98",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 4th positions are following each other.",
-      "- The digits at 3rd and 5th are equal.",
-      "- The sum of all digits is 17."
-    ],
-    "correctAnswer": "54323"
-  },
-  {
-    "name": "Level 99",
+    "name": "Level 72",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 2nd position is 8.",
@@ -1055,7 +815,7 @@
     "correctAnswer": "88122"
   },
   {
-    "name": "Level 100",
+    "name": "Level 73",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 4th position is 7.",
@@ -1067,7 +827,7 @@
     "correctAnswer": "86570"
   },
   {
-    "name": "Level 101",
+    "name": "Level 74",
     "hints": [
       "- The digit at 1st position is 1.",
       "- The digit at 2nd position is 9.",
@@ -1079,7 +839,7 @@
     "correctAnswer": "19236"
   },
   {
-    "name": "Level 102",
+    "name": "Level 75",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 2nd position is 1.",
@@ -1090,9 +850,9 @@
     "correctAnswer": "31685"
   },
   {
-    "name": "Level 103",
+    "name": "Level 76",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 0.",
       "- The digit at 2nd position is 1.",
       "- The digit at 5th position is 0.",
@@ -1102,7 +862,7 @@
     "correctAnswer": "01070"
   },
   {
-    "name": "Level 104",
+    "name": "Level 77",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 2nd position is 9.",
@@ -1114,9 +874,9 @@
     "correctAnswer": "89270"
   },
   {
-    "name": "Level 105",
+    "name": "Level 78",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 0.",
       "- The digit at 3rd position is 2.",
       "- The digit at 5th position is 5.",
@@ -1125,7 +885,7 @@
     "correctAnswer": "01275"
   },
   {
-    "name": "Level 106",
+    "name": "Level 79",
     "hints": [
       "- The digits at 1st and 5th are equal.",
       "- The digit at 1st position is 9.",
@@ -1136,7 +896,7 @@
     "correctAnswer": "95289"
   },
   {
-    "name": "Level 107",
+    "name": "Level 80",
     "hints": [
       "- The digit at 1st position is 6.",
       "- The digit at 2nd position is 1.",
@@ -1147,7 +907,7 @@
     "correctAnswer": "61272"
   },
   {
-    "name": "Level 108",
+    "name": "Level 81",
     "hints": [
       "- The digit at 3rd position is 1.",
       "- The digit at 4th position is 7.",
@@ -1159,7 +919,7 @@
     "correctAnswer": "83175"
   },
   {
-    "name": "Level 109",
+    "name": "Level 82",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 2nd position is 5.",
@@ -1170,7 +930,7 @@
     "correctAnswer": "35789"
   },
   {
-    "name": "Level 110",
+    "name": "Level 83",
     "hints": [
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 3rd position is 9.",
@@ -1181,43 +941,7 @@
     "correctAnswer": "35925"
   },
   {
-    "name": "Level 111",
-    "hints": [
-      "- The digits at 1st, 3rd and 4th and those in 2nd and 5th are equal.",
-      "- The sum of all odd digits is 17.",
-      "- There are 2 digits over 4."
-    ],
-    "correctAnswer": "17117"
-  },
-  {
-    "name": "Level 112",
-    "hints": [
-      "- The digits at 1st, 2nd, 4th and 5th are equal.",
-      "- There are 4 odd digits.",
-      "- The sum of all digits is 26."
-    ],
-    "correctAnswer": "55655"
-  },
-  {
-    "name": "Level 113",
-    "hints": [
-      "- The digits at 1st, 2nd and 3rd and those in 4th and 5th positions are following each other.",
-      "- The sum of the digits at 2nd, 3rd and 5th positions is 20.",
-      "- The sum of all digits is 30."
-    ],
-    "correctAnswer": "67845"
-  },
-  {
-    "name": "Level 114",
-    "hints": [
-      "- The digits at 1st, 3rd and 5th and those in 2nd and 4th are equal.",
-      "- There are 3 even digits.",
-      "- The sum of all digits is 36."
-    ],
-    "correctAnswer": "69696"
-  },
-  {
-    "name": "Level 115",
+    "name": "Level 84",
     "hints": [
       "- The digit at 1st position is 3.",
       "- The digit at 2nd position is 2.",
@@ -1228,34 +952,7 @@
     "correctAnswer": "32715"
   },
   {
-    "name": "Level 116",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The digit at 3rd position is 9.",
-      "- The digit at 4th position is 5."
-    ],
-    "correctAnswer": "99959"
-  },
-  {
-    "name": "Level 117",
-    "hints": [
-      "- The digits at 2nd and 3rd and those in 1st, 4th and 5th are equal.",
-      "- The sum of the digits at 1st and 4th positions is 10.",
-      "- The sum of all digits is 33."
-    ],
-    "correctAnswer": "59955"
-  },
-  {
-    "name": "Level 118",
-    "hints": [
-      "- The digits at 2nd, 3rd, 4th and 5th are equal.",
-      "- The digit at 4th position is 4.",
-      "- The sum of all even digits is 24."
-    ],
-    "correctAnswer": "84444"
-  },
-  {
-    "name": "Level 119",
+    "name": "Level 85",
     "hints": [
       "- The digit at 2nd position is 6.",
       "- The digit at 4th position is 5.",
@@ -1267,16 +964,7 @@
     "correctAnswer": "86751"
   },
   {
-    "name": "Level 120",
-    "hints": [
-      "- The digit at 4th position is odd. The others are even.",
-      "- The sum of all digits is 39.",
-      "- The difference between the largest and smallest digit is 1."
-    ],
-    "correctAnswer": "88878"
-  },
-  {
-    "name": "Level 121",
+    "name": "Level 86",
     "hints": [
       "- The digits at 1st and 4th are equal.",
       "- The digit at 1st position is 5.",
@@ -1287,25 +975,7 @@
     "correctAnswer": "57251"
   },
   {
-    "name": "Level 122",
-    "hints": [
-      "- The digits at 1st, 4th and 5th are equal.",
-      "- The sum of the digits at 1st and 2nd positions is 11.",
-      "- The sum of all odd digits is 4."
-    ],
-    "correctAnswer": "83188"
-  },
-  {
-    "name": "Level 123",
-    "hints": [
-      "- The digits at 1st and 3rd and those in 4th and 5th are equal.",
-      "- The digit at 4th position is 4.",
-      "- The sum of all even digits is 30."
-    ],
-    "correctAnswer": "86844"
-  },
-  {
-    "name": "Level 124",
+    "name": "Level 87",
     "hints": [
       "- The digit at 1st position is 5.",
       "- The digit at 2nd position is 4.",
@@ -1317,27 +987,9 @@
     "correctAnswer": "54134"
   },
   {
-    "name": "Level 125",
+    "name": "Level 88",
     "hints": [
-      "- The digits at 1st, 3rd, 4th and 5th are equal.",
-      "- The sum of all digits is 37.",
-      "- The difference between the largest and smallest digit is 3."
-    ],
-    "correctAnswer": "85888"
-  },
-  {
-    "name": "Level 126",
-    "hints": [
-      "- The digits at 1st, 3rd, 4th and 5th are equal.",
-      "- The sum of all odd digits is 37.",
-      "- The difference between the largest and smallest digit is 2."
-    ],
-    "correctAnswer": "79777"
-  },
-  {
-    "name": "Level 127",
-    "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 2.",
       "- The digit at 2nd position is 2.",
       "- The digit at 5th position is 4.",
@@ -1347,16 +999,7 @@
     "correctAnswer": "22254"
   },
   {
-    "name": "Level 128",
-    "hints": [
-      "- The digits at 1st, 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The sum of the digits at 1st and 4th positions is 9.",
-      "- The sum of all odd digits is 14."
-    ],
-    "correctAnswer": "22772"
-  },
-  {
-    "name": "Level 129",
+    "name": "Level 89",
     "hints": [
       "- The digit at 1st position is 9.",
       "- The digit at 2nd position is 6.",
@@ -1367,7 +1010,7 @@
     "correctAnswer": "96592"
   },
   {
-    "name": "Level 130",
+    "name": "Level 90",
     "hints": [
       "- The digit at 2nd position is 5.",
       "- The digit at 3rd position is 6.",
@@ -1378,7 +1021,7 @@
     "correctAnswer": "25663"
   },
   {
-    "name": "Level 131",
+    "name": "Level 91",
     "hints": [
       "- The digit at 2nd position is 2.",
       "- The digit at 4th position is 1.",
@@ -1390,16 +1033,7 @@
     "correctAnswer": "72611"
   },
   {
-    "name": "Level 132",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The sum of the digits at 2nd and 3rd positions is 0.",
-      "- The sum of all digits is 8."
-    ],
-    "correctAnswer": "00080"
-  },
-  {
-    "name": "Level 133",
+    "name": "Level 92",
     "hints": [
       "- The digit at 2nd position is 5.",
       "- The digit at 3rd position is 8.",
@@ -1410,7 +1044,7 @@
     "correctAnswer": "95842"
   },
   {
-    "name": "Level 134",
+    "name": "Level 93",
     "hints": [
       "- The digit at 1st position is 7.",
       "- The digit at 2nd position is 5.",
@@ -1421,7 +1055,7 @@
     "correctAnswer": "75104"
   },
   {
-    "name": "Level 135",
+    "name": "Level 94",
     "hints": [
       "- The digit at 2nd position is 0.",
       "- The digit at 3rd position is 6.",
@@ -1432,16 +1066,7 @@
     "correctAnswer": "20683"
   },
   {
-    "name": "Level 136",
-    "hints": [
-      "- The digit at 3rd position is 9.",
-      "- There is one odd digit.",
-      "- The difference between the largest and smallest digit is 1."
-    ],
-    "correctAnswer": "88988"
-  },
-  {
-    "name": "Level 137",
+    "name": "Level 95",
     "hints": [
       "- The digit at 2nd position is 1.",
       "- The digit at 4th position is 8.",
@@ -1452,9 +1077,9 @@
     "correctAnswer": "61481"
   },
   {
-    "name": "Level 138",
+    "name": "Level 96",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 5.",
       "- The digit at 2nd position is 2.",
       "- The digit at 4th position is 6.",
@@ -1463,7 +1088,7 @@
     "correctAnswer": "52368"
   },
   {
-    "name": "Level 139",
+    "name": "Level 97",
     "hints": [
       "- The digit at 3rd position is 1.",
       "- The digit at 4th position is 7.",
@@ -1476,7 +1101,7 @@
     "correctAnswer": "91176"
   },
   {
-    "name": "Level 140",
+    "name": "Level 98",
     "hints": [
       "- The digit at 1st position is 8.",
       "- The digit at 4th position is 5.",
@@ -1487,7 +1112,7 @@
     "correctAnswer": "82853"
   },
   {
-    "name": "Level 141",
+    "name": "Level 99",
     "hints": [
       "- The digit at 2nd position is 9.",
       "- The digit at 3rd position is 9.",
@@ -1500,9 +1125,9 @@
     "correctAnswer": "69923"
   },
   {
-    "name": "Level 142",
+    "name": "Level 100",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 3.",
       "- The digit at 3rd position is 2.",
       "- The digit at 5th position is 9.",
@@ -1512,7 +1137,7 @@
     "correctAnswer": "73219"
   },
   {
-    "name": "Level 143",
+    "name": "Level 101",
     "hints": [
       "- The digit at 2nd position is 4.",
       "- The digit at 3rd position is 9.",
@@ -1524,7 +1149,7 @@
     "correctAnswer": "54984"
   },
   {
-    "name": "Level 144",
+    "name": "Level 102",
     "hints": [
       "- The digit at 2nd position is 9.",
       "- The digit at 4th position is 7.",
@@ -1535,7 +1160,7 @@
     "correctAnswer": "69672"
   },
   {
-    "name": "Level 145",
+    "name": "Level 103",
     "hints": [
       "- The digit at 2nd position is 8.",
       "- The digit at 3rd position is 1.",
@@ -1546,42 +1171,7 @@
     "correctAnswer": "08162"
   },
   {
-    "name": "Level 146",
-    "hints": [
-      "- The digits at 1st, 2nd, 3rd and 5th are equal.",
-      "- The sum of the digits at 2nd, 3rd and 4th positions is 18.",
-      "- The sum of all even digits is 0."
-    ],
-    "correctAnswer": "99909"
-  },
-  {
-    "name": "Level 147",
-    "hints": [
-      "- The digits at 1st, 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The sum of all even digits is 14."
-    ],
-    "correctAnswer": "22442"
-  },
-  {
-    "name": "Level 148",
-    "hints": [
-      "- The digits at 1st, 3rd and 5th and those in 2nd and 4th are equal.",
-      "- The sum of all digits is 17.",
-      "- The difference between the largest and smallest digit is 6."
-    ],
-    "correctAnswer": "17171"
-  },
-  {
-    "name": "Level 149",
-    "hints": [
-      "- The digits at 2nd and 4th and those in 1st, 3rd and 5th are equal.",
-      "- The sum of all digits is 21.",
-      "- The difference between the largest and smallest digit is 2."
-    ],
-    "correctAnswer": "53535"
-  },
-  {
-    "name": "Level 150",
+    "name": "Level 104",
     "hints": [
       "- The digit at 1st position is 5.",
       "- The digit at 4th position is 9.",
@@ -1592,16 +1182,7 @@
     "correctAnswer": "58196"
   },
   {
-    "name": "Level 151",
-    "hints": [
-      "- The digits at 1st, 2nd and 5th and those in 3rd and 4th are equal.",
-      "- The sum of all odd digits is 33.",
-      "- The difference between the largest and smallest digit is 4."
-    ],
-    "correctAnswer": "55995"
-  },
-  {
-    "name": "Level 152",
+    "name": "Level 105",
     "hints": [
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 1st position is 8.",
@@ -1612,9 +1193,9 @@
     "correctAnswer": "88704"
   },
   {
-    "name": "Level 153",
+    "name": "Level 106",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 1.",
       "- The digit at 4th position is 5.",
       "- The digit at 5th position is 2.",
@@ -1624,16 +1205,7 @@
     "correctAnswer": "01652"
   },
   {
-    "name": "Level 154",
-    "hints": [
-      "- The digits at 4th and 5th and those in 1st, 2nd and 3rd are equal.",
-      "- The sum of all even digits is 8.",
-      "- The sum of all odd digits is 21."
-    ],
-    "correctAnswer": "77744"
-  },
-  {
-    "name": "Level 155",
+    "name": "Level 107",
     "hints": [
       "- The digit at 2nd position is 9.",
       "- The digit at 3rd position is 2.",
@@ -1642,22 +1214,5 @@
       "- The sum of all odd digits is 16."
     ],
     "correctAnswer": "79206"
-  },
-  {
-    "name": "Level 156",
-    "hints": [
-      "- The digits at 3rd, 4th and 5th and those in 1st and 2nd are equal.",
-      "- The sum of all digits is 16.",
-      "- The difference between the largest and smallest digit is 3."
-    ],
-    "correctAnswer": "55222"
-  },
-  {
-    "name": "Level 157",
-    "hints": [
-      "- The digits at 2nd and 4th and those in 1st, 3rd and 5th are equal.",
-      "- The sum of all even digits is 32."
-    ],
-    "correctAnswer": "84848"
   }
 ]

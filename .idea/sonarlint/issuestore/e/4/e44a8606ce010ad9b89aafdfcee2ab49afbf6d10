@@ -1,0 +1,35 @@
+
+p
+java:S1192~"ZDefine a constant instead of duplicating this literal "Error writing JSON file: " 4 times.(—ô™‹
+[
+java:S2184'"@Cast one of the operands of this addition operation to a "long".(ñ†õœýÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘
+h
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ø¢·«
+m
+java:S62041"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¥çñ‰ûÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(”Ö£œ
+E	java:S106K"+Replace this use of System.out by a logger.(ÖºéÞøÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(ÚÐ£²
+E	java:S106M"+Replace this use of System.out by a logger.(çˆíºûÿÿÿÿ
+@	java:S106N"+Replace this use of System.out by a logger.(´¥»ç
+E	java:S106O"+Replace this use of System.out by a logger.(çÂØ¾øÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(Íáã¢ÿÿÿÿÿ
+@	java:S106u"+Replace this use of System.out by a logger.(œô¹¥
+E	java:S106w"+Replace this use of System.err by a logger.(’ÊÑþÿÿÿÿ
+E	java:S106|"+Replace this use of System.out by a logger.(õ“šÙûÿÿÿÿ
+@	java:S106~"+Replace this use of System.err by a logger.(—ô™‹
+@	java:S106ƒ"+Replace this use of System.out by a logger.(Åèô
+A	java:S106…"+Replace this use of System.err by a logger.(×ŠÇ
+F	java:S106Š"+Replace this use of System.out by a logger.(ÀÂÝ¢øÿÿÿÿ
+A	java:S106Œ"+Replace this use of System.err by a logger.(—ô™‹
+A	java:S106‘"+Replace this use of System.out by a logger.(ÄÎ›÷
+A	java:S106“"+Replace this use of System.err by a logger.(×ŠÇ
+A	java:S106˜"+Replace this use of System.out by a logger.(¸§Ê´
+A	java:S106š"+Replace this use of System.err by a logger.(—ô™‹
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(éÝõëùÿÿÿÿ
+F	java:S106¡"+Replace this use of System.err by a logger.(’ÊÑþÿÿÿÿ
+F	java:S106¦"+Replace this use of System.out by a logger.(ØÉÛÅþÿÿÿÿ
+A	java:S106¨"+Replace this use of System.err by a logger.(—ô™‹
+R	java:S125¬"<This block of commented-out lines of code should be removed.(¡ Ú¦

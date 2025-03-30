@@ -6,29 +6,12 @@
       "- Le chiffre en 3e position est 6.",
       "- Le chiffre en 5e position est 2.",
       "- La somme des chiffres pairs est 16.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "43642"
   },
   {
     "name": "Niveau 2",
-    "hints": [
-      "- Les chiffres en 2e, 4e et 5e et ceux en 1e et 3e positions sont égaux.",
-      "- La somme des chiffres en 1e et 4e position est 6.",
-      "- La somme des chiffres en 4e et 5e position est 4."
-    ],
-    "correctAnswer": "42422"
-  },
-  {
-    "name": "Niveau 3",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e, 4e et 5e positions se suivent.",
-      "- La somme des chiffres en 2e, 3e et 5e positions est 17."
-    ],
-    "correctAnswer": "87654"
-  },
-  {
-    "name": "Niveau 4",
     "hints": [
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 3e position est 2.",
@@ -40,7 +23,7 @@
     "correctAnswer": "57286"
   },
   {
-    "name": "Niveau 5",
+    "name": "Niveau 3",
     "hints": [
       "- Le chiffre en 1e position est 6.",
       "- Le chiffre en 3e position est 5.",
@@ -52,7 +35,7 @@
     "correctAnswer": "61540"
   },
   {
-    "name": "Niveau 6",
+    "name": "Niveau 4",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 3e position est 8.",
@@ -64,7 +47,7 @@
     "correctAnswer": "31808"
   },
   {
-    "name": "Niveau 7",
+    "name": "Niveau 5",
     "hints": [
       "- Les chiffres en 3e et 5e positions sont égaux.",
       "- Le chiffre en 1e position est 7.",
@@ -75,7 +58,7 @@
     "correctAnswer": "70848"
   },
   {
-    "name": "Niveau 8",
+    "name": "Niveau 6",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 3e position est 3.",
@@ -86,7 +69,7 @@
     "correctAnswer": "82376"
   },
   {
-    "name": "Niveau 9",
+    "name": "Niveau 7",
     "hints": [
       "- Le chiffre en 3e position est 0.",
       "- Le chiffre en 4e position est 7.",
@@ -97,16 +80,7 @@
     "correctAnswer": "41072"
   },
   {
-    "name": "Niveau 10",
-    "hints": [
-      "- Les chiffres en 3e et 5e et ceux en 1e et 2e positions sont égaux.",
-      "- La somme des chiffres en 1e, 2e et 5e positions est 26.",
-      "- La somme des chiffres impairs est 21."
-    ],
-    "correctAnswer": "99838"
-  },
-  {
-    "name": "Niveau 11",
+    "name": "Niveau 8",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 2e position est 8.",
@@ -117,7 +91,7 @@
     "correctAnswer": "88925"
   },
   {
-    "name": "Niveau 12",
+    "name": "Niveau 9",
     "hints": [
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 3e position est 7.",
@@ -128,18 +102,9 @@
     "correctAnswer": "61729"
   },
   {
-    "name": "Niveau 13",
+    "name": "Niveau 10",
     "hints": [
-      "- Les chiffres en 2e, 3e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 3.",
-      "- La somme des chiffres est 35."
-    ],
-    "correctAnswer": "38888"
-  },
-  {
-    "name": "Niveau 14",
-    "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 4e position est 4.",
@@ -148,7 +113,7 @@
     "correctAnswer": "09841"
   },
   {
-    "name": "Niveau 15",
+    "name": "Niveau 11",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 3e position est 7.",
@@ -158,16 +123,7 @@
     "correctAnswer": "01791"
   },
   {
-    "name": "Niveau 16",
-    "hints": [
-      "- Les chiffres en 1e, 3e et 4e et ceux en 2e et 5e positions sont égaux.",
-      "- Le chiffre en 3e position est 7.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 4."
-    ],
-    "correctAnswer": "73773"
-  },
-  {
-    "name": "Niveau 17",
+    "name": "Niveau 12",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 4e position est 9.",
@@ -178,7 +134,7 @@
     "correctAnswer": "71894"
   },
   {
-    "name": "Niveau 18",
+    "name": "Niveau 13",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 2e position est 8.",
@@ -188,7 +144,7 @@
     "correctAnswer": "78090"
   },
   {
-    "name": "Niveau 19",
+    "name": "Niveau 14",
     "hints": [
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 2e position est 6.",
@@ -199,7 +155,7 @@
     "correctAnswer": "56590"
   },
   {
-    "name": "Niveau 20",
+    "name": "Niveau 15",
     "hints": [
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 3e position est 9.",
@@ -210,16 +166,7 @@
     "correctAnswer": "26958"
   },
   {
-    "name": "Niveau 21",
-    "hints": [
-      "- Les chiffres en 1e, 3e et 4e et ceux en 2e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 9.",
-      "- Tous les chiffres sont impairs."
-    ],
-    "correctAnswer": "13113"
-  },
-  {
-    "name": "Niveau 22",
+    "name": "Niveau 16",
     "hints": [
       "- Le chiffre en 2e position est 5.",
       "- Le chiffre en 3e position est 6.",
@@ -230,25 +177,7 @@
     "correctAnswer": "95613"
   },
   {
-    "name": "Niveau 23",
-    "hints": [
-      "- Les chiffres en 3e, 4e et 5e et ceux en 1e et 2e positions sont égaux.",
-      "- La somme des chiffres impairs est 23.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 4."
-    ],
-    "correctAnswer": "77333"
-  },
-  {
-    "name": "Niveau 24",
-    "hints": [
-      "- Les chiffres en 1e et 5e et ceux en 2e, 3e et 4e positions sont égaux.",
-      "- La somme des chiffres est 22.",
-      "- Il y a 3 chiffres superieurs a 4."
-    ],
-    "correctAnswer": "26662"
-  },
-  {
-    "name": "Niveau 25",
+    "name": "Niveau 17",
     "hints": [
       "- Le chiffre en 3e position est 7.",
       "- Le chiffre en 4e position est 1.",
@@ -259,7 +188,7 @@
     "correctAnswer": "71717"
   },
   {
-    "name": "Niveau 26",
+    "name": "Niveau 18",
     "hints": [
       "- Le chiffre en 1e position est 4.",
       "- Le chiffre en 2e position est 9.",
@@ -270,7 +199,7 @@
     "correctAnswer": "49637"
   },
   {
-    "name": "Niveau 27",
+    "name": "Niveau 19",
     "hints": [
       "- Le chiffre en 2e position est 6.",
       "- Le chiffre en 4e position est 9.",
@@ -282,7 +211,7 @@
     "correctAnswer": "06798"
   },
   {
-    "name": "Niveau 28",
+    "name": "Niveau 20",
     "hints": [
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 3e position est 7.",
@@ -293,16 +222,7 @@
     "correctAnswer": "19791"
   },
   {
-    "name": "Niveau 29",
-    "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 1e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres en 1e, 2e et 3e positions est 8.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 2."
-    ],
-    "correctAnswer": "42244"
-  },
-  {
-    "name": "Niveau 30",
+    "name": "Niveau 21",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 3e position est 0.",
@@ -313,7 +233,7 @@
     "correctAnswer": "81038"
   },
   {
-    "name": "Niveau 31",
+    "name": "Niveau 22",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 2e position est 9.",
@@ -325,9 +245,9 @@
     "correctAnswer": "79853"
   },
   {
-    "name": "Niveau 32",
+    "name": "Niveau 23",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 1.",
       "- Le chiffre en 3e position est 9.",
       "- Le chiffre en 4e position est 3.",
@@ -337,29 +257,20 @@
     "correctAnswer": "17932"
   },
   {
-    "name": "Niveau 33",
+    "name": "Niveau 24",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 3e position est 6.",
       "- Le chiffre en 5e position est 1.",
       "- La somme des chiffres pairs est 14.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "34641"
   },
   {
-    "name": "Niveau 34",
+    "name": "Niveau 25",
     "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres pairs est 6.",
-      "- La somme des chiffres est 26."
-    ],
-    "correctAnswer": "55565"
-  },
-  {
-    "name": "Niveau 35",
-    "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 6.",
       "- Le chiffre en 3e position est 1.",
       "- Le chiffre en 5e position est 7.",
@@ -368,43 +279,7 @@
     "correctAnswer": "60187"
   },
   {
-    "name": "Niveau 36",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- La somme des chiffres pairs est 6.",
-      "- La somme des chiffres est 24."
-    ],
-    "correctAnswer": "22992"
-  },
-  {
-    "name": "Niveau 37",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 9.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 7."
-    ],
-    "correctAnswer": "22292"
-  },
-  {
-    "name": "Niveau 38",
-    "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
-      "- La somme des chiffres en 1e, 4e et 5e positions est 0.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 4."
-    ],
-    "correctAnswer": "04100"
-  },
-  {
-    "name": "Niveau 39",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 3e et ceux en 4e et 5e positions sont égaux.",
-      "- La somme des chiffres en 1e, 2e et 5e positions est 12.",
-      "- La somme des chiffres impairs est 9."
-    ],
-    "correctAnswer": "33366"
-  },
-  {
-    "name": "Niveau 40",
+    "name": "Niveau 26",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 3e position est 5.",
@@ -416,7 +291,7 @@
     "correctAnswer": "02539"
   },
   {
-    "name": "Niveau 41",
+    "name": "Niveau 27",
     "hints": [
       "- Le chiffre en 3e position est 8.",
       "- Le chiffre en 4e position est 3.",
@@ -428,7 +303,7 @@
     "correctAnswer": "67830"
   },
   {
-    "name": "Niveau 42",
+    "name": "Niveau 28",
     "hints": [
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 4e position est 2.",
@@ -440,9 +315,9 @@
     "correctAnswer": "31624"
   },
   {
-    "name": "Niveau 43",
+    "name": "Niveau 29",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 1.",
       "- Le chiffre en 3e position est 9.",
       "- Le chiffre en 5e position est 6.",
@@ -452,7 +327,7 @@
     "correctAnswer": "10936"
   },
   {
-    "name": "Niveau 44",
+    "name": "Niveau 30",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 3e position est 5.",
@@ -463,7 +338,7 @@
     "correctAnswer": "72552"
   },
   {
-    "name": "Niveau 45",
+    "name": "Niveau 31",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 2e position est 7.",
@@ -474,16 +349,7 @@
     "correctAnswer": "77784"
   },
   {
-    "name": "Niveau 46",
-    "hints": [
-      "- Les chiffres en 3e et 4e et ceux en 1e, 2e et 5e positions sont égaux.",
-      "- Le chiffre en 1e position est 9.",
-      "- La somme des chiffres en 1e et 3e position est 10."
-    ],
-    "correctAnswer": "99119"
-  },
-  {
-    "name": "Niveau 47",
+    "name": "Niveau 32",
     "hints": [
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 2e position est 4.",
@@ -494,7 +360,7 @@
     "correctAnswer": "54734"
   },
   {
-    "name": "Niveau 48",
+    "name": "Niveau 33",
     "hints": [
       "- Le chiffre en 2e position est 8.",
       "- Le chiffre en 3e position est 2.",
@@ -506,7 +372,7 @@
     "correctAnswer": "48219"
   },
   {
-    "name": "Niveau 49",
+    "name": "Niveau 34",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 3e position est 3.",
@@ -517,16 +383,7 @@
     "correctAnswer": "71345"
   },
   {
-    "name": "Niveau 50",
-    "hints": [
-      "- Les chiffres en 2e, 3e et 5e et ceux en 1e et 4e positions sont égaux.",
-      "- La somme des chiffres est 24.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 3."
-    ],
-    "correctAnswer": "36636"
-  },
-  {
-    "name": "Niveau 51",
+    "name": "Niveau 35",
     "hints": [
       "- Le chiffre en 1e position est 9.",
       "- Le chiffre en 3e position est 6.",
@@ -538,7 +395,7 @@
     "correctAnswer": "93620"
   },
   {
-    "name": "Niveau 52",
+    "name": "Niveau 36",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 4e position est 7.",
@@ -550,7 +407,7 @@
     "correctAnswer": "22977"
   },
   {
-    "name": "Niveau 53",
+    "name": "Niveau 37",
     "hints": [
       "- Le chiffre en 1e position est 1.",
       "- Le chiffre en 2e position est 9.",
@@ -561,16 +418,7 @@
     "correctAnswer": "19631"
   },
   {
-    "name": "Niveau 54",
-    "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 1e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres en 2e, 3e et 4e positions est 17.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 2."
-    ],
-    "correctAnswer": "75577"
-  },
-  {
-    "name": "Niveau 55",
+    "name": "Niveau 38",
     "hints": [
       "- Le chiffre en 1e position est 4.",
       "- Le chiffre en 2e position est 2.",
@@ -581,9 +429,9 @@
     "correctAnswer": "42319"
   },
   {
-    "name": "Niveau 56",
+    "name": "Niveau 39",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 3e position est 2.",
       "- Le chiffre en 4e position est 2.",
@@ -593,7 +441,7 @@
     "correctAnswer": "33227"
   },
   {
-    "name": "Niveau 57",
+    "name": "Niveau 40",
     "hints": [
       "- Le chiffre en 1e position est 9.",
       "- Le chiffre en 2e position est 4.",
@@ -604,7 +452,7 @@
     "correctAnswer": "94742"
   },
   {
-    "name": "Niveau 58",
+    "name": "Niveau 41",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 2e position est 1.",
@@ -615,18 +463,9 @@
     "correctAnswer": "31687"
   },
   {
-    "name": "Niveau 59",
+    "name": "Niveau 42",
     "hints": [
-      "- Les chiffres en 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- Le chiffre en 2e position est 1.",
-      "- La somme des chiffres impairs est 27."
-    ],
-    "correctAnswer": "71991"
-  },
-  {
-    "name": "Niveau 60",
-    "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 4e position est 6.",
       "- Le chiffre en 5e position est 1.",
@@ -636,9 +475,9 @@
     "correctAnswer": "80561"
   },
   {
-    "name": "Niveau 61",
+    "name": "Niveau 43",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 3e position est 2.",
       "- Le chiffre en 4e position est 5.",
@@ -647,14 +486,7 @@
     "correctAnswer": "31259"
   },
   {
-    "name": "Niveau 62",
-    "hints": [
-      "- La somme des chiffres est 45."
-    ],
-    "correctAnswer": "99999"
-  },
-  {
-    "name": "Niveau 63",
+    "name": "Niveau 44",
     "hints": [
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 3e position est 1.",
@@ -665,16 +497,7 @@
     "correctAnswer": "91171"
   },
   {
-    "name": "Niveau 64",
-    "hints": [
-      "- Les chiffres en 1e, 4e et 5e positions sont égaux.",
-      "- Le chiffre en 2e position est 2.",
-      "- La somme des chiffres pairs est 30."
-    ],
-    "correctAnswer": "82488"
-  },
-  {
-    "name": "Niveau 65",
+    "name": "Niveau 45",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 3e position est 6.",
@@ -685,7 +508,7 @@
     "correctAnswer": "79608"
   },
   {
-    "name": "Niveau 66",
+    "name": "Niveau 46",
     "hints": [
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- Le chiffre en 1e position est 5.",
@@ -696,40 +519,31 @@
     "correctAnswer": "51578"
   },
   {
-    "name": "Niveau 67",
+    "name": "Niveau 47",
     "hints": [
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 3e position est 7.",
       "- Le chiffre en 5e position est 6.",
       "- La somme des chiffres en 3e, 4e et 5e positions est 18.",
       "- La somme des chiffres pairs est 8.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "23756"
   },
   {
-    "name": "Niveau 68",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 4e positions sont égaux.",
-      "- La somme des chiffres en 2e, 3e et 4e positions est 7.",
-      "- La somme des chiffres impairs est 16."
-    ],
-    "correctAnswer": "00709"
-  },
-  {
-    "name": "Niveau 69",
+    "name": "Niveau 48",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 2e position est 0.",
       "- Le chiffre en 3e position est 0.",
       "- La somme des chiffres impairs est 10.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "80055"
   },
   {
-    "name": "Niveau 70",
+    "name": "Niveau 49",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 2e position est 3.",
@@ -740,7 +554,7 @@
     "correctAnswer": "03548"
   },
   {
-    "name": "Niveau 71",
+    "name": "Niveau 50",
     "hints": [
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- Le chiffre en 3e position est 6.",
@@ -751,7 +565,7 @@
     "correctAnswer": "56627"
   },
   {
-    "name": "Niveau 72",
+    "name": "Niveau 51",
     "hints": [
       "- Le chiffre en 1e position est 1.",
       "- Le chiffre en 3e position est 4.",
@@ -763,7 +577,7 @@
     "correctAnswer": "13480"
   },
   {
-    "name": "Niveau 73",
+    "name": "Niveau 52",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 2e position est 5.",
@@ -774,19 +588,19 @@
     "correctAnswer": "05259"
   },
   {
-    "name": "Niveau 74",
+    "name": "Niveau 53",
     "hints": [
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 3e position est 2.",
       "- Le chiffre en 4e position est 5.",
       "- Le chiffre en 5e position est 6.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "71256"
   },
   {
-    "name": "Niveau 75",
+    "name": "Niveau 54",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 3e position est 7.",
@@ -797,19 +611,19 @@
     "correctAnswer": "08706"
   },
   {
-    "name": "Niveau 76",
+    "name": "Niveau 55",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 4e position est 1.",
       "- Le chiffre en 5e position est 4.",
       "- Les chiffres en 2e, 3e et 5e positions sont pairs. Les autres sont impairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "72614"
   },
   {
-    "name": "Niveau 77",
+    "name": "Niveau 56",
     "hints": [
       "- Le chiffre en 2e position est 3.",
       "- Le chiffre en 3e position est 2.",
@@ -820,16 +634,7 @@
     "correctAnswer": "93251"
   },
   {
-    "name": "Niveau 78",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 9.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 4."
-    ],
-    "correctAnswer": "11151"
-  },
-  {
-    "name": "Niveau 79",
+    "name": "Niveau 57",
     "hints": [
       "- Le chiffre en 1e position est 9.",
       "- Le chiffre en 2e position est 8.",
@@ -840,18 +645,9 @@
     "correctAnswer": "98665"
   },
   {
-    "name": "Niveau 80",
+    "name": "Niveau 58",
     "hints": [
-      "- Les chiffres en 2e, 3e, 4e et 5e positions se suivent.",
-      "- Le chiffre en 2e position est 9.",
-      "- La somme des chiffres est 32."
-    ],
-    "correctAnswer": "29876"
-  },
-  {
-    "name": "Niveau 81",
-    "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 6.",
       "- Le chiffre en 2e position est 4.",
       "- Le chiffre en 4e position est 9.",
@@ -860,7 +656,7 @@
     "correctAnswer": "64098"
   },
   {
-    "name": "Niveau 82",
+    "name": "Niveau 59",
     "hints": [
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 2e position est 2.",
@@ -870,7 +666,7 @@
     "correctAnswer": "02878"
   },
   {
-    "name": "Niveau 83",
+    "name": "Niveau 60",
     "hints": [
       "- Le chiffre en 1e position est 9.",
       "- Le chiffre en 2e position est 4.",
@@ -881,25 +677,7 @@
     "correctAnswer": "94691"
   },
   {
-    "name": "Niveau 84",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 3e positions sont égaux.",
-      "- Le chiffre en 4e position est 0.",
-      "- La somme des chiffres impairs est 14."
-    ],
-    "correctAnswer": "33305"
-  },
-  {
-    "name": "Niveau 85",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- La somme des chiffres en 1e, 2e et 3e positions est 17.",
-      "- La somme des chiffres impairs est 29."
-    ],
-    "correctAnswer": "55775"
-  },
-  {
-    "name": "Niveau 86",
+    "name": "Niveau 61",
     "hints": [
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 3e position est 5.",
@@ -910,7 +688,7 @@
     "correctAnswer": "26530"
   },
   {
-    "name": "Niveau 87",
+    "name": "Niveau 62",
     "hints": [
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 2e position est 7.",
@@ -921,7 +699,7 @@
     "correctAnswer": "27184"
   },
   {
-    "name": "Niveau 88",
+    "name": "Niveau 63",
     "hints": [
       "- Le chiffre en 2e position est 5.",
       "- Le chiffre en 3e position est 2.",
@@ -932,16 +710,7 @@
     "correctAnswer": "95281"
   },
   {
-    "name": "Niveau 89",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 3e et ceux en 4e et 5e positions sont égaux.",
-      "- Le chiffre en 2e position est 6.",
-      "- La somme des chiffres en 1e, 3e et 4e positions est 15."
-    ],
-    "correctAnswer": "66633"
-  },
-  {
-    "name": "Niveau 90",
+    "name": "Niveau 64",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 3e position est 3.",
@@ -952,9 +721,9 @@
     "correctAnswer": "75367"
   },
   {
-    "name": "Niveau 91",
+    "name": "Niveau 65",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 4e position est 1.",
       "- Le chiffre en 5e position est 7.",
@@ -963,7 +732,7 @@
     "correctAnswer": "34917"
   },
   {
-    "name": "Niveau 92",
+    "name": "Niveau 66",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 3e position est 4.",
@@ -975,7 +744,7 @@
     "correctAnswer": "52418"
   },
   {
-    "name": "Niveau 93",
+    "name": "Niveau 67",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 2e position est 6.",
@@ -987,7 +756,7 @@
     "correctAnswer": "36271"
   },
   {
-    "name": "Niveau 94",
+    "name": "Niveau 68",
     "hints": [
       "- Le chiffre en 2e position est 0.",
       "- Le chiffre en 3e position est 9.",
@@ -998,7 +767,7 @@
     "correctAnswer": "80943"
   },
   {
-    "name": "Niveau 95",
+    "name": "Niveau 69",
     "hints": [
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 4e position est 1.",
@@ -1010,7 +779,7 @@
     "correctAnswer": "49317"
   },
   {
-    "name": "Niveau 96",
+    "name": "Niveau 70",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 3e position est 1.",
@@ -1022,7 +791,7 @@
     "correctAnswer": "80175"
   },
   {
-    "name": "Niveau 97",
+    "name": "Niveau 71",
     "hints": [
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 2e position est 8.",
@@ -1034,16 +803,7 @@
     "correctAnswer": "28341"
   },
   {
-    "name": "Niveau 98",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 4e positions se suivent.",
-      "- Les chiffres en 3e et 5e positions sont égaux.",
-      "- La somme des chiffres est 17."
-    ],
-    "correctAnswer": "54323"
-  },
-  {
-    "name": "Niveau 99",
+    "name": "Niveau 72",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 2e position est 8.",
@@ -1055,7 +815,7 @@
     "correctAnswer": "88122"
   },
   {
-    "name": "Niveau 100",
+    "name": "Niveau 73",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 4e position est 7.",
@@ -1067,7 +827,7 @@
     "correctAnswer": "86570"
   },
   {
-    "name": "Niveau 101",
+    "name": "Niveau 74",
     "hints": [
       "- Le chiffre en 1e position est 1.",
       "- Le chiffre en 2e position est 9.",
@@ -1079,7 +839,7 @@
     "correctAnswer": "19236"
   },
   {
-    "name": "Niveau 102",
+    "name": "Niveau 75",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 2e position est 1.",
@@ -1090,9 +850,9 @@
     "correctAnswer": "31685"
   },
   {
-    "name": "Niveau 103",
+    "name": "Niveau 76",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 5e position est 0.",
@@ -1102,7 +862,7 @@
     "correctAnswer": "01070"
   },
   {
-    "name": "Niveau 104",
+    "name": "Niveau 77",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 2e position est 9.",
@@ -1114,9 +874,9 @@
     "correctAnswer": "89270"
   },
   {
-    "name": "Niveau 105",
+    "name": "Niveau 78",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 0.",
       "- Le chiffre en 3e position est 2.",
       "- Le chiffre en 5e position est 5.",
@@ -1125,7 +885,7 @@
     "correctAnswer": "01275"
   },
   {
-    "name": "Niveau 106",
+    "name": "Niveau 79",
     "hints": [
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Le chiffre en 1e position est 9.",
@@ -1136,7 +896,7 @@
     "correctAnswer": "95289"
   },
   {
-    "name": "Niveau 107",
+    "name": "Niveau 80",
     "hints": [
       "- Le chiffre en 1e position est 6.",
       "- Le chiffre en 2e position est 1.",
@@ -1147,7 +907,7 @@
     "correctAnswer": "61272"
   },
   {
-    "name": "Niveau 108",
+    "name": "Niveau 81",
     "hints": [
       "- Le chiffre en 3e position est 1.",
       "- Le chiffre en 4e position est 7.",
@@ -1159,7 +919,7 @@
     "correctAnswer": "83175"
   },
   {
-    "name": "Niveau 109",
+    "name": "Niveau 82",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 2e position est 5.",
@@ -1170,7 +930,7 @@
     "correctAnswer": "35789"
   },
   {
-    "name": "Niveau 110",
+    "name": "Niveau 83",
     "hints": [
       "- Les chiffres en 2e et 5e positions sont égaux.",
       "- Le chiffre en 3e position est 9.",
@@ -1181,43 +941,7 @@
     "correctAnswer": "35925"
   },
   {
-    "name": "Niveau 111",
-    "hints": [
-      "- Les chiffres en 1e, 3e et 4e et ceux en 2e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 17.",
-      "- Il y a 2 chiffres superieurs a 4."
-    ],
-    "correctAnswer": "17117"
-  },
-  {
-    "name": "Niveau 112",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 4e et 5e positions sont égaux.",
-      "- Il y a 4 chiffres impairs.",
-      "- La somme des chiffres est 26."
-    ],
-    "correctAnswer": "55655"
-  },
-  {
-    "name": "Niveau 113",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 3e et ceux en 4e et 5e positions se suivent.",
-      "- La somme des chiffres en 2e, 3e et 5e positions est 20.",
-      "- La somme des chiffres est 30."
-    ],
-    "correctAnswer": "67845"
-  },
-  {
-    "name": "Niveau 114",
-    "hints": [
-      "- Les chiffres en 1e, 3e et 5e et ceux en 2e et 4e positions sont égaux.",
-      "- Il y a 3 chiffres pairs.",
-      "- La somme des chiffres est 36."
-    ],
-    "correctAnswer": "69696"
-  },
-  {
-    "name": "Niveau 115",
+    "name": "Niveau 84",
     "hints": [
       "- Le chiffre en 1e position est 3.",
       "- Le chiffre en 2e position est 2.",
@@ -1228,55 +952,19 @@
     "correctAnswer": "32715"
   },
   {
-    "name": "Niveau 116",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- Le chiffre en 3e position est 9.",
-      "- Le chiffre en 4e position est 5."
-    ],
-    "correctAnswer": "99959"
-  },
-  {
-    "name": "Niveau 117",
-    "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 1e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres en 1e et 4e position est 10.",
-      "- La somme des chiffres est 33."
-    ],
-    "correctAnswer": "59955"
-  },
-  {
-    "name": "Niveau 118",
-    "hints": [
-      "- Les chiffres en 2e, 3e, 4e et 5e positions sont égaux.",
-      "- Le chiffre en 4e position est 4.",
-      "- La somme des chiffres pairs est 24."
-    ],
-    "correctAnswer": "84444"
-  },
-  {
-    "name": "Niveau 119",
+    "name": "Niveau 85",
     "hints": [
       "- Le chiffre en 2e position est 6.",
       "- Le chiffre en 4e position est 5.",
       "- Le chiffre en 5e position est 1.",
       "- La somme des chiffres en 3e et 4e position est 12.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "86751"
   },
   {
-    "name": "Niveau 120",
-    "hints": [
-      "- Le chiffre en 4e position est impair. Les autres sont pairs.",
-      "- La somme des chiffres est 39.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 1."
-    ],
-    "correctAnswer": "88878"
-  },
-  {
-    "name": "Niveau 121",
+    "name": "Niveau 86",
     "hints": [
       "- Les chiffres en 1e et 4e positions sont égaux.",
       "- Le chiffre en 1e position est 5.",
@@ -1287,25 +975,7 @@
     "correctAnswer": "57251"
   },
   {
-    "name": "Niveau 122",
-    "hints": [
-      "- Les chiffres en 1e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres en 1e et 2e position est 11.",
-      "- La somme des chiffres impairs est 4."
-    ],
-    "correctAnswer": "83188"
-  },
-  {
-    "name": "Niveau 123",
-    "hints": [
-      "- Les chiffres en 1e et 3e et ceux en 4e et 5e positions sont égaux.",
-      "- Le chiffre en 4e position est 4.",
-      "- La somme des chiffres pairs est 30."
-    ],
-    "correctAnswer": "86844"
-  },
-  {
-    "name": "Niveau 124",
+    "name": "Niveau 87",
     "hints": [
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 2e position est 4.",
@@ -1317,27 +987,9 @@
     "correctAnswer": "54134"
   },
   {
-    "name": "Niveau 125",
+    "name": "Niveau 88",
     "hints": [
-      "- Les chiffres en 1e, 3e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres est 37.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 3."
-    ],
-    "correctAnswer": "85888"
-  },
-  {
-    "name": "Niveau 126",
-    "hints": [
-      "- Les chiffres en 1e, 3e, 4e et 5e positions sont égaux.",
-      "- La somme des chiffres impairs est 37.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 2."
-    ],
-    "correctAnswer": "79777"
-  },
-  {
-    "name": "Niveau 127",
-    "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 2.",
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 5e position est 4.",
@@ -1347,16 +999,7 @@
     "correctAnswer": "22254"
   },
   {
-    "name": "Niveau 128",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- La somme des chiffres en 1e et 4e position est 9.",
-      "- La somme des chiffres impairs est 14."
-    ],
-    "correctAnswer": "22772"
-  },
-  {
-    "name": "Niveau 129",
+    "name": "Niveau 89",
     "hints": [
       "- Le chiffre en 1e position est 9.",
       "- Le chiffre en 2e position est 6.",
@@ -1367,7 +1010,7 @@
     "correctAnswer": "96592"
   },
   {
-    "name": "Niveau 130",
+    "name": "Niveau 90",
     "hints": [
       "- Le chiffre en 2e position est 5.",
       "- Le chiffre en 3e position est 6.",
@@ -1378,7 +1021,7 @@
     "correctAnswer": "25663"
   },
   {
-    "name": "Niveau 131",
+    "name": "Niveau 91",
     "hints": [
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 4e position est 1.",
@@ -1390,16 +1033,7 @@
     "correctAnswer": "72611"
   },
   {
-    "name": "Niveau 132",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres en 2e et 3e position est 0.",
-      "- La somme des chiffres est 8."
-    ],
-    "correctAnswer": "00080"
-  },
-  {
-    "name": "Niveau 133",
+    "name": "Niveau 92",
     "hints": [
       "- Le chiffre en 2e position est 5.",
       "- Le chiffre en 3e position est 8.",
@@ -1410,7 +1044,7 @@
     "correctAnswer": "95842"
   },
   {
-    "name": "Niveau 134",
+    "name": "Niveau 93",
     "hints": [
       "- Le chiffre en 1e position est 7.",
       "- Le chiffre en 2e position est 5.",
@@ -1421,7 +1055,7 @@
     "correctAnswer": "75104"
   },
   {
-    "name": "Niveau 135",
+    "name": "Niveau 94",
     "hints": [
       "- Le chiffre en 2e position est 0.",
       "- Le chiffre en 3e position est 6.",
@@ -1432,16 +1066,7 @@
     "correctAnswer": "20683"
   },
   {
-    "name": "Niveau 136",
-    "hints": [
-      "- Le chiffre en 3e position est 9.",
-      "- Il y a un chiffre impair.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 1."
-    ],
-    "correctAnswer": "88988"
-  },
-  {
-    "name": "Niveau 137",
+    "name": "Niveau 95",
     "hints": [
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 4e position est 8.",
@@ -1452,9 +1077,9 @@
     "correctAnswer": "61481"
   },
   {
-    "name": "Niveau 138",
+    "name": "Niveau 96",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 2e position est 2.",
       "- Le chiffre en 4e position est 6.",
@@ -1463,7 +1088,7 @@
     "correctAnswer": "52368"
   },
   {
-    "name": "Niveau 139",
+    "name": "Niveau 97",
     "hints": [
       "- Le chiffre en 3e position est 1.",
       "- Le chiffre en 4e position est 7.",
@@ -1471,12 +1096,12 @@
       "- Le code ne contient pas de chiffre 3.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 16.",
       "- Il y a un chiffre pair.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "91176"
   },
   {
-    "name": "Niveau 140",
+    "name": "Niveau 98",
     "hints": [
       "- Le chiffre en 1e position est 8.",
       "- Le chiffre en 4e position est 5.",
@@ -1487,22 +1112,22 @@
     "correctAnswer": "82853"
   },
   {
-    "name": "Niveau 141",
+    "name": "Niveau 99",
     "hints": [
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 3e position est 9.",
       "- Le chiffre en 4e position est 2.",
       "- La somme des chiffres pairs est 8.",
       "- Les chiffres en 2e, 3e et 5e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "69923"
   },
   {
-    "name": "Niveau 142",
+    "name": "Niveau 100",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 2e position est 3.",
       "- Le chiffre en 3e position est 2.",
       "- Le chiffre en 5e position est 9.",
@@ -1512,7 +1137,7 @@
     "correctAnswer": "73219"
   },
   {
-    "name": "Niveau 143",
+    "name": "Niveau 101",
     "hints": [
       "- Le chiffre en 2e position est 4.",
       "- Le chiffre en 3e position est 9.",
@@ -1524,18 +1149,18 @@
     "correctAnswer": "54984"
   },
   {
-    "name": "Niveau 144",
+    "name": "Niveau 102",
     "hints": [
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 4e position est 7.",
       "- Le chiffre en 5e position est 2.",
       "- La somme des chiffres pairs est 14.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "69672"
   },
   {
-    "name": "Niveau 145",
+    "name": "Niveau 103",
     "hints": [
       "- Le chiffre en 2e position est 8.",
       "- Le chiffre en 3e position est 1.",
@@ -1546,42 +1171,7 @@
     "correctAnswer": "08162"
   },
   {
-    "name": "Niveau 146",
-    "hints": [
-      "- Les chiffres en 1e, 2e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres en 2e, 3e et 4e positions est 18.",
-      "- La somme des chiffres pairs est 0."
-    ],
-    "correctAnswer": "99909"
-  },
-  {
-    "name": "Niveau 147",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- La somme des chiffres pairs est 14."
-    ],
-    "correctAnswer": "22442"
-  },
-  {
-    "name": "Niveau 148",
-    "hints": [
-      "- Les chiffres en 1e, 3e et 5e et ceux en 2e et 4e positions sont égaux.",
-      "- La somme des chiffres est 17.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 6."
-    ],
-    "correctAnswer": "17171"
-  },
-  {
-    "name": "Niveau 149",
-    "hints": [
-      "- Les chiffres en 2e et 4e et ceux en 1e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres est 21.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 2."
-    ],
-    "correctAnswer": "53535"
-  },
-  {
-    "name": "Niveau 150",
+    "name": "Niveau 104",
     "hints": [
       "- Le chiffre en 1e position est 5.",
       "- Le chiffre en 4e position est 9.",
@@ -1592,16 +1182,7 @@
     "correctAnswer": "58196"
   },
   {
-    "name": "Niveau 151",
-    "hints": [
-      "- Les chiffres en 1e, 2e et 5e et ceux en 3e et 4e positions sont égaux.",
-      "- La somme des chiffres impairs est 33.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 4."
-    ],
-    "correctAnswer": "55995"
-  },
-  {
-    "name": "Niveau 152",
+    "name": "Niveau 105",
     "hints": [
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- Le chiffre en 1e position est 8.",
@@ -1612,9 +1193,9 @@
     "correctAnswer": "88704"
   },
   {
-    "name": "Niveau 153",
+    "name": "Niveau 106",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Le chiffre en 2e position est 1.",
       "- Le chiffre en 4e position est 5.",
       "- Le chiffre en 5e position est 2.",
@@ -1624,16 +1205,7 @@
     "correctAnswer": "01652"
   },
   {
-    "name": "Niveau 154",
-    "hints": [
-      "- Les chiffres en 4e et 5e et ceux en 1e, 2e et 3e positions sont égaux.",
-      "- La somme des chiffres pairs est 8.",
-      "- La somme des chiffres impairs est 21."
-    ],
-    "correctAnswer": "77744"
-  },
-  {
-    "name": "Niveau 155",
+    "name": "Niveau 107",
     "hints": [
       "- Le chiffre en 2e position est 9.",
       "- Le chiffre en 3e position est 2.",
@@ -1642,22 +1214,5 @@
       "- La somme des chiffres impairs est 16."
     ],
     "correctAnswer": "79206"
-  },
-  {
-    "name": "Niveau 156",
-    "hints": [
-      "- Les chiffres en 3e, 4e et 5e et ceux en 1e et 2e positions sont égaux.",
-      "- La somme des chiffres est 16.",
-      "- La différence entre le chiffre le plus grand et le plus petit est de 3."
-    ],
-    "correctAnswer": "55222"
-  },
-  {
-    "name": "Niveau 157",
-    "hints": [
-      "- Les chiffres en 2e et 4e et ceux en 1e, 3e et 5e positions sont égaux.",
-      "- La somme des chiffres pairs est 32."
-    ],
-    "correctAnswer": "84848"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "name": "Level 1",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 4th are equal.",
       "- The digit at 3rd position is 7.",
       "- There are 2 even digits.",
@@ -13,7 +13,7 @@
   {
     "name": "Level 2",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 4.",
       "- The sum of the digits at 2nd and 5th positions is 10.",
       "- The sum of all odd digits is 12.",
@@ -47,7 +47,7 @@
   {
     "name": "Level 5",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The digits at 1st and 5th positions are even. The others are odd.",
       "- The sum of all even digits is 12.",
@@ -70,7 +70,7 @@
   {
     "name": "Level 7",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 1.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 13.",
       "- The sum of the digits at 2nd, 3rd and 5th positions is 15.",
@@ -82,7 +82,7 @@
   {
     "name": "Level 8",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 1st position is 8.",
       "- The sum of the digits at 2nd and 4th positions is 10.",
@@ -104,7 +104,7 @@
   {
     "name": "Level 10",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 1.",
       "- The digits at 1st and 5th positions are even. The others are odd.",
       "- The sum of all odd digits is 11.",
@@ -116,7 +116,7 @@
   {
     "name": "Level 11",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 7.",
       "- The code does not contain the number 3.",
       "- The digits at 1st, 2nd and 4th positions are odd. The others are even.",
@@ -140,7 +140,7 @@
   {
     "name": "Level 13",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 4th position is 1.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 14.",
@@ -152,7 +152,7 @@
   {
     "name": "Level 14",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 1st position is 8.",
       "- The sum of all odd digits is 13.",
@@ -164,7 +164,7 @@
   {
     "name": "Level 15",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 5.",
       "- The digit at 3rd position is even. The others are odd.",
       "- The sum of all digits is 22.",
@@ -186,7 +186,7 @@
   {
     "name": "Level 17",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 4th are equal.",
       "- The digit at 2nd position is 7.",
       "- The sum of all digits is 32.",
@@ -208,7 +208,7 @@
   {
     "name": "Level 19",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 3.",
       "- The sum of all even digits is 4.",
       "- The digits at 2nd, 3rd and 5th positions are odd. The others are even.",
@@ -219,7 +219,7 @@
   {
     "name": "Level 20",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 3rd position is 2.",
       "- The sum of the digits at 2nd, 4th and 5th positions is 18.",
@@ -243,7 +243,7 @@
   {
     "name": "Level 22",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 3.",
       "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
       "- The sum of all digits is 13.",
@@ -265,7 +265,7 @@
   {
     "name": "Level 24",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 6.",
       "- The code does not contain the number 4.",
       "- The sum of the digits at 1st, 3rd and 5th positions is 19.",
@@ -289,8 +289,8 @@
   {
     "name": "Level 26",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 8.",
       "- There are 2 even digits.",
       "- The sum of all digits is 15.",
@@ -301,7 +301,7 @@
   {
     "name": "Level 27",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 9.",
       "- The sum of the digits at 2nd and 3rd positions is 6.",
       "- The sum of all digits is 26.",
@@ -358,7 +358,7 @@
   {
     "name": "Level 32",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 6.",
       "- The code does not contain the number 0.",
       "- The code does not contain the number 1.",
@@ -440,8 +440,8 @@
   {
     "name": "Level 39",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 2.",
       "- The sum of all digits is 25.",
       "- The difference between the largest and smallest digit is 5."
@@ -451,7 +451,7 @@
   {
     "name": "Level 40",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 9.",
       "- The sum of all even digits is 12.",
@@ -462,7 +462,7 @@
   {
     "name": "Level 41",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 7.",
       "- The code does not contain the number 8.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 11.",
@@ -498,7 +498,7 @@
   {
     "name": "Level 44",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st, 2nd and 5th are equal.",
       "- The digit at 1st position is 6.",
       "- The sum of all even digits is 20.",
@@ -509,7 +509,7 @@
   {
     "name": "Level 45",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 4th position is 1.",
       "- The sum of all even digits is 16.",
@@ -520,7 +520,7 @@
   {
     "name": "Level 46",
     "hints": [
-      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 3rd, 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 2.",
       "- The sum of the digits at 1st, 2nd and 5th positions is 16.",
       "- The sum of all digits is 29.",
@@ -531,7 +531,7 @@
   {
     "name": "Level 47",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 4.",
       "- The sum of the digits at 1st and 5th positions is 4.",
       "- The sum of all even digits is 4.",
@@ -542,7 +542,7 @@
   {
     "name": "Level 48",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 3rd position is 5.",
       "- The sum of all odd digits is 12.",
@@ -575,7 +575,7 @@
   {
     "name": "Level 51",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 5th position is 7.",
       "- The sum of all odd digits is 12.",
@@ -587,7 +587,7 @@
   {
     "name": "Level 52",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 3.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 5.",
       "- The sum of all even digits is 2.",
@@ -598,7 +598,7 @@
   {
     "name": "Level 53",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 4.",
       "- The sum of the digits at 1st, 4th and 5th positions is 15.",
       "- The digits at 1st, 2nd and 4th positions are even. The others are odd.",
@@ -624,7 +624,7 @@
   {
     "name": "Level 55",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 3rd position is 0.",
       "- The sum of the digits at 1st and 4th positions is 4.",
@@ -680,7 +680,7 @@
   {
     "name": "Level 60",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 8.",
       "- The code does not contain the number 2.",
       "- The digits at 2nd, 3rd and 4th positions are even. The others are odd.",
@@ -704,7 +704,7 @@
   {
     "name": "Level 62",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 7.",
       "- The code does not contain the number 1.",
       "- The digits at 1st and 3rd positions are even. The others are odd.",
@@ -750,7 +750,7 @@
   {
     "name": "Level 66",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 6.",
       "- The digits at 3rd and 5th positions are odd. The others are even.",
       "- The sum of all digits is 16.",
@@ -761,7 +761,7 @@
   {
     "name": "Level 67",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The sum of all odd digits is 15.",
       "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
@@ -796,7 +796,7 @@
   {
     "name": "Level 70",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 1.",
       "- The sum of the digits at 1st and 3rd positions is 4.",
       "- The sum of all digits is 15.",
@@ -818,7 +818,7 @@
   {
     "name": "Level 72",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 4th position is 3.",
       "- The sum of all odd digits is 10.",
@@ -829,7 +829,7 @@
   {
     "name": "Level 73",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 1.",
       "- The digits at 1st, 4th and 5th positions are even. The others are odd.",
       "- The sum of all digits is 16.",
@@ -886,7 +886,7 @@
   {
     "name": "Level 78",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 2.",
       "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
       "- The sum of all odd digits is 6.",
@@ -898,7 +898,7 @@
   {
     "name": "Level 79",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 2nd position is 6.",
       "- The sum of all digits is 29.",
@@ -909,7 +909,7 @@
   {
     "name": "Level 80",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 4th position is 2.",
       "- The sum of all odd digits is 12.",
@@ -921,7 +921,7 @@
   {
     "name": "Level 81",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 4th are equal.",
       "- The digit at 3rd position is 7.",
       "- The sum of all even digits is 12.",
@@ -966,7 +966,7 @@
   {
     "name": "Level 85",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 7.",
       "- The sum of the digits at 2nd, 3rd and 5th positions is 17.",
       "- The sum of all odd digits is 16.",
@@ -989,7 +989,7 @@
   {
     "name": "Level 87",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 1.",
       "- The code does not contain the number 0.",
       "- The code does not contain the number 5.",
@@ -1001,7 +1001,7 @@
   {
     "name": "Level 88",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 5th position is 7.",
       "- The sum of the digits at 2nd and 5th positions is 9.",
@@ -1024,7 +1024,7 @@
   {
     "name": "Level 90",
     "hints": [
-      "- The digits at 1st, 2nd and 3rd positions are following each other.",
+      "- The digits at 1st, 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 3rd position is 3.",
       "- There is 1 digit over 4.",
@@ -1035,7 +1035,7 @@
   {
     "name": "Level 91",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 4th are equal.",
       "- The digit at 5th position is 2.",
       "- The sum of all digits is 22.",
@@ -1091,7 +1091,7 @@
   {
     "name": "Level 96",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 8.",
       "- The sum of the digits at 1st, 2nd and 5th positions is 15.",
       "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
@@ -1104,7 +1104,7 @@
   {
     "name": "Level 97",
     "hints": [
-      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 3rd, 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 3.",
       "- The sum of the digits at 2nd and 3rd positions is 10.",
       "- The sum of all even digits is 8.",
@@ -1115,7 +1115,7 @@
   {
     "name": "Level 98",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 4th are equal.",
       "- The digit at 3rd position is 3.",
       "- The sum of all even digits is 16.",
@@ -1126,7 +1126,7 @@
   {
     "name": "Level 99",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 2nd position is 0.",
       "- The code does not contain the number 6.",
@@ -1195,7 +1195,7 @@
   {
     "name": "Level 105",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 5.",
       "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
       "- The sum of all odd digits is 12.",
@@ -1218,7 +1218,7 @@
   {
     "name": "Level 107",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 2.",
       "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
       "- The sum of all even digits is 8.",
@@ -1285,7 +1285,7 @@
   {
     "name": "Level 113",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 1st position is 8.",
       "- The sum of all even digits is 14.",
@@ -1309,7 +1309,7 @@
   {
     "name": "Level 115",
     "hints": [
-      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The digits at 2nd, 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 2nd position is 5.",
       "- There are 5 digits over 4.",
@@ -1332,7 +1332,7 @@
   {
     "name": "Level 117",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 2nd position is 0.",
       "- The sum of all digits is 25.",
@@ -1355,7 +1355,7 @@
   {
     "name": "Level 119",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 3.",
       "- There are 3 odd digits.",
@@ -1367,7 +1367,7 @@
   {
     "name": "Level 120",
     "hints": [
-      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The digits at 2nd, 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 7.",
       "- The sum of the digits at 1st, 2nd and 3rd positions is 12.",
       "- There is one even digit.",
@@ -1413,7 +1413,7 @@
   {
     "name": "Level 124",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 0.",
       "- The sum of the digits at 4th and 5th positions is 9.",
       "- The sum of all even digits is 16.",
@@ -1425,7 +1425,7 @@
   {
     "name": "Level 125",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 2.",
       "- The sum of the digits at 2nd and 5th positions is 3.",
       "- The sum of all digits is 11.",
@@ -1447,7 +1447,7 @@
   {
     "name": "Level 127",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The digits at 2nd and 3rd positions are even. The others are odd.",
       "- The sum of all even digits is 2.",
@@ -1458,7 +1458,7 @@
   {
     "name": "Level 128",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 8.",
       "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
       "- The sum of all odd digits is 12.",
@@ -1527,7 +1527,7 @@
   {
     "name": "Level 134",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 4th are equal.",
       "- The digit at 2nd position is 0.",
       "- The sum of all digits is 16.",
@@ -1538,7 +1538,7 @@
   {
     "name": "Level 135",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The sum of the digits at 1st, 2nd and 5th positions is 6.",
       "- The sum of all digits is 12.",
@@ -1561,7 +1561,7 @@
   {
     "name": "Level 137",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 9.",
       "- The sum of the digits at 3rd and 5th positions is 8.",
       "- The sum of all odd digits is 12.",
@@ -1572,7 +1572,7 @@
   {
     "name": "Level 138",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 5th position is 6.",
       "- The sum of the digits at 1st, 2nd and 5th positions is 21.",
@@ -1584,7 +1584,7 @@
   {
     "name": "Level 139",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 4th position is 2.",
       "- The sum of the digits at 2nd, 4th and 5th positions is 7.",
@@ -1595,7 +1595,7 @@
   {
     "name": "Level 140",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 4.",
       "- The sum of the digits at 1st and 5th positions is 11.",
       "- The sum of all odd digits is 17.",
@@ -1619,7 +1619,7 @@
   {
     "name": "Level 142",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 5th position is 2.",
       "- The sum of all odd digits is 22.",
@@ -1630,7 +1630,7 @@
   {
     "name": "Level 143",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 4th position is 9.",
       "- The sum of all digits is 32.",
@@ -1653,7 +1653,7 @@
   {
     "name": "Level 145",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 5.",
       "- The sum of the digits at 1st and 3rd positions is 15.",
       "- There are 4 odd digits.",
@@ -1721,7 +1721,7 @@
   {
     "name": "Level 151",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 4th are equal.",
       "- The digit at 3rd position is 4.",
       "- The sum of the digits at 1st and 5th positions is 8.",
@@ -1744,7 +1744,7 @@
   {
     "name": "Level 153",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 5.",
       "- The sum of the digits at 1st and 4th positions is 10.",
       "- The sum of all odd digits is 12.",
@@ -1778,8 +1778,8 @@
   {
     "name": "Level 156",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 7.",
       "- The sum of all even digits is 12.",
       "- The difference between the largest and smallest digit is 3."
@@ -1800,7 +1800,7 @@
   {
     "name": "Level 158",
     "hints": [
-      "- The digits at 1st, 2nd and 3rd positions are following each other.",
+      "- The digits at 1st, 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 5.",
       "- The sum of all even digits is 6.",
       "- The digits at 1st, 3rd and 4th positions are odd. The others are even.",
@@ -1834,7 +1834,7 @@
   {
     "name": "Level 161",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 0.",
       "- The sum of all even digits is 16.",
       "- The digit at 3rd position is odd. The others are even.",
@@ -1983,7 +1983,7 @@
   {
     "name": "Level 174",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 8.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 21.",
       "- The digits at 1st, 2nd and 5th positions are odd. The others are even.",
@@ -1995,7 +1995,7 @@
   {
     "name": "Level 175",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The sum of the digits at 2nd and 5th positions is 6.",
       "- The digits at 2nd, 4th and 5th positions are odd. The others are even.",
@@ -2031,7 +2031,7 @@
   {
     "name": "Level 178",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 2nd position is 8.",
       "- There are 4 even digits.",
@@ -2044,7 +2044,7 @@
   {
     "name": "Level 179",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 3rd position is 8.",
       "- The sum of all odd digits is 7.",
@@ -2055,7 +2055,7 @@
   {
     "name": "Level 180",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 4.",
       "- The sum of the digits at 3rd and 4th positions is 5.",
       "- The sum of all digits is 20.",
@@ -2077,7 +2077,7 @@
   {
     "name": "Level 182",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
       "- The sum of all even digits is 10.",
@@ -2121,7 +2121,7 @@
   {
     "name": "Level 186",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 0.",
       "- The sum of the digits at 4th and 5th positions is 6.",
       "- The sum of all even digits is 0.",
@@ -2144,7 +2144,7 @@
   {
     "name": "Level 188",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 4th position is 6.",
       "- The sum of the digits at 1st and 5th positions is 9.",
@@ -2167,7 +2167,7 @@
   {
     "name": "Level 190",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 6.",
       "- The code does not contain the number 5.",
       "- The sum of the digits at 1st and 5th positions is 14.",
@@ -2192,7 +2192,7 @@
   {
     "name": "Level 192",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd, 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 5.",
       "- The sum of the digits at 1st, 4th and 5th positions is 18.",
       "- The sum of all even digits is 18.",
@@ -2214,7 +2214,7 @@
   {
     "name": "Level 194",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 4th position is 1.",
       "- The sum of all odd digits is 11.",
@@ -2225,7 +2225,7 @@
   {
     "name": "Level 195",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 3.",
       "- The sum of the digits at 1st and 4th positions is 9.",
       "- The sum of all even digits is 12.",
@@ -2248,7 +2248,7 @@
   {
     "name": "Level 197",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 5.",
       "- The sum of the digits at 1st and 5th positions is 8.",
       "- The digits at 3rd and 4th positions are even. The others are odd.",
@@ -2295,7 +2295,7 @@
   {
     "name": "Level 201",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 9.",
       "- The sum of all odd digits is 20.",
@@ -2306,7 +2306,7 @@
   {
     "name": "Level 202",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 4th position is 6.",
       "- There are 4 even digits.",
@@ -2317,7 +2317,7 @@
   {
     "name": "Level 203",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 2.",
       "- The sum of the digits at 1st and 2nd positions is 5.",
       "- There are 3 digits over 4.",
@@ -2362,7 +2362,7 @@
   {
     "name": "Level 207",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 6.",
       "- The sum of the digits at 2nd, 4th and 5th positions is 13.",
       "- The digit at 2nd position is odd. The others are even.",
@@ -2408,7 +2408,7 @@
   {
     "name": "Level 211",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 1.",
       "- The digits at 1st and 4th positions are even. The others are odd.",
       "- The sum of all odd digits is 17.",
@@ -2420,7 +2420,7 @@
   {
     "name": "Level 212",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 4th position is 0.",
       "- The sum of all odd digits is 20.",
@@ -2454,7 +2454,7 @@
   {
     "name": "Level 215",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 6.",
       "- The sum of the digits at 2nd, 3rd and 5th positions is 10.",
       "- The sum of all odd digits is 6.",
@@ -2466,7 +2466,7 @@
   {
     "name": "Level 216",
     "hints": [
-      "- The digits at 2nd, 3rd and 4th positions are following each other.",
+      "- The digits at 2nd, 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 4.",
       "- The sum of the digits at 4th and 5th positions is 11.",
       "- There are 3 digits over 4.",
@@ -2500,7 +2500,7 @@
   {
     "name": "Level 219",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 3rd position is 2.",
       "- The sum of all even digits is 24.",
@@ -2511,7 +2511,7 @@
   {
     "name": "Level 220",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 3.",
       "- The sum of the digits at 1st and 5th positions is 10.",
       "- The sum of all even digits is 8.",
@@ -2523,7 +2523,7 @@
   {
     "name": "Level 221",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 6.",
       "- The sum of the digits at 2nd and 4th positions is 8.",
       "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
@@ -2534,7 +2534,7 @@
   {
     "name": "Level 222",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 0.",
       "- The digits at 1st, 2nd and 5th positions are even. The others are odd.",
       "- The sum of all odd digits is 6.",
@@ -2546,7 +2546,7 @@
   {
     "name": "Level 223",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd, 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 2.",
       "- The digits at 2nd, 3rd and 5th positions are even. The others are odd.",
       "- The sum of all digits is 12.",
@@ -2568,7 +2568,7 @@
   {
     "name": "Level 225",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 8.",
       "- The sum of the digits at 3rd and 4th positions is 12.",
       "- The sum of all even digits is 12.",
@@ -2579,7 +2579,7 @@
   {
     "name": "Level 226",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 3rd position is 9.",
       "- The sum of all even digits is 10.",
@@ -2591,7 +2591,7 @@
   {
     "name": "Level 227",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 9.",
       "- There are 3 even digits.",
@@ -2614,7 +2614,7 @@
   {
     "name": "Level 229",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 2.",
       "- The digits at 1st, 3rd and 5th positions are even. The others are odd.",
       "- The sum of all odd digits is 10.",
@@ -2636,7 +2636,7 @@
   {
     "name": "Level 231",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 8.",
       "- The sum of the digits at 1st and 4th positions is 8.",
       "- The sum of all digits is 23.",
@@ -2647,7 +2647,7 @@
   {
     "name": "Level 232",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 0.",
       "- The sum of the digits at 2nd and 3rd positions is 3.",
       "- There are 3 even digits.",
@@ -2669,7 +2669,7 @@
   {
     "name": "Level 234",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 0.",
       "- The sum of the digits at 2nd and 4th positions is 6.",
       "- The sum of all even digits is 6.",
@@ -2702,7 +2702,7 @@
   {
     "name": "Level 237",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 4th position is 4.",
       "- The sum of the digits at 1st, 4th and 5th positions is 18.",
@@ -2714,7 +2714,7 @@
   {
     "name": "Level 238",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 4th position is 0.",
       "- The sum of the digits at 3rd and 5th positions is 3.",
@@ -2736,7 +2736,7 @@
   {
     "name": "Level 240",
     "hints": [
-      "- The digits at 1st, 2nd and 3rd positions are following each other.",
+      "- The digits at 1st, 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 5.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 16.",
       "- The sum of all even digits is 10.",
@@ -2747,7 +2747,7 @@
   {
     "name": "Level 241",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 4th and 5th are equal.",
       "- The digit at 1st position is 5.",
       "- The sum of all digits is 24.",
@@ -2770,7 +2770,7 @@
   {
     "name": "Level 243",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 4th position is 0.",
       "- The sum of all odd digits is 8.",
@@ -2781,7 +2781,7 @@
   {
     "name": "Level 244",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 1st position is 4.",
       "- The sum of all odd digits is 23.",
@@ -2792,7 +2792,7 @@
   {
     "name": "Level 245",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 3rd position is 8.",
       "- The sum of all digits is 32.",
@@ -2838,7 +2838,7 @@
   {
     "name": "Level 249",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 4th are equal.",
       "- The digit at 2nd position is 1.",
       "- The sum of all digits is 17.",
@@ -2849,7 +2849,7 @@
   {
     "name": "Level 250",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 5th position is 5.",
       "- The sum of all even digits is 8.",
@@ -2871,7 +2871,7 @@
   {
     "name": "Level 252",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 2.",
       "- The sum of the digits at 1st and 3rd positions is 4.",
       "- The digits at 1st, 3rd and 4th positions are even. The others are odd.",
@@ -2882,7 +2882,7 @@
   {
     "name": "Level 253",
     "hints": [
-      "- The digits at 3rd, 4th and 5th positions are following each other.",
+      "- The digits at 3rd, 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 1.",
       "- The sum of the digits at 2nd and 5th positions is 5.",
@@ -2893,7 +2893,7 @@
   {
     "name": "Level 254",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 9.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 19.",
       "- There are 2 even digits.",
@@ -2905,7 +2905,7 @@
   {
     "name": "Level 255",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 2.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 9.",
       "- There is 1 digit over 4.",
@@ -2916,7 +2916,7 @@
   {
     "name": "Level 256",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 3rd position is 8.",
       "- The sum of all digits is 25.",
@@ -2927,7 +2927,7 @@
   {
     "name": "Level 257",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 5.",
       "- The digits at 1st and 5th positions are even. The others are odd.",
       "- The sum of all digits is 15.",
@@ -2949,7 +2949,7 @@
   {
     "name": "Level 259",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 5.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 9.",
       "- The sum of all even digits is 4.",
@@ -2960,7 +2960,7 @@
   {
     "name": "Level 260",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 5.",
       "- The sum of the digits at 1st, 4th and 5th positions is 21.",
       "- The sum of all even digits is 8.",
@@ -2982,7 +2982,7 @@
   {
     "name": "Level 262",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 6.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 16.",
       "- The digits at 2nd and 5th positions are even. The others are odd.",
@@ -3073,8 +3073,8 @@
   {
     "name": "Level 270",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The sum of all digits is 12.",
       "- The difference between the largest and smallest digit is 7."
@@ -3119,7 +3119,7 @@
   {
     "name": "Level 274",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 9.",
       "- The sum of the digits at 4th and 5th positions is 11.",
       "- The sum of all even digits is 12.",
@@ -3131,7 +3131,7 @@
   {
     "name": "Level 275",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 4th and 5th are equal.",
       "- The digit at 2nd position is 0.",
       "- The sum of all odd digits is 16.",
@@ -3166,7 +3166,7 @@
   {
     "name": "Level 278",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 8.",
       "- The sum of the digits at 2nd and 5th positions is 12.",
       "- There is one odd digit.",
@@ -3199,7 +3199,7 @@
   {
     "name": "Level 281",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 4th are equal.",
       "- The digit at 5th position is 3.",
       "- The sum of all digits is 12.",
@@ -3233,7 +3233,7 @@
   {
     "name": "Level 284",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 2.",
       "- The code does not contain the number 5.",
       "- The sum of the digits at 2nd and 4th positions is 12.",
@@ -3246,7 +3246,7 @@
   {
     "name": "Level 285",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 4th position is 2.",
       "- The sum of the digits at 3rd and 5th positions is 5.",
@@ -3258,7 +3258,7 @@
   {
     "name": "Level 286",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 5th position is 9.",
       "- The sum of all even digits is 8.",
@@ -3270,7 +3270,7 @@
   {
     "name": "Level 287",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 3rd position is 4.",
       "- The sum of all digits is 22.",
@@ -3294,7 +3294,7 @@
   {
     "name": "Level 289",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 3.",
       "- The code does not contain the number 5.",
       "- The sum of the digits at 1st, 4th and 5th positions is 6.",
@@ -3328,7 +3328,7 @@
   {
     "name": "Level 292",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digits at 3rd and 5th are equal.",
       "- The digit at 2nd position is 6.",
       "- The sum of all digits is 16.",
@@ -3339,7 +3339,7 @@
   {
     "name": "Level 293",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 6.",
       "- The sum of the digits at 2nd and 3rd positions is 12.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 13.",
@@ -3351,7 +3351,7 @@
   {
     "name": "Level 294",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 4.",
       "- The code does not contain the number 3.",
       "- The sum of all even digits is 14.",
@@ -3387,7 +3387,7 @@
   {
     "name": "Level 297",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 2.",
       "- The sum of the digits at 1st and 4th positions is 2.",
       "- The sum of the digits at 2nd and 4th positions is 4.",
@@ -3399,7 +3399,7 @@
   {
     "name": "Level 298",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 5th position is 4.",
       "- The sum of the digits at 1st and 5th positions is 9.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 18.",
@@ -3410,7 +3410,7 @@
   {
     "name": "Level 299",
     "hints": [
-      "- The digits at 3rd and 4th positions are following each other.",
+      "- The digits at 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 7.",
       "- The sum of the digits at 2nd and 5th positions is 0.",
       "- The sum of all odd digits is 10.",
@@ -3443,7 +3443,7 @@
   {
     "name": "Level 302",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 6.",
       "- The digits at 2nd, 3rd and 4th positions are even. The others are odd.",
       "- The sum of all digits is 26.",
@@ -3455,7 +3455,7 @@
   {
     "name": "Level 303",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 4th position is 8.",
       "- The sum of the digits at 1st and 2nd positions is 8.",
@@ -3466,7 +3466,7 @@
   {
     "name": "Level 304",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The sum of all even digits is 10.",
       "- The sum of all odd digits is 6.",
@@ -3478,7 +3478,7 @@
   {
     "name": "Level 305",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 7.",
       "- The sum of the digits at 3rd and 4th positions is 7.",
       "- The sum of all even digits is 8.",
@@ -3490,7 +3490,7 @@
   {
     "name": "Level 306",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 5.",
       "- The sum of the digits at 1st, 2nd and 3rd positions is 20.",
       "- The digits at 1st and 4th positions are even. The others are odd.",
@@ -3502,7 +3502,7 @@
   {
     "name": "Level 307",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 5th are equal.",
       "- The digit at 5th position is 4.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 14.",
@@ -3535,7 +3535,7 @@
   {
     "name": "Level 310",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 3rd position is 0.",
       "- The sum of the digits at 2nd and 4th positions is 14.",
       "- The sum of all even digits is 4.",
@@ -3570,7 +3570,7 @@
   {
     "name": "Level 313",
     "hints": [
-      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 4th position is 3.",
       "- The sum of all even digits is 10.",
       "- The digits at 2nd, 3rd and 4th positions are odd. The others are even.",
@@ -3614,7 +3614,7 @@
   {
     "name": "Level 317",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 4.",
       "- The sum of the digits at 1st, 2nd and 5th positions is 6.",
       "- The digits at 3rd and 4th positions are odd. The others are even.",
@@ -3672,7 +3672,7 @@
   {
     "name": "Level 322",
     "hints": [
-      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other.",
+      "- The digits at 1st and 2nd and those in 3rd and 4th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 5.",
       "- The sum of the digits at 2nd, 4th and 5th positions is 13.",
       "- The sum of all odd digits is 12.",
@@ -3695,7 +3695,7 @@
   {
     "name": "Level 324",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 3rd are equal.",
       "- The digit at 2nd position is 6.",
       "- The sum of the digits at 3rd and 4th positions is 12.",
@@ -3719,7 +3719,7 @@
   {
     "name": "Level 326",
     "hints": [
-      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other.",
+      "- The digits at 2nd and 3rd and those in 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 5th are equal.",
       "- The digit at 3rd position is 3.",
       "- The sum of all odd digits is 4.",
@@ -3730,7 +3730,7 @@
   {
     "name": "Level 327",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 4th and 5th are equal.",
       "- The digit at 2nd position is 5.",
       "- The code does not contain the number 4.",
@@ -3742,7 +3742,7 @@
   {
     "name": "Level 328",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 4th are equal.",
       "- The digit at 1st position is 2.",
       "- The sum of the digits at 2nd and 4th positions is 10.",
@@ -3754,7 +3754,7 @@
   {
     "name": "Level 329",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 3.",
       "- The sum of the digits at 1st, 2nd and 4th positions is 16.",
       "- The sum of the digits at 3rd, 4th and 5th positions is 15.",
@@ -3766,7 +3766,7 @@
   {
     "name": "Level 330",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 1st position is 5.",
       "- The sum of the digits at 1st and 3rd positions is 11.",
       "- The sum of all even digits is 14.",
@@ -3822,7 +3822,7 @@
   {
     "name": "Level 335",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digit at 2nd position is 5.",
       "- The code does not contain the number 1.",
       "- The sum of the digits at 3rd and 5th positions is 7.",
@@ -3870,7 +3870,7 @@
   {
     "name": "Level 339",
     "hints": [
-      "- The digits at 4th and 5th positions are following each other.",
+      "- The digits at 4th and 5th positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 4th position is 2.",
       "- The sum of all odd digits is 12.",
@@ -3893,7 +3893,7 @@
   {
     "name": "Level 341",
     "hints": [
-      "- The digits at 1st and 2nd positions are following each other.",
+      "- The digits at 1st and 2nd positions are following each other (in ascending or descending order).",
       "- The digits at 2nd and 3rd are equal.",
       "- The digit at 5th position is 5.",
       "- The sum of all even digits is 2.",
@@ -3939,7 +3939,7 @@
   {
     "name": "Level 345",
     "hints": [
-      "- The digits at 2nd and 3rd positions are following each other.",
+      "- The digits at 2nd and 3rd positions are following each other (in ascending or descending order).",
       "- The digits at 1st and 2nd are equal.",
       "- The digit at 4th position is 7.",
       "- The sum of all odd digits is 19.",

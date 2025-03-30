@@ -15,7 +15,7 @@ public class FollowingHint extends Hint{
         this.followingPositions = followingPositions;
     }
 
-    private String buildPositionString(Language language) {
+    protected String buildPositionString(Language language) {
 
         String and = language == Language.FRENCH ? " et " : " and ";
         String andThoseIn = language == Language.FRENCH ? " et ceux en " : " and those in ";
@@ -43,7 +43,7 @@ public class FollowingHint extends Hint{
             return "- Il n'y a pas de chiffres qui se suivent.";
         }
         String positionString = buildPositionString(Language.FRENCH);
-        return "- Les chiffres en " + positionString + " positions se suivent.";
+        return "- Les chiffres en " + positionString + " positions se suivent (en ordre croissant ou décroissant).";
     }
 
     @Override
@@ -52,7 +52,7 @@ public class FollowingHint extends Hint{
             return "- There are no consecutive digits.";
         }
         String positionString = buildPositionString(Language.ENGLISH);
-        return "- The digits at " + positionString + " positions are following each other.";
+        return "- The digits at " + positionString + " positions are following each other (in ascending or descending order).";
     }
 
     @Override

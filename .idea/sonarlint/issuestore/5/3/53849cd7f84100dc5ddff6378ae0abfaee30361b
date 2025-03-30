@@ -1,0 +1,12 @@
+
+`
+java:S6208T"CMerge the previous cases into this one using comma-separated label.(‰Ş«ö8´ªç»Ó2
+e
+java:S6208k"CMerge the previous cases into this one using comma-separated label.(»ê†ïüÿÿÿÿ8´ªç»Ó2
+p
+java:S6201*"NReplace this instanceof check and cast with 'instanceof NumberHint numberhint'(¶˜¬Éùÿÿÿÿ8¿®ç»Ó2
+o
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(×¶ª8Â®ç»Ó2
+u	java:S131R"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜŸ•8Ä®ç»Ó2
+ã
+java:S6541M"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 110 to 64, Complexity from 46 to 14, Nesting Level from 3 to 2, Number of Variables from 7 to 6.(×¶ª8ß®ç»Ó2

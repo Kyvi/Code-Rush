@@ -41,7 +41,7 @@ public class Main {
 
             Set<Hint> hints = hintGenerator.generateHints();
 
-            boolean isVeryEasy = hints.size() < 4 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 2;
+            boolean isVeryEasy = hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 2;
             boolean isEasy = !isVeryEasy && (hints.size() < 5 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 1);
             boolean isHard = !isEasy && (hints.size() >= 5 && hints.stream().noneMatch(hint -> hint.getHintType().isEasy()));
 

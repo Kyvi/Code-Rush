@@ -1,0 +1,7 @@
+
+s	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(ÐÕ¯¾þÿÿÿÿ
+l	java:S127J"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127S"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+l	java:S127Y"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ç“˜üúÿÿÿÿ

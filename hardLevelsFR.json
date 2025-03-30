@@ -2,7 +2,7 @@
   {
     "name": "Niveau 1",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 4e position est 15.",
       "- La somme des chiffres impairs est 14.",
@@ -40,14 +40,14 @@
       "- La somme des chiffres en 1e, 3e et 5e positions est 15.",
       "- Les chiffres en 2e, 3e, 4e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 26.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "58486"
   },
   {
     "name": "Niveau 5",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 3e et 4e position est 15.",
       "- La somme des chiffres pairs est 20.",
@@ -62,7 +62,7 @@
       "- La somme des chiffres en 2e et 3e position est 15.",
       "- La somme des chiffres pairs est 18.",
       "- Les chiffres en 1e et 2e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "97828"
@@ -85,7 +85,7 @@
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Les chiffres en 1e, 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 24.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "83238"
@@ -93,7 +93,7 @@
   {
     "name": "Niveau 9",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- Le code ne contient pas de chiffre 2.",
       "- La somme des chiffres en 2e, 3e et 4e positions est 14.",
@@ -104,7 +104,7 @@
   {
     "name": "Niveau 10",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e et ceux en 1e et 3e positions sont égaux.",
       "- La somme des chiffres pairs est 12.",
       "- La somme des chiffres impairs est 7.",
@@ -115,7 +115,7 @@
   {
     "name": "Niveau 11",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 4e position est 6.",
       "- La somme des chiffres impairs est 23.",
@@ -126,12 +126,12 @@
   {
     "name": "Niveau 12",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 2e, 4e et 5e positions est 5.",
       "- La somme des chiffres pairs est 4.",
       "- La somme des chiffres impairs est 6.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "00541"
   },
@@ -142,18 +142,18 @@
       "- La somme des chiffres en 2e, 3e et 5e positions est 11.",
       "- Les chiffres en 2e et 3e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 11.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "56451"
   },
   {
     "name": "Niveau 14",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 2e, 3e et 4e positions est 11.",
       "- La somme des chiffres est 23.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "33269"
@@ -161,7 +161,7 @@
   {
     "name": "Niveau 15",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 4e et 5e positions sont égaux.",
       "- La somme des chiffres pairs est 28.",
       "- La somme des chiffres impairs est 9.",
@@ -177,7 +177,7 @@
       "- Le code ne contient pas de chiffre 6.",
       "- La somme des chiffres en 2e, 3e et 5e positions est 18.",
       "- La somme des chiffres impairs est 18.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 9."
     ],
     "correctAnswer": "09980"
@@ -185,7 +185,7 @@
   {
     "name": "Niveau 17",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 4e positions est 16.",
       "- La somme des chiffres en 1e, 4e et 5e positions est 11.",
       "- Il y a 3 chiffres pairs.",
@@ -196,7 +196,7 @@
   {
     "name": "Niveau 18",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 3e et 5e positions sont égaux.",
       "- La somme des chiffres en 1e et 2e position est 9.",
       "- La somme des chiffres impairs est 1.",
@@ -218,7 +218,7 @@
   {
     "name": "Niveau 20",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e positions sont égaux.",
       "- La somme des chiffres pairs est 8.",
       "- La somme des chiffres impairs est 17.",
@@ -229,7 +229,7 @@
   {
     "name": "Niveau 21",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 4e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 3e position est 15.",
       "- Les chiffres en 1e et 2e positions sont impairs. Les autres sont pairs.",
@@ -244,7 +244,7 @@
       "- La somme des chiffres en 1e, 3e et 5e positions est 14.",
       "- Les chiffres en 2e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 27.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 9."
     ],
     "correctAnswer": "54990"
@@ -252,10 +252,10 @@
   {
     "name": "Niveau 23",
     "hints": [
-      "- Les chiffres en 1e, 2e et 3e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e, 2e et 3e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 5e positions est 15.",
       "- Il y a 3 chiffres pairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "67832"
@@ -263,7 +263,7 @@
   {
     "name": "Niveau 24",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 4.",
       "- La somme des chiffres impairs est 19.",
@@ -274,10 +274,10 @@
   {
     "name": "Niveau 25",
     "hints": [
-      "- Les chiffres en 3e, 4e et 5e positions se suivent.",
+      "- Les chiffres en 3e, 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- Les chiffres en 1e et 4e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "14456"
@@ -301,18 +301,18 @@
       "- La somme des chiffres en 1e, 4e et 5e positions est 8.",
       "- Les chiffres en 2e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 9.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "70110"
   },
   {
     "name": "Niveau 28",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e, 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 12.",
       "- La somme des chiffres est 28.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "34696"
@@ -320,8 +320,8 @@
   {
     "name": "Niveau 29",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 2e position est 5.",
       "- La somme des chiffres en 2e et 4e position est 3.",
       "- La somme des chiffres pairs est 14."
@@ -335,7 +335,7 @@
       "- Les chiffres en 4e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 2.",
       "- La somme des chiffres est 13.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "55102"
   },
@@ -353,7 +353,7 @@
   {
     "name": "Niveau 32",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- La somme des chiffres en 3e et 5e position est 12.",
       "- La somme des chiffres impairs est 20.",
@@ -364,19 +364,19 @@
   {
     "name": "Niveau 33",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 3e et 4e position est 11.",
       "- La somme des chiffres pairs est 16.",
       "- Les chiffres en 3e et 5e positions sont impairs. Les autres sont pairs.",
       "- La somme des chiffres est 20.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "62381"
   },
   {
     "name": "Niveau 34",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e positions sont égaux.",
       "- La somme des chiffres en 1e, 3e et 4e positions est 20.",
       "- La somme des chiffres en 3e, 4e et 5e positions est 18.",
@@ -398,11 +398,11 @@
   {
     "name": "Niveau 36",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Les chiffres en 3e et 4e positions sont impairs. Les autres sont pairs.",
       "- La somme des chiffres est 20.",
-      "- Il y a 1 chiffre superieur a 4.",
+      "- Il y a 1 chiffre supérieur a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "42734"
@@ -421,7 +421,7 @@
   {
     "name": "Niveau 38",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e et 5e position est 5.",
       "- La somme des chiffres est 22.",
@@ -436,7 +436,7 @@
       "- Le code ne contient pas de chiffre 3.",
       "- La somme des chiffres en 2e, 3e et 5e positions est 20.",
       "- Le chiffre en 2e position est pair. Les autres sont impairs.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "12999"
   },
@@ -447,26 +447,26 @@
       "- Le chiffre en 3e position est pair. Les autres sont impairs.",
       "- La somme des chiffres pairs est 6.",
       "- La somme des chiffres impairs est 16.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "73633"
   },
   {
     "name": "Niveau 41",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e, 2e et 4e positions sont égaux.",
       "- Il y a 3 chiffres impairs.",
       "- La somme des chiffres est 17.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "33632"
   },
   {
     "name": "Niveau 42",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 3e et 4e positions se suivent.",
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 19.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 9."
@@ -480,7 +480,7 @@
       "- La somme des chiffres en 1e, 2e et 3e positions est 19.",
       "- La somme des chiffres en 1e, 3e et 4e positions est 13.",
       "- Tous les chiffres sont impairs.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "57717"
   },
@@ -491,7 +491,7 @@
       "- La somme des chiffres en 1e et 2e position est 9.",
       "- La somme des chiffres impairs est 17.",
       "- Les chiffres en 1e, 3e et 4e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "72370"
@@ -499,7 +499,7 @@
   {
     "name": "Niveau 45",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e, 2e et 5e positions est 10.",
       "- La somme des chiffres pairs est 8.",
@@ -514,7 +514,7 @@
       "- La somme des chiffres en 2e et 3e position est 8.",
       "- La somme des chiffres en 2e, 3e et 5e positions est 9.",
       "- La somme des chiffres pairs est 14.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 8."
     ],
     "correctAnswer": "08061"
@@ -522,7 +522,7 @@
   {
     "name": "Niveau 47",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e, 2e et 4e positions sont égaux.",
       "- Le code ne contient pas de chiffre 7.",
       "- La somme des chiffres pairs est 18.",
@@ -533,7 +533,7 @@
   {
     "name": "Niveau 48",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 3e et 4e positions est 20.",
       "- La somme des chiffres impairs est 18.",
       "- Les chiffres en 1e et 3e positions sont impairs. Les autres sont pairs.",
@@ -544,7 +544,7 @@
   {
     "name": "Niveau 49",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 3e, 4e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 3e position est 15.",
       "- La somme des chiffres en 1e, 4e et 5e positions est 18.",
@@ -555,18 +555,18 @@
   {
     "name": "Niveau 50",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 4e positions est 7.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 16.",
       "- Il y a un chiffre pair.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "31934"
   },
   {
     "name": "Niveau 51",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 1e et 5e position est 4.",
       "- Il y a 2 chiffres impairs.",
@@ -582,7 +582,7 @@
       "- La somme des chiffres en 1e et 3e position est 5.",
       "- La somme des chiffres pairs est 6.",
       "- Les chiffres en 1e, 4e et 5e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "34299"
@@ -590,8 +590,8 @@
   {
     "name": "Niveau 53",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- La somme des chiffres en 1e, 2e et 5e positions est 13.",
       "- La somme des chiffres impairs est 14."
@@ -613,7 +613,7 @@
   {
     "name": "Niveau 55",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 4e position est 9.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 15.",
       "- La somme des chiffres impairs est 22.",
@@ -628,18 +628,18 @@
       "- La somme des chiffres en 1e et 5e position est 9.",
       "- Les chiffres en 3e, 4e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 10.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "77622"
   },
   {
     "name": "Niveau 57",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- Les chiffres en 1e, 2e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 18.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 4."
     ],
     "correctAnswer": "22365"
@@ -647,7 +647,7 @@
   {
     "name": "Niveau 58",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 5e positions est 23.",
       "- Les chiffres en 2e, 3e et 4e positions sont impairs. Les autres sont pairs.",
       "- La somme des chiffres est 33.",
@@ -658,7 +658,7 @@
   {
     "name": "Niveau 59",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 3e positions est 18.",
       "- La somme des chiffres impairs est 16.",
       "- Les chiffres en 2e, 3e, 4e et 5e positions sont impairs. Les autres sont pairs.",
@@ -672,7 +672,7 @@
       "- La somme des chiffres en 3e, 4e et 5e positions est 16.",
       "- Les chiffres en 1e et 3e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 23.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "61655"
@@ -691,19 +691,19 @@
   {
     "name": "Niveau 62",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 3e et 4e position est 12.",
       "- La somme des chiffres en 2e, 4e et 5e positions est 14.",
       "- La somme des chiffres pairs est 4.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "75754"
   },
   {
     "name": "Niveau 63",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e, 4e et 5e positions sont égaux.",
       "- La somme des chiffres en 4e et 5e position est 8.",
       "- La somme des chiffres impairs est 10.",
@@ -714,11 +714,11 @@
   {
     "name": "Niveau 64",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 5e position est 6.",
       "- La somme des chiffres en 2e, 3e et 5e positions est 13.",
       "- Il y a 2 chiffres pairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 8."
     ],
     "correctAnswer": "18015"
@@ -726,7 +726,7 @@
   {
     "name": "Niveau 65",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 2.",
       "- La somme des chiffres en 3e et 4e position est 5.",
       "- Les chiffres en 2e, 3e et 5e positions sont pairs. Les autres sont impairs.",
@@ -739,11 +739,11 @@
   {
     "name": "Niveau 66",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e, 2e et 5e positions est 16.",
       "- La somme des chiffres est 24.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "93354"
@@ -766,7 +766,7 @@
       "- La somme des chiffres en 2e et 5e position est 0.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 7.",
       "- Les chiffres en 1e, 2e et 5e positions sont pairs. Les autres sont impairs.",
-      "- Il n\u0027y a aucun chiffre superieur a 4."
+      "- Il n\u0027y a aucun chiffre supérieur a 4."
     ],
     "correctAnswer": "40330"
   },
@@ -788,14 +788,14 @@
       "- La somme des chiffres impairs est 6.",
       "- Les chiffres en 3e et 5e positions sont impairs. Les autres sont pairs.",
       "- La somme des chiffres est 24.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "28383"
   },
   {
     "name": "Niveau 71",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 1e, 2e et 4e positions est 8.",
       "- La somme des chiffres pairs est 10.",
@@ -806,7 +806,7 @@
   {
     "name": "Niveau 72",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 3e position est 4.",
       "- La somme des chiffres en 2e et 4e position est 13.",
       "- Il y a 4 chiffres pairs.",
@@ -817,7 +817,7 @@
   {
     "name": "Niveau 73",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 2e et 3e position est 4.",
       "- La somme des chiffres impairs est 3.",
@@ -834,14 +834,14 @@
       "- La somme des chiffres en 1e, 3e et 5e positions est 6.",
       "- La somme des chiffres pairs est 14.",
       "- Le chiffre en 4e position est impair. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "08630"
   },
   {
     "name": "Niveau 75",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e positions sont égaux.",
       "- La somme des chiffres impairs est 17.",
       "- Les chiffres en 1e, 2e et 5e positions sont impairs. Les autres sont pairs.",
@@ -852,8 +852,8 @@
   {
     "name": "Niveau 76",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 4e position est 5.",
       "- La somme des chiffres pairs est 12.",
       "- La somme des chiffres est 14.",
@@ -864,7 +864,7 @@
   {
     "name": "Niveau 77",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Le code ne contient pas de chiffre 3.",
       "- La somme des chiffres en 3e et 5e position est 6.",
@@ -888,7 +888,7 @@
   {
     "name": "Niveau 79",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e et ceux en 2e et 4e positions sont égaux.",
       "- La somme des chiffres pairs est 4.",
       "- La somme des chiffres impairs est 12.",
@@ -902,7 +902,7 @@
       "- Les chiffres en 1e et 4e et ceux en 2e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 3e position est 8.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 13.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 8."
     ],
     "correctAnswer": "58058"
@@ -910,19 +910,19 @@
   {
     "name": "Niveau 81",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- La somme des chiffres en 2e et 5e position est 12.",
       "- La somme des chiffres en 1e, 2e et 4e positions est 18.",
       "- Les chiffres en 1e, 2e, 4e et 5e positions sont pairs. Les autres sont impairs.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "84568"
   },
   {
     "name": "Niveau 82",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 4e et 5e positions sont égaux.",
       "- La somme des chiffres en 1e, 3e et 4e positions est 16.",
       "- La somme des chiffres pairs est 12.",
@@ -936,7 +936,7 @@
       "- La somme des chiffres en 1e et 3e position est 8.",
       "- La somme des chiffres en 1e et 4e position est 9.",
       "- La somme des chiffres pairs est 4.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 2."
     ],
     "correctAnswer": "55345"
@@ -944,7 +944,7 @@
   {
     "name": "Niveau 84",
     "hints": [
-      "- Les chiffres en 2e, 3e et 4e positions se suivent.",
+      "- Les chiffres en 2e, 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 6.",
       "- La somme des chiffres en 4e et 5e position est 7.",
       "- La somme des chiffres impairs est 6.",
@@ -960,17 +960,17 @@
       "- Les chiffres en 1e, 2e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 20.",
       "- La somme des chiffres impairs est 8.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "84583"
   },
   {
     "name": "Niveau 86",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 1.",
       "- Les chiffres en 1e, 3e et 5e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 8."
     ],
     "correctAnswer": "30783"
@@ -982,7 +982,7 @@
       "- La somme des chiffres en 1e, 2e et 5e positions est 8.",
       "- La somme des chiffres pairs est 12.",
       "- Les chiffres en 1e, 2e et 4e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "11616"
   },
@@ -1023,11 +1023,11 @@
   {
     "name": "Niveau 91",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 2e et 5e position est 8.",
       "- Les chiffres en 1e, 2e, 3e et 5e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "11787"
@@ -1046,19 +1046,19 @@
   {
     "name": "Niveau 93",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- Les chiffres en 1e, 2e, 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 10.",
       "- La somme des chiffres impairs est 5.",
-      "- Il y a 1 chiffre superieur a 4."
+      "- Il y a 1 chiffre supérieur a 4."
     ],
     "correctAnswer": "22254"
   },
   {
     "name": "Niveau 94",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 5e et ceux en 3e et 4e positions sont égaux.",
       "- La somme des chiffres pairs est 6.",
       "- Les chiffres en 3e et 4e positions sont impairs. Les autres sont pairs.",
@@ -1069,7 +1069,7 @@
   {
     "name": "Niveau 95",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 4e positions sont égaux.",
       "- La somme des chiffres en 3e, 4e et 5e positions est 8.",
       "- Il y a 4 chiffres impairs.",
@@ -1091,19 +1091,19 @@
   {
     "name": "Niveau 97",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 2e et 4e positions est 11.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 10.",
       "- Il y a 3 chiffres impairs.",
       "- La somme des chiffres pairs est 6.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "05367"
   },
   {
     "name": "Niveau 98",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 2e et 3e position est 2.",
       "- La somme des chiffres en 1e, 2e et 4e positions est 6.",
       "- La somme des chiffres pairs est 2.",
@@ -1114,7 +1114,7 @@
   {
     "name": "Niveau 99",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 3e et 4e positions sont égaux.",
       "- La somme des chiffres pairs est 12.",
       "- Les chiffres en 1e, 3e et 4e positions sont impairs. Les autres sont pairs.",
@@ -1142,14 +1142,14 @@
       "- Les chiffres en 2e, 3e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 20.",
       "- La somme des chiffres impairs est 8.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "56863"
   },
   {
     "name": "Niveau 102",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- Les chiffres en 4e et 5e positions sont impairs. Les autres sont pairs.",
       "- La somme des chiffres est 30.",
@@ -1171,12 +1171,12 @@
   {
     "name": "Niveau 104",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 2e et 5e position est 9.",
       "- Les chiffres en 1e, 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 16.",
       "- La somme des chiffres impairs est 6.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 7."
     ],
     "correctAnswer": "85414"
@@ -1195,12 +1195,12 @@
   {
     "name": "Niveau 106",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 4.",
       "- La somme des chiffres en 3e et 4e position est 10.",
       "- La somme des chiffres en 1e, 3e et 5e positions est 13.",
       "- Les chiffres en 1e et 2e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "53286"
@@ -1208,7 +1208,7 @@
   {
     "name": "Niveau 107",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 2e et 3e position est 10.",
       "- La somme des chiffres pairs est 4.",
       "- Les chiffres en 1e, 2e, 3e et 4e positions sont impairs. Les autres sont pairs.",
@@ -1219,11 +1219,11 @@
   {
     "name": "Niveau 108",
     "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 4e positions sont égaux.",
       "- La somme des chiffres en 2e et 5e position est 7.",
       "- La somme des chiffres impairs est 6.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "26521"
@@ -1231,11 +1231,11 @@
   {
     "name": "Niveau 109",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 3e et 5e position est 14.",
       "- Les chiffres en 1e et 2e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 31.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 4."
     ],
     "correctAnswer": "48757"
@@ -1243,7 +1243,7 @@
   {
     "name": "Niveau 110",
     "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- Les chiffres en 3e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 21.",
@@ -1257,7 +1257,7 @@
       "- Les chiffres en 1e, 2e et 5e positions sont égaux.",
       "- La somme des chiffres impairs est 16.",
       "- Les chiffres en 1e, 2e, 4e et 5e positions sont impairs. Les autres sont pairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "55015"
@@ -1290,7 +1290,7 @@
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 3e et 5e position est 17.",
       "- Les chiffres en 4e et 5e positions sont pairs. Les autres sont impairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "93948"
@@ -1310,7 +1310,7 @@
   {
     "name": "Niveau 116",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e et 4e position est 11.",
       "- La somme des chiffres est 32.",
@@ -1321,7 +1321,7 @@
   {
     "name": "Niveau 117",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e, 4e et 5e positions est 18.",
       "- Les chiffres en 2e, 3e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 28.",
@@ -1332,11 +1332,11 @@
   {
     "name": "Niveau 118",
     "hints": [
-      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 2e et 3e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 1e et 4e position est 11.",
       "- Les chiffres en 1e, 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 12.",
-      "- Il y a 3 chiffres superieurs a 4."
+      "- Il y a 3 chiffres supérieurs a 4."
     ],
     "correctAnswer": "61056"
   },
@@ -1365,10 +1365,10 @@
   {
     "name": "Niveau 121",
     "hints": [
-      "- Les chiffres en 1e, 2e et 3e positions se suivent.",
+      "- Les chiffres en 1e, 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 3e et 4e position est 11.",
       "- Il y a 3 chiffres impairs.",
-      "- Il y a 4 chiffres superieurs a 4.",
+      "- Il y a 4 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 4."
     ],
     "correctAnswer": "76563"
@@ -1376,7 +1376,7 @@
   {
     "name": "Niveau 122",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 2e et 4e position est 13.",
       "- La somme des chiffres en 4e et 5e position est 9.",
       "- Les chiffres en 1e, 3e et 4e positions sont impairs. Les autres sont pairs.",
@@ -1387,7 +1387,7 @@
   {
     "name": "Niveau 123",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 3.",
       "- Les chiffres en 3e et 5e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 21.",
@@ -1398,7 +1398,7 @@
   {
     "name": "Niveau 124",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres en 2e et 3e position est 2.",
       "- Les chiffres en 1e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres impairs est 9.",
@@ -1409,8 +1409,8 @@
   {
     "name": "Niveau 125",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres impairs est 15.",
       "- La somme des chiffres est 31.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
@@ -1431,7 +1431,7 @@
   {
     "name": "Niveau 127",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e, 4e et 5e positions sont égaux.",
       "- Le code ne contient pas de chiffre 2.",
       "- La somme des chiffres pairs est 20.",
@@ -1442,36 +1442,36 @@
   {
     "name": "Niveau 128",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 2e positions sont égaux.",
       "- La somme des chiffres en 4e et 5e position est 9.",
       "- Les chiffres en 1e, 2e, 3e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 21.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "22845"
   },
   {
     "name": "Niveau 129",
     "hints": [
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- Le code ne contient pas de chiffre 5.",
       "- La somme des chiffres en 3e et 5e position est 8.",
       "- Les chiffres en 2e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres pairs est 12.",
       "- La somme des chiffres est 23.",
-      "- Il y a 2 chiffres superieurs a 4."
+      "- Il y a 2 chiffres supérieurs a 4."
     ],
     "correctAnswer": "38741"
   },
   {
     "name": "Niveau 130",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Les chiffres en 2e et 4e positions sont pairs. Les autres sont impairs.",
       "- La somme des chiffres est 23.",
-      "- Il y a 2 chiffres superieurs a 4.",
+      "- Il y a 2 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 6."
     ],
     "correctAnswer": "38723"
@@ -1479,7 +1479,7 @@
   {
     "name": "Niveau 131",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- Le code ne contient pas de chiffre 0.",
       "- La somme des chiffres en 4e et 5e position est 9.",
@@ -1501,11 +1501,11 @@
   {
     "name": "Niveau 133",
     "hints": [
-      "- Les chiffres en 4e et 5e positions se suivent.",
+      "- Les chiffres en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e, 2e et 4e positions est 19.",
       "- La somme des chiffres pairs est 16.",
-      "- Il y a 4 chiffres superieurs a 4."
+      "- Il y a 4 chiffres supérieurs a 4."
     ],
     "correctAnswer": "96645"
   },
@@ -1524,7 +1524,7 @@
   {
     "name": "Niveau 135",
     "hints": [
-      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent.",
+      "- Les chiffres en 1e et 2e et ceux en 4e et 5e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 1e et 5e positions sont égaux.",
       "- La somme des chiffres en 1e et 4e position est 3.",
       "- Il y a 3 chiffres impairs.",
@@ -1535,11 +1535,11 @@
   {
     "name": "Niveau 136",
     "hints": [
-      "- Les chiffres en 3e et 4e positions se suivent.",
+      "- Les chiffres en 3e et 4e positions se suivent (en ordre croissant ou décroissant).",
       "- Les chiffres en 2e et 3e positions sont égaux.",
       "- La somme des chiffres en 1e et 4e position est 10.",
       "- Les chiffres en 1e, 4e et 5e positions sont pairs. Les autres sont impairs.",
-      "- Il y a 3 chiffres superieurs a 4.",
+      "- Il y a 3 chiffres supérieurs a 4.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 5."
     ],
     "correctAnswer": "47762"
@@ -1547,8 +1547,8 @@
   {
     "name": "Niveau 137",
     "hints": [
-      "- Les chiffres en 1e et 2e positions se suivent.",
-      "- Les chiffres en 2e et 3e positions se suivent.",
+      "- Les chiffres en 1e et 2e positions se suivent (en ordre croissant ou décroissant).",
+      "- Les chiffres en 2e et 3e positions se suivent (en ordre croissant ou décroissant).",
       "- La somme des chiffres pairs est 20.",
       "- La somme des chiffres impairs est 3.",
       "- La différence entre le chiffre le plus grand et le plus petit est de 3."

@@ -18,12 +18,12 @@ public class NumberOfOverFourHint extends Hint{
     @Override
     public String showHintInFrench() {
         if (numberOfOverFour == 0){
-            return "- Il n'y a aucun chiffre superieur a 4.";
+            return "- Il n'y a aucun chiffre supérieur a 4.";
         } else
         if (numberOfOverFour == 1){
-            return "- Il y a 1 chiffre superieur a 4.";
+            return "- Il y a 1 chiffre supérieur a 4.";
         }
-        return "- Il y a " + numberOfOverFour + " chiffres superieurs a 4.";
+        return "- Il y a " + numberOfOverFour + " chiffres supérieurs a 4.";
     }
 
     @Override
