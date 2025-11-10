@@ -13,6 +13,14 @@ public class MaxDiffHint extends Hint{
         super(HintType.MAX_DIFF_HINT);
         this.maxDiff = maxDiff;
     }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setResult(maxDiff);
+        hintStructures.add(hintStructure);
+    }
     @Override
     public String showHintInFrench() {
         return "- La différence entre le chiffre le plus grand et le plus petit est de " + maxDiff + ".";

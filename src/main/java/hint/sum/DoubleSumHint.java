@@ -1,6 +1,7 @@
 package hint.sum;
 
 import hint.Hint;
+import hint.HintStructure;
 import hint.HintType;
 import model.Code;
 import model.Language;
@@ -30,6 +31,15 @@ public class DoubleSumHint extends SumHint{
     @Override
     public String showHintInEnglish() {
         return "- The sum of the digits at " + translatePosition(position1, Language.ENGLISH) + " and " + translatePosition(position2, Language.ENGLISH) + " positions is " + sum + ".";
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setConcernedPositions(List.of(position1, position2));
+        hintStructure.setResult(this.sum);
+        this.hintStructures.add(hintStructure);
     }
 
     @Override

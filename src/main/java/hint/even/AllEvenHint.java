@@ -1,22 +1,32 @@
 package hint.even;
 
 import hint.Hint;
+import hint.HintStructure;
 import hint.HintType;
 import hint.PositionTranslator;
 import model.Code;
 import model.Language;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
 public class AllEvenHint extends Hint {
 
-    Set<Integer> evenPositions;
+    private Set<Integer> evenPositions;
 
     public AllEvenHint(Set<Integer> evenPositions) {
         super(HintType.ALL_EVEN_HINT);
         this.evenPositions = evenPositions;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setConcernedPositions(new ArrayList<>(evenPositions));
+        this.hintStructures.add(hintStructure);
     }
 
     private String buildPositionString(Language language){

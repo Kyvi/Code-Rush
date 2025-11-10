@@ -1,6 +1,7 @@
 package hint.sum;
 
 import hint.Hint;
+import hint.HintStructure;
 import hint.HintType;
 import hint.PositionTranslator;
 import model.Code;
@@ -8,6 +9,7 @@ import model.Language;
 
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class TripleSumHint extends SumHint{
 
@@ -20,6 +22,15 @@ public class TripleSumHint extends SumHint{
         this.position1 = position1;
         this.position2 = position2;
         this.position3 = position3;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setConcernedPositions(List.of(position1, position2, position3));
+        hintStructure.setResult(this.sum);
+        this.hintStructures.add(hintStructure);
     }
 
 

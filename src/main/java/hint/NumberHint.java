@@ -17,6 +17,15 @@ public class NumberHint extends Hint{
         this.number = number;
     }
 
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setConcernedPositions(List.of(position));
+        hintStructure.setResult(number);
+        hintStructures.add(hintStructure);
+    }
+
     public int getPosition(){
         return position;
     }

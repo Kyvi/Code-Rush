@@ -14,6 +14,14 @@ public class NoNumberHint extends Hint{
         this.number = number;
     }
 
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setResult(number);
+        hintStructures.add(hintStructure);
+    }
+
 
     @Override
     public String showHintInFrench() {

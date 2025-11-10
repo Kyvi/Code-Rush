@@ -1,6 +1,7 @@
 package hint.even;
 
 import hint.Hint;
+import hint.HintStructure;
 import hint.HintType;
 import model.Code;
 
@@ -14,6 +15,14 @@ public class NumberOfEvenHint extends Hint {
     public NumberOfEvenHint(int numberOfEven) {
         super(HintType.NUMBER_OF_EVEN_HINT);
         this.numberOfEven = numberOfEven;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setResult(numberOfEven);
+        this.hintStructures.add(hintStructure);
     }
 
 

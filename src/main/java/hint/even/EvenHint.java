@@ -1,6 +1,7 @@
 package hint.even;
 
 import hint.Hint;
+import hint.HintStructure;
 import hint.HintType;
 import hint.PositionTranslator;
 import model.Code;
@@ -8,6 +9,7 @@ import model.Language;
 
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class EvenHint extends Hint {
 
@@ -22,6 +24,15 @@ public class EvenHint extends Hint {
 
     public int getPosition(){
         return position;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setConcernedPositions(List.of(position));
+        hintStructure.setResult(isEven ? 0 : 1);
+        this.hintStructures.add(hintStructure);
     }
 
 

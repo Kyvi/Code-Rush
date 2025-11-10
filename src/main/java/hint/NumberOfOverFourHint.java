@@ -4,6 +4,7 @@ import model.Code;
 
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class NumberOfOverFourHint extends Hint{
 
@@ -12,6 +13,14 @@ public class NumberOfOverFourHint extends Hint{
     public NumberOfOverFourHint(int numberOfOverFive){
         super(HintType.NUMBER_OF_OVER_FOUR_HINT);
         this.numberOfOverFour = numberOfOverFive;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        HintStructure hintStructure = new HintStructure();
+        hintStructure.setHintType(this.getHintType().name());
+        hintStructure.setResult(numberOfOverFour);
+        hintStructures.add(hintStructure);
     }
 
 

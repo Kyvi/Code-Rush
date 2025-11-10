@@ -3,8 +3,10 @@ package hint;
 import model.Code;
 import model.Language;
 
+import java.util.HashSet;
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class FollowingHint extends Hint{
 
@@ -13,6 +15,16 @@ public class FollowingHint extends Hint{
     public FollowingHint(List<List<Integer>> followingPositions){
         super(HintType.FOLLOWING_HINT);
         this.followingPositions = followingPositions;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        for(List<Integer> followingPosition: followingPositions){
+            HintStructure hintStructure = new HintStructure();
+            hintStructure.setHintType(this.getHintType().name());
+            hintStructure.setConcernedPositions(followingPosition);
+            this.hintStructures.add(hintStructure);
+        }
     }
 
     protected String buildPositionString(Language language) {

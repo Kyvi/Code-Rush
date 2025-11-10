@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff32c687-bc73-41c0-9c80-e7183105e10e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/AscendingFollowingHint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hint/DescendingFollowingHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hint/HintStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hint/HintText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easyLevelsEN.json" beforeDir="false" afterPath="$PROJECT_DIR$/easyLevelsEN.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easyLevelsFR.json" beforeDir="false" afterPath="$PROJECT_DIR$/easyLevelsFR.json" afterDir="false" />
@@ -15,8 +17,24 @@
       <change beforePath="$PROJECT_DIR$/normalLevelsEN.json" beforeDir="false" afterPath="$PROJECT_DIR$/normalLevelsEN.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/normalLevelsFR.json" beforeDir="false" afterPath="$PROJECT_DIR$/normalLevelsFR.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/EqualityHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/EqualityHint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hint/FollowingHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/FollowingHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/Hint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/Hint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/MaxDiffHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/MaxDiffHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/NoNumberHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NoNumberHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/NumberHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NumberHint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hint/NumberOfOverFourHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/NumberOfOverFourHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/AllEvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllEvenHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/AllOddHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/AllOddHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/EvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/EvenHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfEvenHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/even/NumberOfOddHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllEvenSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllEvenSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllOddSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllOddSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/AllSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/AllSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/DoubleSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/DoubleSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hint/sum/TripleSumHint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hint/sum/TripleSumHint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Level.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/veryEasyLevelsEN.json" beforeDir="false" afterPath="$PROJECT_DIR$/veryEasyLevelsEN.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/veryEasyLevelsFR.json" beforeDir="false" afterPath="$PROJECT_DIR$/veryEasyLevelsFR.json" afterDir="false" />
     </list>
@@ -54,10 +72,10 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Solve5" />
@@ -65,9 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Player" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Player" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/DiceGame.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.Player" />
       </list>
     </recent_temporary>
   </component>
@@ -97,12 +131,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <condition expression="remainingCodes.size() == 2" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/main/java/hint/HintGenerator.java</url>
-          <line>210</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Solve5$Player.ic" NAME="Player Coverage Results" MODIFIED="1743871326859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

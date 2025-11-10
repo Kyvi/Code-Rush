@@ -35,3 +35,7 @@ C
 normalLevelsFR.json,2\0\20ec757249ed1f133a653199a0fd9f466d5b3d59
 A
 hardLevelsFR.json,7\3\7399dc301447be856ed59564bc3d09c10ff8637e
+A
+hardLevelsEN.json,9\e\9e9e897a0a73811ecbfb335bc92b9a3d229cf37b
+R
+"src/main/java/hint/NumberHint.java,9\0\903a2243e6240e174bf25f180f5b83fffa5a3116

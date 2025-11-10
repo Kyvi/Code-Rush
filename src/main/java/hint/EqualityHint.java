@@ -5,6 +5,7 @@ import model.Language;
 
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class EqualityHint extends Hint{
 
@@ -13,6 +14,16 @@ public class EqualityHint extends Hint{
     public EqualityHint(List<List<Integer>> equalPositions){
         super(HintType.EQUALITY_HINT);
         this.equalPositions = equalPositions;
+    }
+
+    @Override
+    public void buildHintStructure() {
+        for(List<Integer> equalPosition: equalPositions){
+            HintStructure hintStructure = new HintStructure();
+            hintStructure.setHintType(this.getHintType().name());
+            hintStructure.setConcernedPositions(equalPosition);
+            this.hintStructures.add(hintStructure);
+        }
     }
 
     private String buildPositionString(Language language) {

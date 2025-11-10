@@ -1,0 +1,6 @@
+
+l	java:S1277"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+i
+java:S6201?"NReplace this instanceof check and cast with 'instanceof NumberHint numberHint'(¥Çúÿÿÿÿ
+i
+java:S6201H"NReplace this instanceof check and cast with 'instanceof NumberHint numberHint'(¶˜¬Éùÿÿÿÿ

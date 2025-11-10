@@ -2,6 +2,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import hint.Hint;
 import hint.HintGenerator;
+import hint.HintText;
 import model.Code;
 import model.Language;
 import model.Level;
@@ -18,7 +19,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int nbLevels = 1000;
+        int nbLevels = 1000 ;
         int nbVeryEasy = 0;
         int nbEasy = 0;
         int nbNormal = 0;
@@ -45,8 +46,9 @@ public class Main {
             boolean isEasy = !isVeryEasy && (hints.size() < 5 || hints.stream().filter(hint -> hint.getHintType().isEasy()).count() > 1);
             boolean isHard = !isEasy && (hints.size() >= 5 && hints.stream().noneMatch(hint -> hint.getHintType().isEasy()));
 
-            List<String> frenchLevelHints = hints.stream().map(hint -> hint.showHint(Language.FRENCH)).collect(Collectors.toList());
-            List<String> englishLevelHints = hints.stream().map(hint -> hint.showHint(Language.ENGLISH)).collect(Collectors.toList());
+            hints.forEach(Hint::buildHintStructure);
+            List<HintText> frenchLevelHints = hints.stream().map(Hint::buildFrenchHintText).collect(Collectors.toList());
+            List<HintText> englishLevelHints = hints.stream().map(Hint::buildEnglishHintText).collect(Collectors.toList());
             //levelHints.add(0,"- Le code est de longueur " + Code.CODE_LENGTH + ", et contient des chiffres de 0 a 9.");
             /*System.out.println("Voici les indices :");
             System.out.println("Le code est de longueur " + Code.CODE_LENGTH + ", et contient des chiffres de 0 a 9.");
@@ -72,12 +74,6 @@ public class Main {
             Level frenchLevel = new Level("Niveau " + levelNumber, frenchLevelHints, code.toString());
             Level englishLevel = new Level("Level " + levelNumber, englishLevelHints, code.toString());
 
-            System.out.println("Niveau " + (i+1) + " généré avec succès !");
-            System.out.println("Nombre de niveau très facile : " + nbVeryEasy);
-            System.out.println("Nombre de niveau facile : " + nbEasy);
-            System.out.println("Nombre de niveau moyen : " + nbNormal);
-            System.out.println("Nombre de niveau difficile : " + nbHard);
-
             if(isVeryEasy){
                 veryEasyFrenchLevels.add(frenchLevel);
                 veryEasyEnglishLevels.add(englishLevel);
@@ -98,6 +94,12 @@ public class Main {
                 normalEnglishLevels.add(englishLevel);
                 nbNormal++;
             }
+
+            System.out.println("Niveau " + (i+1) + " généré avec succès !");
+            System.out.println("Nombre de niveau très facile : " + nbVeryEasy);
+            System.out.println("Nombre de niveau facile : " + nbEasy);
+            System.out.println("Nombre de niveau moyen : " + nbNormal);
+            System.out.println("Nombre de niveau difficile : " + nbHard);
 
         }
 
