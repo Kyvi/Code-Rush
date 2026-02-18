@@ -1,10 +1,10 @@
-🔐 5-Digit Code & Hint Generator (Code Rush Engine)
+🔐 <b>5-Digit Code & Hint Generator (Code Rush Engine)</b>
 
 This project is a Java-based puzzle generator used in the mobile application Code-Rush: Battle of Brains.
 It generates random 5-digit secret codes along with structured logical hints that allow players to deduce the correct answer.
 The output is exported as JSON files grouped by difficulty level and language (English / French).
 
-🧠 How It Works
+🧠 <b>How It Works</b>
 
 The engine simulates a constraint-solving process:
 It initializes the full search space of 100,000 possible 5-digit codes (00000 → 99999).
@@ -25,33 +25,13 @@ HintGenerator.java
 All hint types are implemented in the:
 hint/ package
 
-📦 Example Generated Output
-{
-  "name": "Level 1",
-  "hints": [
-    {
-      "hintText": "- The digit in 2nd position is 3.",
-      "hintStructures": [
-        {
-          "hintType": "NUMBER_HINT",
-          "concernedPositions": [1],
-          "result": 3
-        }
-      ]
-    },
-    {...}
-  ],
-  "correctAnswer": "43642"
-}
-
-
 Each hint contains:
 
 A human-readable text version
 A structured representation used by the mobile app
 A deterministic filtering rule
 
-🏗 Architecture Overview
+🏗 <b>Architecture Overview</b>
 
 Language: Java
 Pattern: Constraint filtering engine
@@ -67,7 +47,7 @@ Candidate filtering
 
 Export formatting
 
-🚀 How to Run
+🚀 <b>How to Run</b>
 
 Open the project in your Java IDE.
 
