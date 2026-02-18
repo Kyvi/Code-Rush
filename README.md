@@ -73,3 +73,11 @@ Open the project in your Java IDE.
 
 Run:
 main.java
+
+## Design Considerations
+
+- Deterministic constraint filtering guarantees a unique solution.
+- Separation of concerns between generation logic and hint evaluation.
+- Easily extensible hint system via polymorphic hint types.
+- Designed to allow future performance optimizations if search space grows.
+
